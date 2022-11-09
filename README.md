@@ -23,7 +23,7 @@ The code and resources in this repository is used to augment the seed data to cr
 
 
 [^1]: https://isimbulamadim.com/
-[^2]: "f" for female, "m" for male, "u" for unisex.
+[^2]: "f" for feminine, "m" for masculine, "u" for unisex.
 [^3]: "ar" for Arabic, "ge" for Georgian, "gr" for Greek, "hb" for Hebrew, "mg" for Mongolian, "pr" for Persian, "tr" for Turkish, and "n/a" for unknown origins. Please note that some names were recorded as having two origins, i.e. ar-tr.
 [^4]: **intensional operator:** Any expression O that combines with sentences φ to form well-formed expressions (usually sentences) Oφ and whose extension [[O]][^M,i]
 at an index _i_ in a model M takes sentential intensions, i.e. functions from indices to truth values. (Wehmeier, K. F. (2018). Are quantifiers intensional operators?. _Inquiry_.)
