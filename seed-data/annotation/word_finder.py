@@ -1,5 +1,5 @@
 import re
-from file_reader import read_file
+from file_handler import read_file, write_to_file, create_csv
 from collections import defaultdict
 
 def get_forms(filename):
@@ -19,4 +19,9 @@ def get_forms(filename):
 		#UNUSED
 
 	return forms.keys()
+
+forms = get_forms("part_4.conllu")
+
+data = ",".join(forms)
+create_csv(forms, "part_4_forms.csv")
 
