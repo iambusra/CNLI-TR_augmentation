@@ -20,8 +20,8 @@ def get_forms(filename):
 
 	return forms.keys()
 
-forms = get_forms("part_4.conllu")
+forms = get_forms("split_1.conllu")
 
 data = ",".join(forms)
-create_csv(forms, "part_4_forms.csv")
+create_csv(forms, "split_1.csv")
 

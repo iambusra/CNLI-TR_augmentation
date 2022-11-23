@@ -1,0 +1,4216 @@
+# sent_id = aca_95138
+# text = Deniz bir dili konuşmak isterse kesinlikle hemen öğrenir.
+1	Deniz	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	dili	_	_	_	_	_	_	_	_
+4	konuşmak	_	_	_	_	_	_	_	_
+5	isterse	_	_	_	_	_	_	_	_
+6	kesinlikle	_	_	_	_	_	_	_	_
+7	hemen	_	_	_	_	_	_	_	_
+8	öğrenir	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = axb_94395
+# text = Ayşe bir otele gitmek istiyor.
+1	Ayşe	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	otele	_	_	_	_	_	_	_	_
+4	gitmek	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = ajc_34053
+# text = Bir sıvacının işini herkesten iyi yaptığını Gönül düşünüyor.
+1	Bir	_	_	_	_	_	_	_	_
+2	sıvacının	_	_	_	_	_	_	_	_
+3	işini	_	_	_	_	_	_	_	_
+4	herkesten	_	_	_	_	_	_	_	_
+5	iyi	_	_	_	_	_	_	_	_
+6	yaptığını	_	_	_	_	_	_	_	_
+7	Gönül	_	_	_	_	_	_	_	_
+8	düşünüyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = ahr_20286
+# text = Ali bir kitabın sana yardımcı olacağını düşünüyor.
+1	Ali	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	kitabın	_	_	_	_	_	_	_	_
+4	sana	_	_	_	_	_	_	_	_
+5	yardımcı	_	_	_	_	_	_	_	_
+6	olacağını	_	_	_	_	_	_	_	_
+7	düşünüyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = acj_65811
+# text = Melahat bir okuldan mezun olmak istiyor.
+1	Melahat	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	okuldan	_	_	_	_	_	_	_	_
+4	mezun	_	_	_	_	_	_	_	_
+5	olmak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = alb_31480
+# text = Kerem başka bir manzaraya bakmak istiyor.
+1	Kerem	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	manzaraya	_	_	_	_	_	_	_	_
+5	bakmak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = adw_97088
+# text = Pelin uzman bir doktor görmek istiyor.
+1	Pelin	_	_	_	_	_	_	_	_
+2	uzman	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	doktor	_	_	_	_	_	_	_	_
+5	görmek	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = aso_68167
+# text = Ayşe tecrübeli bir reklamcı ile çalışmak istiyor.
+1	Ayşe	_	_	_	_	_	_	_	_
+2	tecrübeli	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	reklamcı	_	_	_	_	_	_	_	_
+5	ile	_	_	_	_	_	_	_	_
+6	çalışmak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = acf_11772
+# text = seninki gibi bir öneride bulunmak istiyor ajanstakiler.
+1	seninki	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	öneride	_	_	_	_	_	_	_	_
+5	bulunmak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	ajanstakiler	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = aco_96111
+# text = Belma bir vapur yolculuğuna yalnız çıkmak istiyor.
+1	Belma	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	vapur	_	_	_	_	_	_	_	_
+4	yolculuğuna	_	_	_	_	_	_	_	_
+5	yalnız	_	_	_	_	_	_	_	_
+6	çıkmak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = aam_61913
+# text = Bir müşteriye Mehmet bakmak istiyor.
+1	Bir	_	_	_	_	_	_	_	_
+2	müşteriye	_	_	_	_	_	_	_	_
+3	Mehmet	_	_	_	_	_	_	_	_
+4	bakmak	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = ass_30171
+# text = senin yaptığın gibi bir sebze yemeğinden yemek istiyor Ceylan.
+1	senin	_	_	_	_	_	_	_	_
+2	yaptığın	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	sebze	_	_	_	_	_	_	_	_
+6	yemeğinden	_	_	_	_	_	_	_	_
+7	yemek	_	_	_	_	_	_	_	_
+8	istiyor	_	_	_	_	_	_	_	_
+9	Ceylan	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = arj_14108
+# text = Başka bir resmi çizmek istiyor Abidin.
+1	Başka	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	resmi	_	_	_	_	_	_	_	_
+4	çizmek	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	Abidin	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = ada_47304
+# text = Müjdat başka bir şirkette çalışmak istiyor.
+1	Müjdat	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	şirkette	_	_	_	_	_	_	_	_
+5	çalışmak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = aal_68569
+# text = Elif bir kaza geçirirse büyük ihtimalle ona kimse ulaşamaz.
+1	Elif	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	kaza	_	_	_	_	_	_	_	_
+4	geçirirse	_	_	_	_	_	_	_	_
+5	büyük	_	_	_	_	_	_	_	_
+6	ihtimalle	_	_	_	_	_	_	_	_
+7	ona	_	_	_	_	_	_	_	_
+8	kimse	_	_	_	_	_	_	_	_
+9	ulaşamaz	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = aij_39755
+# text = Bir ekmeğin kaç lira olduğunu Recep uzun zamandır sorgulamamıştı.
+1	Bir	_	_	_	_	_	_	_	_
+2	ekmeğin	_	_	_	_	_	_	_	_
+3	kaç	_	_	_	_	_	_	_	_
+4	lira	_	_	_	_	_	_	_	_
+5	olduğunu	_	_	_	_	_	_	_	_
+6	Recep	_	_	_	_	_	_	_	_
+7	uzun	_	_	_	_	_	_	_	_
+8	zamandır	_	_	_	_	_	_	_	_
+9	sorgulamamıştı	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = afh_86821
+# text = Seda gelecekte bir ev satın almasının zorunlu olduğunu düşünüyor.
+1	Seda	_	_	_	_	_	_	_	_
+2	gelecekte	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	ev	_	_	_	_	_	_	_	_
+5	satın	_	_	_	_	_	_	_	_
+6	almasının	_	_	_	_	_	_	_	_
+7	zorunlu	_	_	_	_	_	_	_	_
+8	olduğunu	_	_	_	_	_	_	_	_
+9	düşünüyor	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = ane_55811
+# text = Süreyya bir tekne gezisine katılması gerektiğini söylüyor.
+1	Süreyya	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	tekne	_	_	_	_	_	_	_	_
+4	gezisine	_	_	_	_	_	_	_	_
+5	katılması	_	_	_	_	_	_	_	_
+6	gerektiğini	_	_	_	_	_	_	_	_
+7	söylüyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = atd_29818
+# text = Bunun gibi bir konuda konuşmak istiyor Asude.
+1	Bunun	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	konuda	_	_	_	_	_	_	_	_
+5	konuşmak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	Asude	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = aox_55011
+# text = Yağız kendine yeni bir arkadaş edinmek istiyor.
+1	Yağız	_	_	_	_	_	_	_	_
+2	kendine	_	_	_	_	_	_	_	_
+3	yeni	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	arkadaş	_	_	_	_	_	_	_	_
+6	edinmek	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = afp_13089
+# text = Cenk bir araba satın alırsa mutlu olacağını düşünüyor.
+1	Cenk	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	araba	_	_	_	_	_	_	_	_
+4	satın	_	_	_	_	_	_	_	_
+5	alırsa	_	_	_	_	_	_	_	_
+6	mutlu	_	_	_	_	_	_	_	_
+7	olacağını	_	_	_	_	_	_	_	_
+8	düşünüyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = acg_70393
+# text = Ali kuyumcuya bir hırsızın girdiğini mi iddia ediyor?
+1	Ali	_	_	_	_	_	_	_	_
+2	kuyumcuya	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	hırsızın	_	_	_	_	_	_	_	_
+5	girdiğini	_	_	_	_	_	_	_	_
+6	mi	_	_	_	_	_	_	_	_
+7	iddia	_	_	_	_	_	_	_	_
+8	ediyor	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = amv_11585
+# text = Ev arkadaşım bir kediye bakmak istiyor.
+1	Ev	_	_	_	_	_	_	_	_
+2	arkadaşım	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	kediye	_	_	_	_	_	_	_	_
+5	bakmak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = atk_69967
+# text = Gülsüm deniz gören bir yazlık almak istiyormuş.
+1	Gülsüm	_	_	_	_	_	_	_	_
+2	deniz	_	_	_	_	_	_	_	_
+3	gören	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	yazlık	_	_	_	_	_	_	_	_
+6	almak	_	_	_	_	_	_	_	_
+7	istiyormuş	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = afk_12201
+# text = şuradaki gibi bir ev almak istiyorum.
+1	şuradaki	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	ev	_	_	_	_	_	_	_	_
+5	almak	_	_	_	_	_	_	_	_
+6	istiyorum	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = aao_56565
+# text = Başka bir fotoğrafı bastırmak istiyor Yiğit.
+1	Başka	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	fotoğrafı	_	_	_	_	_	_	_	_
+4	bastırmak	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	Yiğit	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = avv_70863
+# text = Bener buradaki gibi bir fotoğrafta yer almak istiyor.
+1	Bener	_	_	_	_	_	_	_	_
+2	buradaki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	fotoğrafta	_	_	_	_	_	_	_	_
+6	yer	_	_	_	_	_	_	_	_
+7	almak	_	_	_	_	_	_	_	_
+8	istiyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = axn_53042
+# text = Ona yardımcı olur diye bir kitap okumasını önerdim.
+1	Ona	_	_	_	_	_	_	_	_
+2	yardımcı	_	_	_	_	_	_	_	_
+3	olur	_	_	_	_	_	_	_	_
+4	diye	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	kitap	_	_	_	_	_	_	_	_
+7	okumasını	_	_	_	_	_	_	_	_
+8	önerdim	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = anm_56009
+# text = Hakan bir arkadaşına uğramak istiyor.
+1	Hakan	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	arkadaşına	_	_	_	_	_	_	_	_
+4	uğramak	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = aoj_65725
+# text = buğra'nınki gibi bir kitaptan alıntı yapmak istiyor Batu.
+1	buğra'nınki	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	kitaptan	_	_	_	_	_	_	_	_
+5	alıntı	_	_	_	_	_	_	_	_
+6	yapmak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	Batu	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = akg_52782
+# text = Filiz kırmızı bir araba almak istiyor.
+1	Filiz	_	_	_	_	_	_	_	_
+2	kırmızı	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	araba	_	_	_	_	_	_	_	_
+5	almak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = aia_47339
+# text = Yorgun bir şoför ile yola çıkmak istiyor Kenan.
+1	Yorgun	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	şoför	_	_	_	_	_	_	_	_
+4	ile	_	_	_	_	_	_	_	_
+5	yola	_	_	_	_	_	_	_	_
+6	çıkmak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	Kenan	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = alo_90930
+# text = Para biriktirdikten sonra kardeşim bir araba almak istiyor.
+1	Para	_	_	_	_	_	_	_	_
+2	biriktirdikten	_	_	_	_	_	_	_	_
+3	sonra	_	_	_	_	_	_	_	_
+4	kardeşim	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	araba	_	_	_	_	_	_	_	_
+7	almak	_	_	_	_	_	_	_	_
+8	istiyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = awv_24001
+# text = Akşam için pişirilen bir kurabiyenin kaç derecede pişirildiğini Abraham bilmiyordu.
+1	Akşam	_	_	_	_	_	_	_	_
+2	için	_	_	_	_	_	_	_	_
+3	pişirilen	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	kurabiyenin	_	_	_	_	_	_	_	_
+6	kaç	_	_	_	_	_	_	_	_
+7	derecede	_	_	_	_	_	_	_	_
+8	pişirildiğini	_	_	_	_	_	_	_	_
+9	Abraham	_	_	_	_	_	_	_	_
+10	bilmiyordu	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = acc_38891
+# text = Annemler tatilde bir yat kiralamak istiyor.
+1	Annemler	_	_	_	_	_	_	_	_
+2	tatilde	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	yat	_	_	_	_	_	_	_	_
+5	kiralamak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = azl_24210
+# text = restoranda servis edilen gibi bir tatlıdan yemek istiyor Süheyla.
+1	restoranda	_	_	_	_	_	_	_	_
+2	servis	_	_	_	_	_	_	_	_
+3	edilen	_	_	_	_	_	_	_	_
+4	gibi	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	tatlıdan	_	_	_	_	_	_	_	_
+7	yemek	_	_	_	_	_	_	_	_
+8	istiyor	_	_	_	_	_	_	_	_
+9	Süheyla	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = avd_78145
+# text = Leyla başka bir konu konuşmak istiyor.
+1	Leyla	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	konu	_	_	_	_	_	_	_	_
+5	konuşmak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = ahf_71931
+# text = Her katılımcı bir masaya oturmak gerektiğini düşündü.
+1	Her	_	_	_	_	_	_	_	_
+2	katılımcı	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	masaya	_	_	_	_	_	_	_	_
+5	oturmak	_	_	_	_	_	_	_	_
+6	gerektiğini	_	_	_	_	_	_	_	_
+7	düşündü	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = asu_38553
+# text = Uygar başka bir adamla dövüşmek istiyor.
+1	Uygar	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	adamla	_	_	_	_	_	_	_	_
+5	dövüşmek	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = aci_98521
+# text = bir bardak kırmak ister Pelin.
+1	bir	_	_	_	_	_	_	_	_
+2	bardak	_	_	_	_	_	_	_	_
+3	kırmak	_	_	_	_	_	_	_	_
+4	ister	_	_	_	_	_	_	_	_
+5	Pelin	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = aau_71899
+# text = Özlem bir öğrencinin bu soruyu çözebileceğini düşünüyor.
+1	Özlem	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	öğrencinin	_	_	_	_	_	_	_	_
+4	bu	_	_	_	_	_	_	_	_
+5	soruyu	_	_	_	_	_	_	_	_
+6	çözebileceğini	_	_	_	_	_	_	_	_
+7	düşünüyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = ayu_83025
+# text = Eda sadece bir yumurta ile kahvaltı yaparsa hemen acıkır.
+1	Eda	_	_	_	_	_	_	_	_
+2	sadece	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	yumurta	_	_	_	_	_	_	_	_
+5	ile	_	_	_	_	_	_	_	_
+6	kahvaltı	_	_	_	_	_	_	_	_
+7	yaparsa	_	_	_	_	_	_	_	_
+8	hemen	_	_	_	_	_	_	_	_
+9	acıkır	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = avl_81584
+# text = Okulu bırakıp bir işte çalışmak istiyormuş Oğuz.
+1	Okulu	_	_	_	_	_	_	_	_
+2	bırakıp	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	işte	_	_	_	_	_	_	_	_
+5	çalışmak	_	_	_	_	_	_	_	_
+6	istiyormuş	_	_	_	_	_	_	_	_
+7	Oğuz	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = aue_35617
+# text = Selin bir arkadaşını davet etmeyi düşünüyor.
+1	Selin	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	arkadaşını	_	_	_	_	_	_	_	_
+4	davet	_	_	_	_	_	_	_	_
+5	etmeyi	_	_	_	_	_	_	_	_
+6	düşünüyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = abl_33144
+# text = Şeyma en kısa zamanda kızıl saçlı bir kız öpmek istiyor.
+1	Şeyma	_	_	_	_	_	_	_	_
+2	en	_	_	_	_	_	_	_	_
+3	kısa	_	_	_	_	_	_	_	_
+4	zamanda	_	_	_	_	_	_	_	_
+5	kızıl	_	_	_	_	_	_	_	_
+6	saçlı	_	_	_	_	_	_	_	_
+7	bir	_	_	_	_	_	_	_	_
+8	kız	_	_	_	_	_	_	_	_
+9	öpmek	_	_	_	_	_	_	_	_
+10	istiyor	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = ajf_70518
+# text = Gaddar adam fidanlardan birini sökmeyi arzuluyordu.
+1	Gaddar	_	_	_	_	_	_	_	_
+2	adam	_	_	_	_	_	_	_	_
+3	fidanlardan	_	_	_	_	_	_	_	_
+4	birini	_	_	_	_	_	_	_	_
+5	sökmeyi	_	_	_	_	_	_	_	_
+6	arzuluyordu	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = ajs_53004
+# text = Yaren grupta bir kişinin ajan olduğunu düşünüyor.
+1	Yaren	_	_	_	_	_	_	_	_
+2	grupta	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	kişinin	_	_	_	_	_	_	_	_
+5	ajan	_	_	_	_	_	_	_	_
+6	olduğunu	_	_	_	_	_	_	_	_
+7	düşünüyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = akj_25372
+# text = Büşra bir arkadaşının ondan hoşlandığını düşünyor.
+1	Büşra	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	arkadaşının	_	_	_	_	_	_	_	_
+4	ondan	_	_	_	_	_	_	_	_
+5	hoşlandığını	_	_	_	_	_	_	_	_
+6	düşünyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = apb_29078
+# text = en kısa zamanda bir araba almak istiyormuş en yakın arkadaşım.
+1	en	_	_	_	_	_	_	_	_
+2	kısa	_	_	_	_	_	_	_	_
+3	zamanda	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	araba	_	_	_	_	_	_	_	_
+6	almak	_	_	_	_	_	_	_	_
+7	istiyormuş	_	_	_	_	_	_	_	_
+8	en	_	_	_	_	_	_	_	_
+9	yakın	_	_	_	_	_	_	_	_
+10	arkadaşım	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = ayp_59218
+# text = Barış yoğun bir haftasonundan sonra dinlenmek istiyor.
+1	Barış	_	_	_	_	_	_	_	_
+2	yoğun	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	haftasonundan	_	_	_	_	_	_	_	_
+5	sonra	_	_	_	_	_	_	_	_
+6	dinlenmek	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = ajp_77252
+# text = Mehmet onun gibi bir mühendisle çalışmak istiyor.
+1	Mehmet	_	_	_	_	_	_	_	_
+2	onun	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	mühendisle	_	_	_	_	_	_	_	_
+6	çalışmak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = aww_66895
+# text = başka bir okuldan mezun olmak istiyor Canan.
+1	başka	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	okuldan	_	_	_	_	_	_	_	_
+4	mezun	_	_	_	_	_	_	_	_
+5	olmak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	Canan	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = acn_38071
+# text = Güzide başka bir ev almak istiyor.
+1	Güzide	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	ev	_	_	_	_	_	_	_	_
+5	almak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = acf_72790
+# text = Aysu şunun gibi bir hamakta uyumak istiyor.
+1	Aysu	_	_	_	_	_	_	_	_
+2	şunun	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	hamakta	_	_	_	_	_	_	_	_
+6	uyumak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = ads_90043
+# text = Ozan okuduğu bölümü bırakıp başka bir bölüme geçmeyi planlıyormuş.
+1	Ozan	_	_	_	_	_	_	_	_
+2	okuduğu	_	_	_	_	_	_	_	_
+3	bölümü	_	_	_	_	_	_	_	_
+4	bırakıp	_	_	_	_	_	_	_	_
+5	başka	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	bölüme	_	_	_	_	_	_	_	_
+8	geçmeyi	_	_	_	_	_	_	_	_
+9	planlıyormuş	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = ajv_69460
+# text = Zülfikar başka bir uzman ile görüşmek istiyor.
+1	Zülfikar	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	uzman	_	_	_	_	_	_	_	_
+5	ile	_	_	_	_	_	_	_	_
+6	görüşmek	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = aoq_44041
+# text = Hilal başka bir okulda okumak istiyor.
+1	Hilal	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	okulda	_	_	_	_	_	_	_	_
+5	okumak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = adr_45161
+# text = Züleyha yıldız gibi bir oyuncu ile röportaj yapmak istiyor.
+1	Züleyha	_	_	_	_	_	_	_	_
+2	yıldız	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	oyuncu	_	_	_	_	_	_	_	_
+6	ile	_	_	_	_	_	_	_	_
+7	röportaj	_	_	_	_	_	_	_	_
+8	yapmak	_	_	_	_	_	_	_	_
+9	istiyor	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = alh_36301
+# text = Banu lale'ninki gibi bir evi almak istiyor.
+1	Banu	_	_	_	_	_	_	_	_
+2	lale'ninki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	evi	_	_	_	_	_	_	_	_
+6	almak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = awc_12599
+# text = Astrid misafirlerinin eve gelirken bir hediye getirip getirmeyeceğinden şüpheliydi.
+1	Astrid	_	_	_	_	_	_	_	_
+2	misafirlerinin	_	_	_	_	_	_	_	_
+3	eve	_	_	_	_	_	_	_	_
+4	gelirken	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	hediye	_	_	_	_	_	_	_	_
+7	getirip	_	_	_	_	_	_	_	_
+8	getirmeyeceğinden	_	_	_	_	_	_	_	_
+9	şüpheliydi	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = afa_12090
+# text = Selin, büşra'nınki gibi bir çanta almak istiyor.
+1	Selin	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	büşra'nınki	_	_	_	_	_	_	_	_
+4	gibi	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	çanta	_	_	_	_	_	_	_	_
+7	almak	_	_	_	_	_	_	_	_
+8	istiyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = akq_99128
+# text = Gülin aysu'nunki gibi bir şirkette çalışmak istiyor.
+1	Gülin	_	_	_	_	_	_	_	_
+2	aysu'nunki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	şirkette	_	_	_	_	_	_	_	_
+6	çalışmak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = agz_25691
+# text = Sağduyu sahibi bir satıcı herkesin ödeyebileceği fiyatlar belirlemesi gerektiğini bilirdi.
+1	Sağduyu	_	_	_	_	_	_	_	_
+2	sahibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	satıcı	_	_	_	_	_	_	_	_
+5	herkesin	_	_	_	_	_	_	_	_
+6	ödeyebileceği	_	_	_	_	_	_	_	_
+7	fiyatlar	_	_	_	_	_	_	_	_
+8	belirlemesi	_	_	_	_	_	_	_	_
+9	gerektiğini	_	_	_	_	_	_	_	_
+10	bilirdi	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = ajr_14033
+# text = Deniz başka bir eve taşınmak istiyor.
+1	Deniz	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	eve	_	_	_	_	_	_	_	_
+5	taşınmak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = afi_21992
+# text = Silmek istiyor başka bir üzücü anıyı Eren.
+1	Silmek	_	_	_	_	_	_	_	_
+2	istiyor	_	_	_	_	_	_	_	_
+3	başka	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	üzücü	_	_	_	_	_	_	_	_
+6	anıyı	_	_	_	_	_	_	_	_
+7	Eren	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = akp_88081
+# text = Turan bizim dükkan gibi bir dükkanı işletmek istiyor.
+1	Turan	_	_	_	_	_	_	_	_
+2	bizim	_	_	_	_	_	_	_	_
+3	dükkan	_	_	_	_	_	_	_	_
+4	gibi	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	dükkanı	_	_	_	_	_	_	_	_
+7	işletmek	_	_	_	_	_	_	_	_
+8	istiyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = amu_20677
+# text = Jülide başka bir kitap okumak istiyor.
+1	Jülide	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	kitap	_	_	_	_	_	_	_	_
+5	okumak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = awo_22905
+# text = Kimileri bir oduncunun tüm odunları keseceğine inanmıştı.
+1	Kimileri	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	oduncunun	_	_	_	_	_	_	_	_
+4	tüm	_	_	_	_	_	_	_	_
+5	odunları	_	_	_	_	_	_	_	_
+6	keseceğine	_	_	_	_	_	_	_	_
+7	inanmıştı	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = adf_60281
+# text = Bir soruya Leyla göz atmak istiyor.
+1	Bir	_	_	_	_	_	_	_	_
+2	soruya	_	_	_	_	_	_	_	_
+3	Leyla	_	_	_	_	_	_	_	_
+4	göz	_	_	_	_	_	_	_	_
+5	atmak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = ado_44300
+# text = Janset başka bir konudan bahsetmek istiyor.
+1	Janset	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	konudan	_	_	_	_	_	_	_	_
+5	bahsetmek	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = ass_81861
+# text = Bir yarış kazanınca kendini kanıtlayacağını sanıyor o kız.
+1	Bir	_	_	_	_	_	_	_	_
+2	yarış	_	_	_	_	_	_	_	_
+3	kazanınca	_	_	_	_	_	_	_	_
+4	kendini	_	_	_	_	_	_	_	_
+5	kanıtlayacağını	_	_	_	_	_	_	_	_
+6	sanıyor	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kız	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = asz_80537
+# text = Ayla bir kahve içmek isterse belki bana uğrar.
+1	Ayla	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	kahve	_	_	_	_	_	_	_	_
+4	içmek	_	_	_	_	_	_	_	_
+5	isterse	_	_	_	_	_	_	_	_
+6	belki	_	_	_	_	_	_	_	_
+7	bana	_	_	_	_	_	_	_	_
+8	uğrar	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = ajt_16512
+# text = Bremen'deki mızıkacı bir mızıkanın kaç lira olduğundan bile habersiz.
+1	Bremen'deki	_	_	_	_	_	_	_	_
+2	mızıkacı	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	mızıkanın	_	_	_	_	_	_	_	_
+5	kaç	_	_	_	_	_	_	_	_
+6	lira	_	_	_	_	_	_	_	_
+7	olduğundan	_	_	_	_	_	_	_	_
+8	bile	_	_	_	_	_	_	_	_
+9	habersiz	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = agx_62789
+# text = Sunay köpeğini yürütmek için onu bir parka götürmek istiyor.
+1	Sunay	_	_	_	_	_	_	_	_
+2	köpeğini	_	_	_	_	_	_	_	_
+3	yürütmek	_	_	_	_	_	_	_	_
+4	için	_	_	_	_	_	_	_	_
+5	onu	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	parka	_	_	_	_	_	_	_	_
+8	götürmek	_	_	_	_	_	_	_	_
+9	istiyor	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = aea_75249
+# text = Kübra başka bir trene binmek istiyor.
+1	Kübra	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	trene	_	_	_	_	_	_	_	_
+5	binmek	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = aot_25854
+# text = Kurumi önceden anlaştığı bir dükkandan rengarenk bir kimono satın almayı planlıyor.
+1	Kurumi	_	_	_	_	_	_	_	_
+2	önceden	_	_	_	_	_	_	_	_
+3	anlaştığı	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	dükkandan	_	_	_	_	_	_	_	_
+6	rengarenk	_	_	_	_	_	_	_	_
+7	bir	_	_	_	_	_	_	_	_
+8	kimono	_	_	_	_	_	_	_	_
+9	satın	_	_	_	_	_	_	_	_
+10	almayı	_	_	_	_	_	_	_	_
+11	planlıyor	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = atn_51726
+# text = Selin evdeki gibi bir koltuğu değiştirmek istiyor.
+1	Selin	_	_	_	_	_	_	_	_
+2	evdeki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	koltuğu	_	_	_	_	_	_	_	_
+6	değiştirmek	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = agb_42303
+# text = Gülay olgun bir limonu dalından koparmak istiyor.
+1	Gülay	_	_	_	_	_	_	_	_
+2	olgun	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	limonu	_	_	_	_	_	_	_	_
+5	dalından	_	_	_	_	_	_	_	_
+6	koparmak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = aam_68533
+# text = Büşra başka bir ülkede yaşamak istiyor.
+1	Büşra	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	ülkede	_	_	_	_	_	_	_	_
+5	yaşamak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = awd_68384
+# text = Pelin istiyor başka bir şarabı içmek.
+1	Pelin	_	_	_	_	_	_	_	_
+2	istiyor	_	_	_	_	_	_	_	_
+3	başka	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	şarabı	_	_	_	_	_	_	_	_
+6	içmek	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = ayt_82740
+# text = Gizem görkemli bir salonda evlenmek istiyor.
+1	Gizem	_	_	_	_	_	_	_	_
+2	görkemli	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	salonda	_	_	_	_	_	_	_	_
+5	evlenmek	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = ata_77314
+# text = Arkadaşım bir dergiye yazılarını gönderecekmiş.
+1	Arkadaşım	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	dergiye	_	_	_	_	_	_	_	_
+4	yazılarını	_	_	_	_	_	_	_	_
+5	gönderecekmiş	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = abt_18950
+# text = Berrin bir yangın çıkarsa ne yapabilir?
+1	Berrin	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	yangın	_	_	_	_	_	_	_	_
+4	çıkarsa	_	_	_	_	_	_	_	_
+5	ne	_	_	_	_	_	_	_	_
+6	yapabilir	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = avg_30172
+# text = paris'tekiler gibi bir müzeye gitmek istiyor Jale.
+1	paris'tekiler	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	müzeye	_	_	_	_	_	_	_	_
+5	gitmek	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	Jale	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = aws_93656
+# text = Ders çalışırken dinlemek için bir şarkı açmak istiyormuş Buse.
+1	Ders	_	_	_	_	_	_	_	_
+2	çalışırken	_	_	_	_	_	_	_	_
+3	dinlemek	_	_	_	_	_	_	_	_
+4	için	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	şarkı	_	_	_	_	_	_	_	_
+7	açmak	_	_	_	_	_	_	_	_
+8	istiyormuş	_	_	_	_	_	_	_	_
+9	Buse	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = aua_34964
+# text = buradaki gibi bir dergi almayı istiyor Cansu.
+1	buradaki	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	dergi	_	_	_	_	_	_	_	_
+5	almayı	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	Cansu	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = azp_84965
+# text = Remziye yetkin bir adayla mülakat yapmak istiyor.
+1	Remziye	_	_	_	_	_	_	_	_
+2	yetkin	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	adayla	_	_	_	_	_	_	_	_
+5	mülakat	_	_	_	_	_	_	_	_
+6	yapmak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = acx_23976
+# text = Halime başka bir elbise giymek istiyor.
+1	Halime	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	elbise	_	_	_	_	_	_	_	_
+5	giymek	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = aqh_86904
+# text = başka bir pastadan yemek istiyor Cüneyt.
+1	başka	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	pastadan	_	_	_	_	_	_	_	_
+4	yemek	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	Cüneyt	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = aqb_33286
+# text = Enes bir hatası olmadığını iddia ediyor.
+1	Enes	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	hatası	_	_	_	_	_	_	_	_
+4	olmadığını	_	_	_	_	_	_	_	_
+5	iddia	_	_	_	_	_	_	_	_
+6	ediyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = aeo_84561
+# text = benimki gibi bir çanta almak istiyor Şule.
+1	benimki	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	çanta	_	_	_	_	_	_	_	_
+5	almak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	Şule	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = acs_38935
+# text = Muharrem bir marketten alışveriş yapmak istiyor.
+1	Muharrem	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	marketten	_	_	_	_	_	_	_	_
+4	alışveriş	_	_	_	_	_	_	_	_
+5	yapmak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = asi_12744
+# text = ispanya'dakiler gibi bir plaja gitmek istiyorum.
+1	ispanya'dakiler	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	plaja	_	_	_	_	_	_	_	_
+5	gitmek	_	_	_	_	_	_	_	_
+6	istiyorum	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = aqm_88861
+# text = Yaprak başka bir adama aşık olmak istiyor.
+1	Yaprak	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	adama	_	_	_	_	_	_	_	_
+5	aşık	_	_	_	_	_	_	_	_
+6	olmak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = agj_49616
+# text = 3A sınıfından Emre babasıyla okuyabileceği bir şiiri ezberlemek istiyordu.
+1	3A	_	_	_	_	_	_	_	_
+2	sınıfından	_	_	_	_	_	_	_	_
+3	Emre	_	_	_	_	_	_	_	_
+4	babasıyla	_	_	_	_	_	_	_	_
+5	okuyabileceği	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	şiiri	_	_	_	_	_	_	_	_
+8	ezberlemek	_	_	_	_	_	_	_	_
+9	istiyordu	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = ant_43695
+# text = Tijen restorandaki gibi bir tatlıyı yemek istiyor.
+1	Tijen	_	_	_	_	_	_	_	_
+2	restorandaki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	tatlıyı	_	_	_	_	_	_	_	_
+6	yemek	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = aef_31941
+# text = Hilal, benimki gibi bir sevgilisi olmasını istiyor.
+1	Hilal	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	benimki	_	_	_	_	_	_	_	_
+4	gibi	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	sevgilisi	_	_	_	_	_	_	_	_
+7	olmasını	_	_	_	_	_	_	_	_
+8	istiyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = aqd_89324
+# text = Annem leyla'nınki gibi bir yazlık almak istiyor.
+1	Annem	_	_	_	_	_	_	_	_
+2	leyla'nınki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	yazlık	_	_	_	_	_	_	_	_
+6	almak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = aoz_51681
+# text = ayşe gibi bir kızla evlenmek istiyor Ender.
+1	ayşe	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	kızla	_	_	_	_	_	_	_	_
+5	evlenmek	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	Ender	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = ate_74641
+# text = Güzel bir bahçede piknik yapmak istiyor Gaye.
+1	Güzel	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	bahçede	_	_	_	_	_	_	_	_
+4	piknik	_	_	_	_	_	_	_	_
+5	yapmak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	Gaye	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = aco_78339
+# text = Şeyda yün bir halıyı süpürmek istiyor.
+1	Şeyda	_	_	_	_	_	_	_	_
+2	yün	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	halıyı	_	_	_	_	_	_	_	_
+5	süpürmek	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = aiz_27910
+# text = bolu'daki gibi bir gölden balık avlamak istiyor Hale.
+1	bolu'daki	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	gölden	_	_	_	_	_	_	_	_
+5	balık	_	_	_	_	_	_	_	_
+6	avlamak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	Hale	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = afh_31700
+# text = Orkun benimki gibi bir okula gitmek istiyor.
+1	Orkun	_	_	_	_	_	_	_	_
+2	benimki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	okula	_	_	_	_	_	_	_	_
+6	gitmek	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = ajt_42048
+# text = Nur hediyelik eşya dükkanından bir bileklik almak istiyor.
+1	Nur	_	_	_	_	_	_	_	_
+2	hediyelik	_	_	_	_	_	_	_	_
+3	eşya	_	_	_	_	_	_	_	_
+4	dükkanından	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	bileklik	_	_	_	_	_	_	_	_
+7	almak	_	_	_	_	_	_	_	_
+8	istiyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = aqt_15770
+# text = Banu başka bir bankta oturmak istiyor.
+1	Banu	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	bankta	_	_	_	_	_	_	_	_
+5	oturmak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = all_55179
+# text = ayşe'ninkiler gibi kedilere bakmak istiyorum.
+1	ayşe'ninkiler	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	kedilere	_	_	_	_	_	_	_	_
+4	bakmak	_	_	_	_	_	_	_	_
+5	istiyorum	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = anx_85080
+# text = Ayşenur istiyor merkezi bir apartmanda oturmak.
+1	Ayşenur	_	_	_	_	_	_	_	_
+2	istiyor	_	_	_	_	_	_	_	_
+3	merkezi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	apartmanda	_	_	_	_	_	_	_	_
+6	oturmak	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = arg_99023
+# text = Gürsel başka bir makineyle dikiş dikmek istiyor.
+1	Gürsel	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	makineyle	_	_	_	_	_	_	_	_
+5	dikiş	_	_	_	_	_	_	_	_
+6	dikmek	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = atv_67955
+# text = Vedat istiyor başka bir restoranı keşfetmek.
+1	Vedat	_	_	_	_	_	_	_	_
+2	istiyor	_	_	_	_	_	_	_	_
+3	başka	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	restoranı	_	_	_	_	_	_	_	_
+6	keşfetmek	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = agb_67463
+# text = Mustafa uyumadan önce sürükleyici bir roman okumak istiyor.
+1	Mustafa	_	_	_	_	_	_	_	_
+2	uyumadan	_	_	_	_	_	_	_	_
+3	önce	_	_	_	_	_	_	_	_
+4	sürükleyici	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	roman	_	_	_	_	_	_	_	_
+7	okumak	_	_	_	_	_	_	_	_
+8	istiyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = agd_52066
+# text = Ayşe hamile bir kedi sahiplenmek istiyor.
+1	Ayşe	_	_	_	_	_	_	_	_
+2	hamile	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	kedi	_	_	_	_	_	_	_	_
+5	sahiplenmek	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = aob_58285
+# text = esmer çocuk bugün yarın kaslı bir tamirci görmek istiyormuş.
+1	esmer	_	_	_	_	_	_	_	_
+2	çocuk	_	_	_	_	_	_	_	_
+3	bugün	_	_	_	_	_	_	_	_
+4	yarın	_	_	_	_	_	_	_	_
+5	kaslı	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	tamirci	_	_	_	_	_	_	_	_
+8	görmek	_	_	_	_	_	_	_	_
+9	istiyormuş	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = aoh_63645
+# text = Hamiyet hala istedi benden bir köpeğe bakmamı.
+1	Hamiyet	_	_	_	_	_	_	_	_
+2	hala	_	_	_	_	_	_	_	_
+3	istedi	_	_	_	_	_	_	_	_
+4	benden	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	köpeğe	_	_	_	_	_	_	_	_
+7	bakmamı	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = ajn_48337
+# text = Leyla başka bir tesisatçıyı öpmek istiyor.
+1	Leyla	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	tesisatçıyı	_	_	_	_	_	_	_	_
+5	öpmek	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = agw_13198
+# text = şu çocuk bir defter almak istiyordu dersten çıkınca.
+1	şu	_	_	_	_	_	_	_	_
+2	çocuk	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	defter	_	_	_	_	_	_	_	_
+5	almak	_	_	_	_	_	_	_	_
+6	istiyordu	_	_	_	_	_	_	_	_
+7	dersten	_	_	_	_	_	_	_	_
+8	çıkınca	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = aga_84412
+# text = Hüseyin başka bir şirketten ayrılmak istiyor.
+1	Hüseyin	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	şirketten	_	_	_	_	_	_	_	_
+5	ayrılmak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = avb_38727
+# text = Uzak diyarlardan gelen bir gözlemcinin kitabında herkesten bahsedeceğini ummuştum.
+1	Uzak	_	_	_	_	_	_	_	_
+2	diyarlardan	_	_	_	_	_	_	_	_
+3	gelen	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	gözlemcinin	_	_	_	_	_	_	_	_
+6	kitabında	_	_	_	_	_	_	_	_
+7	herkesten	_	_	_	_	_	_	_	_
+8	bahsedeceğini	_	_	_	_	_	_	_	_
+9	ummuştum	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = aeb_70666
+# text = bir casus yakalamak istiyor Şövalye.
+1	bir	_	_	_	_	_	_	_	_
+2	casus	_	_	_	_	_	_	_	_
+3	yakalamak	_	_	_	_	_	_	_	_
+4	istiyor	_	_	_	_	_	_	_	_
+5	Şövalye	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = awe_56672
+# text = Bir öykü yazmak isteyen Nil her gün çok çalışıyordu.
+1	Bir	_	_	_	_	_	_	_	_
+2	öykü	_	_	_	_	_	_	_	_
+3	yazmak	_	_	_	_	_	_	_	_
+4	isteyen	_	_	_	_	_	_	_	_
+5	Nil	_	_	_	_	_	_	_	_
+6	her	_	_	_	_	_	_	_	_
+7	gün	_	_	_	_	_	_	_	_
+8	çok	_	_	_	_	_	_	_	_
+9	çalışıyordu	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = aoy_41805
+# text = Rüstem işsiz bir mezunla röportaj yapmak istiyor.
+1	Rüstem	_	_	_	_	_	_	_	_
+2	işsiz	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	mezunla	_	_	_	_	_	_	_	_
+5	röportaj	_	_	_	_	_	_	_	_
+6	yapmak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = aeu_81993
+# text = Müge başka bir konukla röportaj yapmak istiyor.
+1	Müge	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	konukla	_	_	_	_	_	_	_	_
+5	röportaj	_	_	_	_	_	_	_	_
+6	yapmak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = byf_30239
+# text = Şermin bir eteğin üstüne o gömleğin olmayacağından emindi.
+1	Şermin	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	eteğin	_	_	_	_	_	_	_	_
+4	üstüne	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	gömleğin	_	_	_	_	_	_	_	_
+7	olmayacağından	_	_	_	_	_	_	_	_
+8	emindi	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = bsv_92323
+# text = Annesini yarı yolda bırakan bir hemşirenin mesleğinde başarılı olamayacağına inanmıştı Nino.
+1	Annesini	_	_	_	_	_	_	_	_
+2	yarı	_	_	_	_	_	_	_	_
+3	yolda	_	_	_	_	_	_	_	_
+4	bırakan	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	hemşirenin	_	_	_	_	_	_	_	_
+7	mesleğinde	_	_	_	_	_	_	_	_
+8	başarılı	_	_	_	_	_	_	_	_
+9	olamayacağına	_	_	_	_	_	_	_	_
+10	inanmıştı	_	_	_	_	_	_	_	_
+11	Nino	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = biz_24088
+# text = Hiç kimsenin korkutmayı başaramadığı sihirbaz şimdi bir kaşıktan korkuyordu.
+1	Hiç	_	_	_	_	_	_	_	_
+2	kimsenin	_	_	_	_	_	_	_	_
+3	korkutmayı	_	_	_	_	_	_	_	_
+4	başaramadığı	_	_	_	_	_	_	_	_
+5	sihirbaz	_	_	_	_	_	_	_	_
+6	şimdi	_	_	_	_	_	_	_	_
+7	bir	_	_	_	_	_	_	_	_
+8	kaşıktan	_	_	_	_	_	_	_	_
+9	korkuyordu	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = boc_57011
+# text = Bir ata atlayıp uçsuz bucaksız dağları aşmayı ummuştu Köroğlu.
+1	Bir	_	_	_	_	_	_	_	_
+2	ata	_	_	_	_	_	_	_	_
+3	atlayıp	_	_	_	_	_	_	_	_
+4	uçsuz	_	_	_	_	_	_	_	_
+5	bucaksız	_	_	_	_	_	_	_	_
+6	dağları	_	_	_	_	_	_	_	_
+7	aşmayı	_	_	_	_	_	_	_	_
+8	ummuştu	_	_	_	_	_	_	_	_
+9	Köroğlu	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = bkc_58381
+# text = Feride bir taşın altına saklanan yılanın birden başını çıkarmasından endişeleniyordu.
+1	Feride	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	taşın	_	_	_	_	_	_	_	_
+4	altına	_	_	_	_	_	_	_	_
+5	saklanan	_	_	_	_	_	_	_	_
+6	yılanın	_	_	_	_	_	_	_	_
+7	birden	_	_	_	_	_	_	_	_
+8	başını	_	_	_	_	_	_	_	_
+9	çıkarmasından	_	_	_	_	_	_	_	_
+10	endişeleniyordu	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = byl_48843
+# text = Bir mektup aldıktan sonra saatlerce kendine gelemeyeceğini sanmıştı Dündar.
+1	Bir	_	_	_	_	_	_	_	_
+2	mektup	_	_	_	_	_	_	_	_
+3	aldıktan	_	_	_	_	_	_	_	_
+4	sonra	_	_	_	_	_	_	_	_
+5	saatlerce	_	_	_	_	_	_	_	_
+6	kendine	_	_	_	_	_	_	_	_
+7	gelemeyeceğini	_	_	_	_	_	_	_	_
+8	sanmıştı	_	_	_	_	_	_	_	_
+9	Dündar	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = bxf_61773
+# text = Vedat sanıyordu ki tüm yemekleri denese bile bir tanesini hiçbiri geçemez.
+1	Vedat	_	_	_	_	_	_	_	_
+2	sanıyordu	_	_	_	_	_	_	_	_
+3	ki	_	_	_	_	_	_	_	_
+4	tüm	_	_	_	_	_	_	_	_
+5	yemekleri	_	_	_	_	_	_	_	_
+6	denese	_	_	_	_	_	_	_	_
+7	bile	_	_	_	_	_	_	_	_
+8	bir	_	_	_	_	_	_	_	_
+9	tanesini	_	_	_	_	_	_	_	_
+10	hiçbiri	_	_	_	_	_	_	_	_
+11	geçemez	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btn_15541
+# text = Naciye bir kelebeğin gelip eteğine konacağını ummuştu.
+1	Naciye	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	kelebeğin	_	_	_	_	_	_	_	_
+4	gelip	_	_	_	_	_	_	_	_
+5	eteğine	_	_	_	_	_	_	_	_
+6	konacağını	_	_	_	_	_	_	_	_
+7	ummuştu	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bxd_79906
+# text = Bir piyadenin kendisini yaralayacağından korkmuyordu Cankat, kendisi birini yaralamaktan korkuyordu.
+1	Bir	_	_	_	_	_	_	_	_
+2	piyadenin	_	_	_	_	_	_	_	_
+3	kendisini	_	_	_	_	_	_	_	_
+4	yaralayacağından	_	_	_	_	_	_	_	_
+5	korkmuyordu	_	_	_	_	_	_	_	_
+6	Cankat	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	kendisi	_	_	_	_	_	_	_	_
+9	birini	_	_	_	_	_	_	_	_
+10	yaralamaktan	_	_	_	_	_	_	_	_
+11	korkuyordu	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = bha_74138
+# text = Mikaela bir elmanın ağaçtan düşeceğini biliyor.
+1	Mikaela	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	elmanın	_	_	_	_	_	_	_	_
+4	ağaçtan	_	_	_	_	_	_	_	_
+5	düşeceğini	_	_	_	_	_	_	_	_
+6	biliyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = brd_26992
+# text = Bir kişinin yaptığı işi herkes beğenecek diye bir kural yok, dedi Yusuf.
+1	Bir	_	_	_	_	_	_	_	_
+2	kişinin	_	_	_	_	_	_	_	_
+3	yaptığı	_	_	_	_	_	_	_	_
+4	işi	_	_	_	_	_	_	_	_
+5	herkes	_	_	_	_	_	_	_	_
+6	beğenecek	_	_	_	_	_	_	_	_
+7	diye	_	_	_	_	_	_	_	_
+8	bir	_	_	_	_	_	_	_	_
+9	kural	_	_	_	_	_	_	_	_
+10	yok	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	dedi	_	_	_	_	_	_	_	_
+13	Yusuf	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = bbb_50746
+# text = Polisten aldığın evrakları dolabımdaki bir çekmeceye koymanı emretmiştim.
+1	Polisten	_	_	_	_	_	_	_	_
+2	aldığın	_	_	_	_	_	_	_	_
+3	evrakları	_	_	_	_	_	_	_	_
+4	dolabımdaki	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	çekmeceye	_	_	_	_	_	_	_	_
+7	koymanı	_	_	_	_	_	_	_	_
+8	emretmiştim	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = bwt_85141
+# text = Anıl sessiz bir ortamda çalışmak istiyorsa bir kütüphaneye gitmeli.
+1	Anıl	_	_	_	_	_	_	_	_
+2	sessiz	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	ortamda	_	_	_	_	_	_	_	_
+5	çalışmak	_	_	_	_	_	_	_	_
+6	istiyorsa	_	_	_	_	_	_	_	_
+7	bir	_	_	_	_	_	_	_	_
+8	kütüphaneye	_	_	_	_	_	_	_	_
+9	gitmeli	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = bhg_31939
+# text = Furkan’ın bir plan yaptığını düşünüyor musun?
+1	Furkan’ın	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	plan	_	_	_	_	_	_	_	_
+4	yaptığını	_	_	_	_	_	_	_	_
+5	düşünüyor	_	_	_	_	_	_	_	_
+6	musun	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = bfj_34674
+# text = Beyza müzik kulübüne bir üye alınacağını söyledi.
+1	Beyza	_	_	_	_	_	_	_	_
+2	müzik	_	_	_	_	_	_	_	_
+3	kulübüne	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	üye	_	_	_	_	_	_	_	_
+6	alınacağını	_	_	_	_	_	_	_	_
+7	söyledi	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bld_66075
+# text = Berk her gün bir antremana katılmalı.
+1	Berk	_	_	_	_	_	_	_	_
+2	her	_	_	_	_	_	_	_	_
+3	gün	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	antremana	_	_	_	_	_	_	_	_
+6	katılmalı	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgd_32070
+# text = Şeyma bu sene bir belgesel çekerse ünlü olacağına inanıyor.
+1	Şeyma	_	_	_	_	_	_	_	_
+2	bu	_	_	_	_	_	_	_	_
+3	sene	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	belgesel	_	_	_	_	_	_	_	_
+6	çekerse	_	_	_	_	_	_	_	_
+7	ünlü	_	_	_	_	_	_	_	_
+8	olacağına	_	_	_	_	_	_	_	_
+9	inanıyor	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = bmg_74973
+# text = Can bir seramik kursuna gitmeyi düşünüyor.
+1	Can	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	seramik	_	_	_	_	_	_	_	_
+4	kursuna	_	_	_	_	_	_	_	_
+5	gitmeyi	_	_	_	_	_	_	_	_
+6	düşünüyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bwu_90507
+# text = Burak eski kitaplarla ilgileniyorsa bir sahafçıya gidebilir.
+1	Burak	_	_	_	_	_	_	_	_
+2	eski	_	_	_	_	_	_	_	_
+3	kitaplarla	_	_	_	_	_	_	_	_
+4	ilgileniyorsa	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	sahafçıya	_	_	_	_	_	_	_	_
+7	gidebilir	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bhs_32283
+# text = Hakan iyi tenis oynamak için bir ders almalı mı?
+1	Hakan	_	_	_	_	_	_	_	_
+2	iyi	_	_	_	_	_	_	_	_
+3	tenis	_	_	_	_	_	_	_	_
+4	oynamak	_	_	_	_	_	_	_	_
+5	için	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	ders	_	_	_	_	_	_	_	_
+8	almalı	_	_	_	_	_	_	_	_
+9	mı	_	_	_	_	_	_	_	_
+10	?	_	_	_	_	_	_	_	_
+
+# sent_id = brj_54052
+# text = Yeşim bir gösteriye davet alırsa katılmayı düşünüyor.
+1	Yeşim	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	gösteriye	_	_	_	_	_	_	_	_
+4	davet	_	_	_	_	_	_	_	_
+5	alırsa	_	_	_	_	_	_	_	_
+6	katılmayı	_	_	_	_	_	_	_	_
+7	düşünüyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bcn_52861
+# text = Arzu bir iş ortağı bulmanın zor olduğuna inanıyor.
+1	Arzu	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	iş	_	_	_	_	_	_	_	_
+4	ortağı	_	_	_	_	_	_	_	_
+5	bulmanın	_	_	_	_	_	_	_	_
+6	zor	_	_	_	_	_	_	_	_
+7	olduğuna	_	_	_	_	_	_	_	_
+8	inanıyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = bhk_26069
+# text = Oya bir müzik aleti çalmanın büyük ihtimalle onu zorlayacağını söylüyor.
+1	Oya	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	müzik	_	_	_	_	_	_	_	_
+4	aleti	_	_	_	_	_	_	_	_
+5	çalmanın	_	_	_	_	_	_	_	_
+6	büyük	_	_	_	_	_	_	_	_
+7	ihtimalle	_	_	_	_	_	_	_	_
+8	onu	_	_	_	_	_	_	_	_
+9	zorlayacağını	_	_	_	_	_	_	_	_
+10	söylüyor	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = byz_59170
+# text = Yanlış bir numarayı ararsa Emre çok panikler.
+1	Yanlış	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	numarayı	_	_	_	_	_	_	_	_
+4	ararsa	_	_	_	_	_	_	_	_
+5	Emre	_	_	_	_	_	_	_	_
+6	çok	_	_	_	_	_	_	_	_
+7	panikler	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bdu_60155
+# text = Bir şans yakalarsa ilk fırsatta Aysun yeni bir eve taşınmak istiyor.
+1	Bir	_	_	_	_	_	_	_	_
+2	şans	_	_	_	_	_	_	_	_
+3	yakalarsa	_	_	_	_	_	_	_	_
+4	ilk	_	_	_	_	_	_	_	_
+5	fırsatta	_	_	_	_	_	_	_	_
+6	Aysun	_	_	_	_	_	_	_	_
+7	yeni	_	_	_	_	_	_	_	_
+8	bir	_	_	_	_	_	_	_	_
+9	eve	_	_	_	_	_	_	_	_
+10	taşınmak	_	_	_	_	_	_	_	_
+11	istiyor	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = bcz_94778
+# text = Semra bir resim yaparsa harika olacağına inanıyor.
+1	Semra	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	resim	_	_	_	_	_	_	_	_
+4	yaparsa	_	_	_	_	_	_	_	_
+5	harika	_	_	_	_	_	_	_	_
+6	olacağına	_	_	_	_	_	_	_	_
+7	inanıyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bmh_76393
+# text = Cenk bir ağrı kesici alırsa büyük ihtimalle baş ağrısı geçebilir.
+1	Cenk	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	ağrı	_	_	_	_	_	_	_	_
+4	kesici	_	_	_	_	_	_	_	_
+5	alırsa	_	_	_	_	_	_	_	_
+6	büyük	_	_	_	_	_	_	_	_
+7	ihtimalle	_	_	_	_	_	_	_	_
+8	baş	_	_	_	_	_	_	_	_
+9	ağrısı	_	_	_	_	_	_	_	_
+10	geçebilir	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = bzk_68836
+# text = Orkun belki şehir dışında bir kulübe inşa ederse mutlu olabilir.
+1	Orkun	_	_	_	_	_	_	_	_
+2	belki	_	_	_	_	_	_	_	_
+3	şehir	_	_	_	_	_	_	_	_
+4	dışında	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	kulübe	_	_	_	_	_	_	_	_
+7	inşa	_	_	_	_	_	_	_	_
+8	ederse	_	_	_	_	_	_	_	_
+9	mutlu	_	_	_	_	_	_	_	_
+10	olabilir	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = bvg_49553
+# text = Yeliz bu kıyafet için nereden bir çanta almalı?
+1	Yeliz	_	_	_	_	_	_	_	_
+2	bu	_	_	_	_	_	_	_	_
+3	kıyafet	_	_	_	_	_	_	_	_
+4	için	_	_	_	_	_	_	_	_
+5	nereden	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	çanta	_	_	_	_	_	_	_	_
+8	almalı	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = blv_59597
+# text = Özge annesiyle bir film izlemeye söz verdi.
+1	Özge	_	_	_	_	_	_	_	_
+2	annesiyle	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	film	_	_	_	_	_	_	_	_
+5	izlemeye	_	_	_	_	_	_	_	_
+6	söz	_	_	_	_	_	_	_	_
+7	verdi	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = boz_73368
+# text = Lale her hafta bir roman okumak istiyor.
+1	Lale	_	_	_	_	_	_	_	_
+2	her	_	_	_	_	_	_	_	_
+3	hafta	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	roman	_	_	_	_	_	_	_	_
+6	okumak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = btu_74063
+# text = Zeynep bir bilgisayarda çalışırsa işini çok hızlı halleder.
+1	Zeynep	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	bilgisayarda	_	_	_	_	_	_	_	_
+4	çalışırsa	_	_	_	_	_	_	_	_
+5	işini	_	_	_	_	_	_	_	_
+6	çok	_	_	_	_	_	_	_	_
+7	hızlı	_	_	_	_	_	_	_	_
+8	halleder	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = bxg_33592
+# text = Nermin bir bardak altlığı almak istiyor.
+1	Nermin	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	bardak	_	_	_	_	_	_	_	_
+4	altlığı	_	_	_	_	_	_	_	_
+5	almak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bmt_86643
+# text = Uzun ve sıkıcı bir mektup almak isteyen herkes insan kaynaklarına yazabilir.
+1	Uzun	_	_	_	_	_	_	_	_
+2	ve	_	_	_	_	_	_	_	_
+3	sıkıcı	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	mektup	_	_	_	_	_	_	_	_
+6	almak	_	_	_	_	_	_	_	_
+7	isteyen	_	_	_	_	_	_	_	_
+8	herkes	_	_	_	_	_	_	_	_
+9	insan	_	_	_	_	_	_	_	_
+10	kaynaklarına	_	_	_	_	_	_	_	_
+11	yazabilir	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = bhe_93384
+# text = Yelda kendisine yapılan ışıltılı sürprizi bir arkadaşına anlatmak için sabırsızlanıyor.
+1	Yelda	_	_	_	_	_	_	_	_
+2	kendisine	_	_	_	_	_	_	_	_
+3	yapılan	_	_	_	_	_	_	_	_
+4	ışıltılı	_	_	_	_	_	_	_	_
+5	sürprizi	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	arkadaşına	_	_	_	_	_	_	_	_
+8	anlatmak	_	_	_	_	_	_	_	_
+9	için	_	_	_	_	_	_	_	_
+10	sabırsızlanıyor	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = bmi_99544
+# text = Ferhunde bir tabak kısır yemek istiyor.
+1	Ferhunde	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	tabak	_	_	_	_	_	_	_	_
+4	kısır	_	_	_	_	_	_	_	_
+5	yemek	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bhl_87611
+# text = Cem bir kafede garsonluk yapmak istiyor.
+1	Cem	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	kafede	_	_	_	_	_	_	_	_
+4	garsonluk	_	_	_	_	_	_	_	_
+5	yapmak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bmz_86138
+# text = Tambur çalmayı öğrenmek isteyen öğrenciler yetenekli bir öğretmen arıyor.
+1	Tambur	_	_	_	_	_	_	_	_
+2	çalmayı	_	_	_	_	_	_	_	_
+3	öğrenmek	_	_	_	_	_	_	_	_
+4	isteyen	_	_	_	_	_	_	_	_
+5	öğrenciler	_	_	_	_	_	_	_	_
+6	yetenekli	_	_	_	_	_	_	_	_
+7	bir	_	_	_	_	_	_	_	_
+8	öğretmen	_	_	_	_	_	_	_	_
+9	arıyor	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = bxf_79384
+# text = Teleferik kabininden düşen talihsiz gencin acilen bir hastaneye gitmesi gerekiyor.
+1	Teleferik	_	_	_	_	_	_	_	_
+2	kabininden	_	_	_	_	_	_	_	_
+3	düşen	_	_	_	_	_	_	_	_
+4	talihsiz	_	_	_	_	_	_	_	_
+5	gencin	_	_	_	_	_	_	_	_
+6	acilen	_	_	_	_	_	_	_	_
+7	bir	_	_	_	_	_	_	_	_
+8	hastaneye	_	_	_	_	_	_	_	_
+9	gitmesi	_	_	_	_	_	_	_	_
+10	gerekiyor	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btg_70143
+# text = Taksiye binip gideceği yere ulaşmayı başarabilen şaşkın İstanbul sakini bir kutlama yapmak istiyor.
+1	Taksiye	_	_	_	_	_	_	_	_
+2	binip	_	_	_	_	_	_	_	_
+3	gideceği	_	_	_	_	_	_	_	_
+4	yere	_	_	_	_	_	_	_	_
+5	ulaşmayı	_	_	_	_	_	_	_	_
+6	başarabilen	_	_	_	_	_	_	_	_
+7	şaşkın	_	_	_	_	_	_	_	_
+8	İstanbul	_	_	_	_	_	_	_	_
+9	sakini	_	_	_	_	_	_	_	_
+10	bir	_	_	_	_	_	_	_	_
+11	kutlama	_	_	_	_	_	_	_	_
+12	yapmak	_	_	_	_	_	_	_	_
+13	istiyor	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = bbb_82849
+# text = Bir satranç turnuvası kazanan öğrenciye madalya verildi.
+1	Bir	_	_	_	_	_	_	_	_
+2	satranç	_	_	_	_	_	_	_	_
+3	turnuvası	_	_	_	_	_	_	_	_
+4	kazanan	_	_	_	_	_	_	_	_
+5	öğrenciye	_	_	_	_	_	_	_	_
+6	madalya	_	_	_	_	_	_	_	_
+7	verildi	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bjf_26443
+# text = Zerrin'den kısa bir konuşma yapmasını istediler.
+1	Zerrin'den	_	_	_	_	_	_	_	_
+2	kısa	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	konuşma	_	_	_	_	_	_	_	_
+5	yapmasını	_	_	_	_	_	_	_	_
+6	istediler	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bcv_67636
+# text = Fatoş kendisine kırmızı ve parlak bir elma veren yaşlı kadına gülümseyerek teşekkür etti.
+1	Fatoş	_	_	_	_	_	_	_	_
+2	kendisine	_	_	_	_	_	_	_	_
+3	kırmızı	_	_	_	_	_	_	_	_
+4	ve	_	_	_	_	_	_	_	_
+5	parlak	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	elma	_	_	_	_	_	_	_	_
+8	veren	_	_	_	_	_	_	_	_
+9	yaşlı	_	_	_	_	_	_	_	_
+10	kadına	_	_	_	_	_	_	_	_
+11	gülümseyerek	_	_	_	_	_	_	_	_
+12	teşekkür	_	_	_	_	_	_	_	_
+13	etti	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = bvt_45633
+# text = Cumartesi gecesini kalabalık bir barda geçirmek istiyordu Doruk.
+1	Cumartesi	_	_	_	_	_	_	_	_
+2	gecesini	_	_	_	_	_	_	_	_
+3	kalabalık	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	barda	_	_	_	_	_	_	_	_
+6	geçirmek	_	_	_	_	_	_	_	_
+7	istiyordu	_	_	_	_	_	_	_	_
+8	Doruk	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = bte_77387
+# text = Doktoru bir tahlil yaptırmasının iyi olacağını düşünüyor.
+1	Doktoru	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	tahlil	_	_	_	_	_	_	_	_
+4	yaptırmasının	_	_	_	_	_	_	_	_
+5	iyi	_	_	_	_	_	_	_	_
+6	olacağını	_	_	_	_	_	_	_	_
+7	düşünüyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bli_23702
+# text = Evlilik hazırlığındaki Esra dans etmeyi deneyimli bir dansözden öğrenmek istiyor.
+1	Evlilik	_	_	_	_	_	_	_	_
+2	hazırlığındaki	_	_	_	_	_	_	_	_
+3	Esra	_	_	_	_	_	_	_	_
+4	dans	_	_	_	_	_	_	_	_
+5	etmeyi	_	_	_	_	_	_	_	_
+6	deneyimli	_	_	_	_	_	_	_	_
+7	bir	_	_	_	_	_	_	_	_
+8	dansözden	_	_	_	_	_	_	_	_
+9	öğrenmek	_	_	_	_	_	_	_	_
+10	istiyor	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = bpq_63749
+# text = Leyla kurabiye dolgusu yapmak için bir kavanoz böğürtlen marmelatı istiyor.
+1	Leyla	_	_	_	_	_	_	_	_
+2	kurabiye	_	_	_	_	_	_	_	_
+3	dolgusu	_	_	_	_	_	_	_	_
+4	yapmak	_	_	_	_	_	_	_	_
+5	için	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	kavanoz	_	_	_	_	_	_	_	_
+8	böğürtlen	_	_	_	_	_	_	_	_
+9	marmelatı	_	_	_	_	_	_	_	_
+10	istiyor	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = bzm_96874
+# text = Komite her katılımcının hile yaptığını düşünüyor.
+1	Komite	_	_	_	_	_	_	_	_
+2	her	_	_	_	_	_	_	_	_
+3	katılımcının	_	_	_	_	_	_	_	_
+4	hile	_	_	_	_	_	_	_	_
+5	yaptığını	_	_	_	_	_	_	_	_
+6	düşünüyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bpx_75201
+# text = Hakim her tutuklunun suçlu olduğunu düşünüyor.
+1	Hakim	_	_	_	_	_	_	_	_
+2	her	_	_	_	_	_	_	_	_
+3	tutuklunun	_	_	_	_	_	_	_	_
+4	suçlu	_	_	_	_	_	_	_	_
+5	olduğunu	_	_	_	_	_	_	_	_
+6	düşünüyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bll_96797
+# text = Buse her çiçeğin gül olduğunu düşünüyor.
+1	Buse	_	_	_	_	_	_	_	_
+2	her	_	_	_	_	_	_	_	_
+3	çiçeğin	_	_	_	_	_	_	_	_
+4	gül	_	_	_	_	_	_	_	_
+5	olduğunu	_	_	_	_	_	_	_	_
+6	düşünüyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bef_47489
+# text = Lale çoğu politikacının yalancı olduğunu düşünüyor.
+1	Lale	_	_	_	_	_	_	_	_
+2	çoğu	_	_	_	_	_	_	_	_
+3	politikacının	_	_	_	_	_	_	_	_
+4	yalancı	_	_	_	_	_	_	_	_
+5	olduğunu	_	_	_	_	_	_	_	_
+6	düşünüyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bin_91612
+# text = Polis çoğu tutuklunun gerçekten suçlu olduğundan şüpheleniyor.
+1	Polis	_	_	_	_	_	_	_	_
+2	çoğu	_	_	_	_	_	_	_	_
+3	tutuklunun	_	_	_	_	_	_	_	_
+4	gerçekten	_	_	_	_	_	_	_	_
+5	suçlu	_	_	_	_	_	_	_	_
+6	olduğundan	_	_	_	_	_	_	_	_
+7	şüpheleniyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgq_55561
+# text = Berke çoğu öğrencinin çok zeki olduğundan şüpheleniyor.
+1	Berke	_	_	_	_	_	_	_	_
+2	çoğu	_	_	_	_	_	_	_	_
+3	öğrencinin	_	_	_	_	_	_	_	_
+4	çok	_	_	_	_	_	_	_	_
+5	zeki	_	_	_	_	_	_	_	_
+6	olduğundan	_	_	_	_	_	_	_	_
+7	şüpheleniyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bae_43693
+# text = Öğretmen çoğu öğrencinin kopya çektiğinden şüpheleniyor.
+1	Öğretmen	_	_	_	_	_	_	_	_
+2	çoğu	_	_	_	_	_	_	_	_
+3	öğrencinin	_	_	_	_	_	_	_	_
+4	kopya	_	_	_	_	_	_	_	_
+5	çektiğinden	_	_	_	_	_	_	_	_
+6	şüpheleniyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bjp_34925
+# text = çoğu güvenlik görevlisi bir misafirin davetsiz olduğunu düşünüyor.
+1	çoğu	_	_	_	_	_	_	_	_
+2	güvenlik	_	_	_	_	_	_	_	_
+3	görevlisi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	misafirin	_	_	_	_	_	_	_	_
+6	davetsiz	_	_	_	_	_	_	_	_
+7	olduğunu	_	_	_	_	_	_	_	_
+8	düşünüyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = bpk_51641
+# text = Leyla çoğu kitabın çalındığından şüpheleniyor.
+1	Leyla	_	_	_	_	_	_	_	_
+2	çoğu	_	_	_	_	_	_	_	_
+3	kitabın	_	_	_	_	_	_	_	_
+4	çalındığından	_	_	_	_	_	_	_	_
+5	şüpheleniyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bsk_31575
+# text = Berke çoğu çatalın kaybolduğundan şüpheleniyor.
+1	Berke	_	_	_	_	_	_	_	_
+2	çoğu	_	_	_	_	_	_	_	_
+3	çatalın	_	_	_	_	_	_	_	_
+4	kaybolduğundan	_	_	_	_	_	_	_	_
+5	şüpheleniyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bkl_30292
+# text = Hülya çoğu öğrencinin sınıfta kaldığından şüpheleniyor.
+1	Hülya	_	_	_	_	_	_	_	_
+2	çoğu	_	_	_	_	_	_	_	_
+3	öğrencinin	_	_	_	_	_	_	_	_
+4	sınıfta	_	_	_	_	_	_	_	_
+5	kaldığından	_	_	_	_	_	_	_	_
+6	şüpheleniyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bcp_94215
+# text = Çoğu tatilcinin uçağını kaçırdığından şüpheleniyor Buse.
+1	Çoğu	_	_	_	_	_	_	_	_
+2	tatilcinin	_	_	_	_	_	_	_	_
+3	uçağını	_	_	_	_	_	_	_	_
+4	kaçırdığından	_	_	_	_	_	_	_	_
+5	şüpheleniyor	_	_	_	_	_	_	_	_
+6	Buse	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bts_95916
+# text = Çoğu işin yapılmadığından şüpheleniyor Ayla.
+1	Çoğu	_	_	_	_	_	_	_	_
+2	işin	_	_	_	_	_	_	_	_
+3	yapılmadığından	_	_	_	_	_	_	_	_
+4	şüpheleniyor	_	_	_	_	_	_	_	_
+5	Ayla	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = ben_14226
+# text = Çoğu katılımcının imza atmadığından şüpheleniyor Organizatör.
+1	Çoğu	_	_	_	_	_	_	_	_
+2	katılımcının	_	_	_	_	_	_	_	_
+3	imza	_	_	_	_	_	_	_	_
+4	atmadığından	_	_	_	_	_	_	_	_
+5	şüpheleniyor	_	_	_	_	_	_	_	_
+6	Organizatör	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgy_92375
+# text = bir öğretmen her öğrencinin kopya çektiğinden şüpheleniyor.
+1	bir	_	_	_	_	_	_	_	_
+2	öğretmen	_	_	_	_	_	_	_	_
+3	her	_	_	_	_	_	_	_	_
+4	öğrencinin	_	_	_	_	_	_	_	_
+5	kopya	_	_	_	_	_	_	_	_
+6	çektiğinden	_	_	_	_	_	_	_	_
+7	şüpheleniyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bbt_45376
+# text = her öğretmen bir öğrencinin kopya çektiğinden şüpheleniyor.
+1	her	_	_	_	_	_	_	_	_
+2	öğretmen	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	öğrencinin	_	_	_	_	_	_	_	_
+5	kopya	_	_	_	_	_	_	_	_
+6	çektiğinden	_	_	_	_	_	_	_	_
+7	şüpheleniyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bme_49648
+# text = bir polis memuru sorgu odasındaki her adamın hırsız olduğundan şüpheleniyor.
+1	bir	_	_	_	_	_	_	_	_
+2	polis	_	_	_	_	_	_	_	_
+3	memuru	_	_	_	_	_	_	_	_
+4	sorgu	_	_	_	_	_	_	_	_
+5	odasındaki	_	_	_	_	_	_	_	_
+6	her	_	_	_	_	_	_	_	_
+7	adamın	_	_	_	_	_	_	_	_
+8	hırsız	_	_	_	_	_	_	_	_
+9	olduğundan	_	_	_	_	_	_	_	_
+10	şüpheleniyor	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = bbv_35716
+# text = her polis memuru sorgu odasındaki bir adamın hırsız olduğundan şüpheleniyor.
+1	her	_	_	_	_	_	_	_	_
+2	polis	_	_	_	_	_	_	_	_
+3	memuru	_	_	_	_	_	_	_	_
+4	sorgu	_	_	_	_	_	_	_	_
+5	odasındaki	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	adamın	_	_	_	_	_	_	_	_
+8	hırsız	_	_	_	_	_	_	_	_
+9	olduğundan	_	_	_	_	_	_	_	_
+10	şüpheleniyor	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = bdw_50228
+# text = bir öğrenci her sınavdan kaldığından şüpheleniyor.
+1	bir	_	_	_	_	_	_	_	_
+2	öğrenci	_	_	_	_	_	_	_	_
+3	her	_	_	_	_	_	_	_	_
+4	sınavdan	_	_	_	_	_	_	_	_
+5	kaldığından	_	_	_	_	_	_	_	_
+6	şüpheleniyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgk_70869
+# text = her öğrenci bir sınavdan kaldığından şüpheleniyor.
+1	her	_	_	_	_	_	_	_	_
+2	öğrenci	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	sınavdan	_	_	_	_	_	_	_	_
+5	kaldığından	_	_	_	_	_	_	_	_
+6	şüpheleniyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bbu_67393
+# text = bir kütüphane görevlisi her ziyaretçinin kitap çaldığından şüpheleniyor.
+1	bir	_	_	_	_	_	_	_	_
+2	kütüphane	_	_	_	_	_	_	_	_
+3	görevlisi	_	_	_	_	_	_	_	_
+4	her	_	_	_	_	_	_	_	_
+5	ziyaretçinin	_	_	_	_	_	_	_	_
+6	kitap	_	_	_	_	_	_	_	_
+7	çaldığından	_	_	_	_	_	_	_	_
+8	şüpheleniyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = boj_68737
+# text = her kütüphane görevlisi bir ziyaretçinin kitap çaldığından şüpheleniyor.
+1	her	_	_	_	_	_	_	_	_
+2	kütüphane	_	_	_	_	_	_	_	_
+3	görevlisi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	ziyaretçinin	_	_	_	_	_	_	_	_
+6	kitap	_	_	_	_	_	_	_	_
+7	çaldığından	_	_	_	_	_	_	_	_
+8	şüpheleniyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = blw_12993
+# text = bir güvenlik görevlisi her ziyaretçinin sahte kimlik gösterdiğini düşünüyor.
+1	bir	_	_	_	_	_	_	_	_
+2	güvenlik	_	_	_	_	_	_	_	_
+3	görevlisi	_	_	_	_	_	_	_	_
+4	her	_	_	_	_	_	_	_	_
+5	ziyaretçinin	_	_	_	_	_	_	_	_
+6	sahte	_	_	_	_	_	_	_	_
+7	kimlik	_	_	_	_	_	_	_	_
+8	gösterdiğini	_	_	_	_	_	_	_	_
+9	düşünüyor	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = bah_43824
+# text = Her güvenlik görevlisi bir ziyaretçinin sahte kimlik gösterdiğini düşünüyor.
+1	Her	_	_	_	_	_	_	_	_
+2	güvenlik	_	_	_	_	_	_	_	_
+3	görevlisi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	ziyaretçinin	_	_	_	_	_	_	_	_
+6	sahte	_	_	_	_	_	_	_	_
+7	kimlik	_	_	_	_	_	_	_	_
+8	gösterdiğini	_	_	_	_	_	_	_	_
+9	düşünüyor	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = bri_84751
+# text = bir öğrenci her öğretmeni aradı.
+1	bir	_	_	_	_	_	_	_	_
+2	öğrenci	_	_	_	_	_	_	_	_
+3	her	_	_	_	_	_	_	_	_
+4	öğretmeni	_	_	_	_	_	_	_	_
+5	aradı	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bwx_48451
+# text = bir sekreter her adayı aradı.
+1	bir	_	_	_	_	_	_	_	_
+2	sekreter	_	_	_	_	_	_	_	_
+3	her	_	_	_	_	_	_	_	_
+4	adayı	_	_	_	_	_	_	_	_
+5	aradı	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bis_49637
+# text = bir boyacı her odayı boyadı.
+1	bir	_	_	_	_	_	_	_	_
+2	boyacı	_	_	_	_	_	_	_	_
+3	her	_	_	_	_	_	_	_	_
+4	odayı	_	_	_	_	_	_	_	_
+5	boyadı	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bga_59360
+# text = bir bahçıvan her ağacı budadı.
+1	bir	_	_	_	_	_	_	_	_
+2	bahçıvan	_	_	_	_	_	_	_	_
+3	her	_	_	_	_	_	_	_	_
+4	ağacı	_	_	_	_	_	_	_	_
+5	budadı	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bpu_40534
+# text = bir makasla her kumaşı kesti.
+1	bir	_	_	_	_	_	_	_	_
+2	makasla	_	_	_	_	_	_	_	_
+3	her	_	_	_	_	_	_	_	_
+4	kumaşı	_	_	_	_	_	_	_	_
+5	kesti	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_43165
+# text = bir çatalla her tatlıyı yedi.
+1	bir	_	_	_	_	_	_	_	_
+2	çatalla	_	_	_	_	_	_	_	_
+3	her	_	_	_	_	_	_	_	_
+4	tatlıyı	_	_	_	_	_	_	_	_
+5	yedi	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bav_28167
+# text = bir personel her ziyaretçiye eşlik etti.
+1	bir	_	_	_	_	_	_	_	_
+2	personel	_	_	_	_	_	_	_	_
+3	her	_	_	_	_	_	_	_	_
+4	ziyaretçiye	_	_	_	_	_	_	_	_
+5	eşlik	_	_	_	_	_	_	_	_
+6	etti	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bqh_67555
+# text = bir film her izleyiciyi etkiledi.
+1	bir	_	_	_	_	_	_	_	_
+2	film	_	_	_	_	_	_	_	_
+3	her	_	_	_	_	_	_	_	_
+4	izleyiciyi	_	_	_	_	_	_	_	_
+5	etkiledi	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bst_98747
+# text = bir makaleyi her jüri üyesi beğendi.
+1	bir	_	_	_	_	_	_	_	_
+2	makaleyi	_	_	_	_	_	_	_	_
+3	her	_	_	_	_	_	_	_	_
+4	jüri	_	_	_	_	_	_	_	_
+5	üyesi	_	_	_	_	_	_	_	_
+6	beğendi	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bdq_95463
+# text = bir okulu her öğrenci temsil etti.
+1	bir	_	_	_	_	_	_	_	_
+2	okulu	_	_	_	_	_	_	_	_
+3	her	_	_	_	_	_	_	_	_
+4	öğrenci	_	_	_	_	_	_	_	_
+5	temsil	_	_	_	_	_	_	_	_
+6	etti	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bdx_28655
+# text = her öğrenciyi bir öğretmen aradı.
+1	her	_	_	_	_	_	_	_	_
+2	öğrenciyi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	öğretmen	_	_	_	_	_	_	_	_
+5	aradı	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bbx_73683
+# text = her adayla bir çalışan görüştü.
+1	her	_	_	_	_	_	_	_	_
+2	adayla	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	çalışan	_	_	_	_	_	_	_	_
+5	görüştü	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bec_95934
+# text = her arabayı bir çalışan yıkadı.
+1	her	_	_	_	_	_	_	_	_
+2	arabayı	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	çalışan	_	_	_	_	_	_	_	_
+5	yıkadı	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = brv_36502
+# text = her odayı bir kadın temizledi.
+1	her	_	_	_	_	_	_	_	_
+2	odayı	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	kadın	_	_	_	_	_	_	_	_
+5	temizledi	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bpt_13271
+# text = her yemeği bir adam yaptı.
+1	her	_	_	_	_	_	_	_	_
+2	yemeği	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	adam	_	_	_	_	_	_	_	_
+5	yaptı	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bhs_89955
+# text = her kitabı bir öğrenci özetledi.
+1	her	_	_	_	_	_	_	_	_
+2	kitabı	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	öğrenci	_	_	_	_	_	_	_	_
+5	özetledi	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = boo_28902
+# text = her büyükelçi bir ülkeyi temsil etti.
+1	her	_	_	_	_	_	_	_	_
+2	büyükelçi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	ülkeyi	_	_	_	_	_	_	_	_
+5	temsil	_	_	_	_	_	_	_	_
+6	etti	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bpt_19729
+# text = her sporcu bir madalya kazandı.
+1	her	_	_	_	_	_	_	_	_
+2	sporcu	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	madalya	_	_	_	_	_	_	_	_
+5	kazandı	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bbb_57527
+# text = her kedi bir aşı oldu.
+1	her	_	_	_	_	_	_	_	_
+2	kedi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	aşı	_	_	_	_	_	_	_	_
+5	oldu	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = baf_59217
+# text = her yazar bir kitap yazdı.
+1	her	_	_	_	_	_	_	_	_
+2	yazar	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	kitap	_	_	_	_	_	_	_	_
+5	yazdı	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bkj_23331
+# text = Milletvekillerinin tamamı iyi okullarda okur.
+1	Milletvekillerinin	_	_	_	_	_	_	_	_
+2	tamamı	_	_	_	_	_	_	_	_
+3	iyi	_	_	_	_	_	_	_	_
+4	okullarda	_	_	_	_	_	_	_	_
+5	okur	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bfq_96876
+# text = Can, 2040'ta çoğu milletvekilinin emekli olacağını düşünüyor.
+1	Can	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	2040'ta	_	_	_	_	_	_	_	_
+4	çoğu	_	_	_	_	_	_	_	_
+5	milletvekilinin	_	_	_	_	_	_	_	_
+6	emekli	_	_	_	_	_	_	_	_
+7	olacağını	_	_	_	_	_	_	_	_
+8	düşünüyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = bvk_57575
+# text = Büyükelçilerin çoğu Fransız liselerinde okur.
+1	Büyükelçilerin	_	_	_	_	_	_	_	_
+2	çoğu	_	_	_	_	_	_	_	_
+3	Fransız	_	_	_	_	_	_	_	_
+4	liselerinde	_	_	_	_	_	_	_	_
+5	okur	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bhg_33777
+# text = Fatma, 40 sene sonra bölümdeki profesörlerin neredeyse hepsinin emekli olacağına inanıyor.
+1	Fatma	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	40	_	_	_	_	_	_	_	_
+4	sene	_	_	_	_	_	_	_	_
+5	sonra	_	_	_	_	_	_	_	_
+6	bölümdeki	_	_	_	_	_	_	_	_
+7	profesörlerin	_	_	_	_	_	_	_	_
+8	neredeyse	_	_	_	_	_	_	_	_
+9	hepsinin	_	_	_	_	_	_	_	_
+10	emekli	_	_	_	_	_	_	_	_
+11	olacağına	_	_	_	_	_	_	_	_
+12	inanıyor	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = bbh_49679
+# text = Filiz, hastahanedeki doktorların 15 sene sonra doktorluk yapmayı bırakacağını düşünüyor.
+1	Filiz	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	hastahanedeki	_	_	_	_	_	_	_	_
+4	doktorların	_	_	_	_	_	_	_	_
+5	15	_	_	_	_	_	_	_	_
+6	sene	_	_	_	_	_	_	_	_
+7	sonra	_	_	_	_	_	_	_	_
+8	doktorluk	_	_	_	_	_	_	_	_
+9	yapmayı	_	_	_	_	_	_	_	_
+10	bırakacağını	_	_	_	_	_	_	_	_
+11	düşünüyor	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = bbv_43698
+# text = Büşra bir pandayı görmek istiyor.
+1	Büşra	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	pandayı	_	_	_	_	_	_	_	_
+4	görmek	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bkd_23770
+# text = Fırıncı bir dilim ekmeği kızartmak istiyor.
+1	Fırıncı	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	dilim	_	_	_	_	_	_	_	_
+4	ekmeği	_	_	_	_	_	_	_	_
+5	kızartmak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = boo_80755
+# text = Pastacı bir kurabiyeyi çikolatayla kaplamak istiyor.
+1	Pastacı	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	kurabiyeyi	_	_	_	_	_	_	_	_
+4	çikolatayla	_	_	_	_	_	_	_	_
+5	kaplamak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = brf_49369
+# text = Selin bir kitabı bitirmek istiyor.
+1	Selin	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	kitabı	_	_	_	_	_	_	_	_
+4	bitirmek	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bde_49909
+# text = Asude bir köpeği sahiplenmek istiyor.
+1	Asude	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	köpeği	_	_	_	_	_	_	_	_
+4	sahiplenmek	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bvb_66681
+# text = Büşra bir pandayı görmek istiyor.
+1	Büşra	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	pandayı	_	_	_	_	_	_	_	_
+4	görmek	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bhg_85778
+# text = Ayşe'nin sokaktaki bir kediyi beslediğini sanıyor.
+1	Ayşe'nin	_	_	_	_	_	_	_	_
+2	sokaktaki	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	kediyi	_	_	_	_	_	_	_	_
+5	beslediğini	_	_	_	_	_	_	_	_
+6	sanıyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bpx_95634
+# text = Bu odada birinin sigara içtiğini düşünüyor.
+1	Bu	_	_	_	_	_	_	_	_
+2	odada	_	_	_	_	_	_	_	_
+3	birinin	_	_	_	_	_	_	_	_
+4	sigara	_	_	_	_	_	_	_	_
+5	içtiğini	_	_	_	_	_	_	_	_
+6	düşünüyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bwt_21065
+# text = Goldilocks, bu evde bir ayının uyuduğunu düşünüyor.
+1	Goldilocks	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	bu	_	_	_	_	_	_	_	_
+4	evde	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	ayının	_	_	_	_	_	_	_	_
+7	uyuduğunu	_	_	_	_	_	_	_	_
+8	düşünüyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = bnt_59912
+# text = Bir öğrenci tarafından kopya çekildiğine inanıyor.
+1	Bir	_	_	_	_	_	_	_	_
+2	öğrenci	_	_	_	_	_	_	_	_
+3	tarafından	_	_	_	_	_	_	_	_
+4	kopya	_	_	_	_	_	_	_	_
+5	çekildiğine	_	_	_	_	_	_	_	_
+6	inanıyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = btu_77649
+# text = Gruptan birinin hasta olduğunu düşünüyor.
+1	Gruptan	_	_	_	_	_	_	_	_
+2	birinin	_	_	_	_	_	_	_	_
+3	hasta	_	_	_	_	_	_	_	_
+4	olduğunu	_	_	_	_	_	_	_	_
+5	düşünüyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bng_62055
+# text = Öğretmen sınıfta birinin kopya çektiğini düşünüyor.
+1	Öğretmen	_	_	_	_	_	_	_	_
+2	sınıfta	_	_	_	_	_	_	_	_
+3	birinin	_	_	_	_	_	_	_	_
+4	kopya	_	_	_	_	_	_	_	_
+5	çektiğini	_	_	_	_	_	_	_	_
+6	düşünüyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bop_36736
+# text = Müdür, departmanda birinin ajan olduğunu düşünüyor.
+1	Müdür	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	departmanda	_	_	_	_	_	_	_	_
+4	birinin	_	_	_	_	_	_	_	_
+5	ajan	_	_	_	_	_	_	_	_
+6	olduğunu	_	_	_	_	_	_	_	_
+7	düşünüyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bfs_86952
+# text = Polis bu evde bir hırsız yaşadığından şüpheleniyor.
+1	Polis	_	_	_	_	_	_	_	_
+2	bu	_	_	_	_	_	_	_	_
+3	evde	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	hırsız	_	_	_	_	_	_	_	_
+6	yaşadığından	_	_	_	_	_	_	_	_
+7	şüpheleniyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bpe_25217
+# text = Ajan, bu evde bir muhbir yaşadığını düşünüyor.
+1	Ajan	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	bu	_	_	_	_	_	_	_	_
+4	evde	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	muhbir	_	_	_	_	_	_	_	_
+7	yaşadığını	_	_	_	_	_	_	_	_
+8	düşünüyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = bds_22628
+# text = Büşra, bir öğrencinin çok zeki olduğunu düşünüyor.
+1	Büşra	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	öğrencinin	_	_	_	_	_	_	_	_
+5	çok	_	_	_	_	_	_	_	_
+6	zeki	_	_	_	_	_	_	_	_
+7	olduğunu	_	_	_	_	_	_	_	_
+8	düşünüyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = bda_66355
+# text = Jüri, bir yarışmacının hile yaptığını sanıyor.
+1	Jüri	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	yarışmacının	_	_	_	_	_	_	_	_
+5	hile	_	_	_	_	_	_	_	_
+6	yaptığını	_	_	_	_	_	_	_	_
+7	sanıyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = blt_30377
+# text = Güvenlik görevlileri birinin kapıyı zorladığına inanıyor.
+1	Güvenlik	_	_	_	_	_	_	_	_
+2	görevlileri	_	_	_	_	_	_	_	_
+3	birinin	_	_	_	_	_	_	_	_
+4	kapıyı	_	_	_	_	_	_	_	_
+5	zorladığına	_	_	_	_	_	_	_	_
+6	inanıyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bqm_53912
+# text = IT departmanı birinin siteyi hacklemeye çalıştığını düşünüyor.
+1	IT	_	_	_	_	_	_	_	_
+2	departmanı	_	_	_	_	_	_	_	_
+3	birinin	_	_	_	_	_	_	_	_
+4	siteyi	_	_	_	_	_	_	_	_
+5	hacklemeye	_	_	_	_	_	_	_	_
+6	çalıştığını	_	_	_	_	_	_	_	_
+7	düşünüyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bpb_73385
+# text = Selin odadakilerin dışarıda olduğunu düşünüyor.
+1	Selin	_	_	_	_	_	_	_	_
+2	odadakilerin	_	_	_	_	_	_	_	_
+3	dışarıda	_	_	_	_	_	_	_	_
+4	olduğunu	_	_	_	_	_	_	_	_
+5	düşünüyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bsp_90637
+# text = Filiz salondaki misafirlerden birinin balkonda olduğunu sanıyor.
+1	Filiz	_	_	_	_	_	_	_	_
+2	salondaki	_	_	_	_	_	_	_	_
+3	misafirlerden	_	_	_	_	_	_	_	_
+4	birinin	_	_	_	_	_	_	_	_
+5	balkonda	_	_	_	_	_	_	_	_
+6	olduğunu	_	_	_	_	_	_	_	_
+7	sanıyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bic_99481
+# text = Doktor hastalardan birinin öldüğünü düşünüyor.
+1	Doktor	_	_	_	_	_	_	_	_
+2	hastalardan	_	_	_	_	_	_	_	_
+3	birinin	_	_	_	_	_	_	_	_
+4	öldüğünü	_	_	_	_	_	_	_	_
+5	düşünüyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgp_45080
+# text = Hisarüstü'ndeki bir binanın yıkılacağını düşünüyor.
+1	Hisarüstü'ndeki	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	binanın	_	_	_	_	_	_	_	_
+4	yıkılacağını	_	_	_	_	_	_	_	_
+5	düşünüyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bjs_76844
+# text = Futbolcular, hakemlerden birinin rüşvet aldığına inanıyor.
+1	Futbolcular	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	hakemlerden	_	_	_	_	_	_	_	_
+4	birinin	_	_	_	_	_	_	_	_
+5	rüşvet	_	_	_	_	_	_	_	_
+6	aldığına	_	_	_	_	_	_	_	_
+7	inanıyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bds_74864
+# text = Yoldaşlık'takiler Sihir Bakanlığı'nda bir Ölüm Yiyen olduğunu düşünüyorlar.
+1	Yoldaşlık'takiler	_	_	_	_	_	_	_	_
+2	Sihir	_	_	_	_	_	_	_	_
+3	Bakanlığı'nda	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	Ölüm	_	_	_	_	_	_	_	_
+6	Yiyen	_	_	_	_	_	_	_	_
+7	olduğunu	_	_	_	_	_	_	_	_
+8	düşünüyorlar	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = boe_78410
+# text = Dernekte bir casus olduğundan şüpheleniyorlar.
+1	Dernekte	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	casus	_	_	_	_	_	_	_	_
+4	olduğundan	_	_	_	_	_	_	_	_
+5	şüpheleniyorlar	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bat_96247
+# text = Dernekte bir casusun olduğundan şüpheleniyorlar.
+1	Dernekte	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	casusun	_	_	_	_	_	_	_	_
+4	olduğundan	_	_	_	_	_	_	_	_
+5	şüpheleniyorlar	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bcw_92476
+# text = Dernekte bir casus olmasından şüpheleniyorlar.
+1	Dernekte	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	casus	_	_	_	_	_	_	_	_
+4	olmasından	_	_	_	_	_	_	_	_
+5	şüpheleniyorlar	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = blf_80391
+# text = Selin, banyoda birinin olduğundan şüpheleniyor.
+1	Selin	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	banyoda	_	_	_	_	_	_	_	_
+4	birinin	_	_	_	_	_	_	_	_
+5	olduğundan	_	_	_	_	_	_	_	_
+6	şüpheleniyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bft_39800
+# text = Ayşe, mutfakta birisinin olduğundan şüpheleniyor.
+1	Ayşe	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	mutfakta	_	_	_	_	_	_	_	_
+4	birisinin	_	_	_	_	_	_	_	_
+5	olduğundan	_	_	_	_	_	_	_	_
+6	şüpheleniyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bil_55635
+# text = Leyla, sınıftakiler dışarıda sanıyor.
+1	Leyla	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	sınıftakiler	_	_	_	_	_	_	_	_
+4	dışarıda	_	_	_	_	_	_	_	_
+5	sanıyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bcf_71231
+# text = Çağla üst katındaki dairede bir grup öğrencinin oturduğuna inanıyor.
+1	Çağla	_	_	_	_	_	_	_	_
+2	üst	_	_	_	_	_	_	_	_
+3	katındaki	_	_	_	_	_	_	_	_
+4	dairede	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	grup	_	_	_	_	_	_	_	_
+7	öğrencinin	_	_	_	_	_	_	_	_
+8	oturduğuna	_	_	_	_	_	_	_	_
+9	inanıyor	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = bmi_93277
+# text = Büşra, o yokken odasına birinin girdiğinden şüpheleniyor.
+1	Büşra	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	yokken	_	_	_	_	_	_	_	_
+5	odasına	_	_	_	_	_	_	_	_
+6	birinin	_	_	_	_	_	_	_	_
+7	girdiğinden	_	_	_	_	_	_	_	_
+8	şüpheleniyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = bon_49413
+# text = Senin kütüphaneden bir kitap aldığını farz ediyor.
+1	Senin	_	_	_	_	_	_	_	_
+2	kütüphaneden	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	kitap	_	_	_	_	_	_	_	_
+5	aldığını	_	_	_	_	_	_	_	_
+6	farz	_	_	_	_	_	_	_	_
+7	ediyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bap_38758
+# text = Odadaki herkes dışarıdayken oda boştu.
+1	Odadaki	_	_	_	_	_	_	_	_
+2	herkes	_	_	_	_	_	_	_	_
+3	dışarıdayken	_	_	_	_	_	_	_	_
+4	oda	_	_	_	_	_	_	_	_
+5	boştu	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bzu_33053
+# text = Öğrenci ödevini yapar.
+1	Öğrenci	_	_	_	_	_	_	_	_
+2	ödevini	_	_	_	_	_	_	_	_
+3	yapar	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = bba_29273
+# text = anne şefkatli olmalıdır.
+1	anne	_	_	_	_	_	_	_	_
+2	şefkatli	_	_	_	_	_	_	_	_
+3	olmalıdır	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = bct_69017
+# text = çocuğun odası iyi güneş almalıdır.
+1	çocuğun	_	_	_	_	_	_	_	_
+2	odası	_	_	_	_	_	_	_	_
+3	iyi	_	_	_	_	_	_	_	_
+4	güneş	_	_	_	_	_	_	_	_
+5	almalıdır	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bdh_63283
+# text = yarışmanın jürisi, deneyimli bir yazarın yazdığı bir hikâyenin ödül kazanacağını düşünüyor.
+1	yarışmanın	_	_	_	_	_	_	_	_
+2	jürisi	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	deneyimli	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	yazarın	_	_	_	_	_	_	_	_
+7	yazdığı	_	_	_	_	_	_	_	_
+8	bir	_	_	_	_	_	_	_	_
+9	hikâyenin	_	_	_	_	_	_	_	_
+10	ödül	_	_	_	_	_	_	_	_
+11	kazanacağını	_	_	_	_	_	_	_	_
+12	düşünüyor	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = bsm_55004
+# text = yarışmanın jürisi, deneyimli bir yazarın yazdığı bir hikâyenin ödül kazanacağını düşünüyor.
+1	yarışmanın	_	_	_	_	_	_	_	_
+2	jürisi	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	deneyimli	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	yazarın	_	_	_	_	_	_	_	_
+7	yazdığı	_	_	_	_	_	_	_	_
+8	bir	_	_	_	_	_	_	_	_
+9	hikâyenin	_	_	_	_	_	_	_	_
+10	ödül	_	_	_	_	_	_	_	_
+11	kazanacağını	_	_	_	_	_	_	_	_
+12	düşünüyor	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = bra_56232
+# text = Ne gam ne keder uğramasın bir arkadaşıma.
+1	Ne	_	_	_	_	_	_	_	_
+2	gam	_	_	_	_	_	_	_	_
+3	ne	_	_	_	_	_	_	_	_
+4	keder	_	_	_	_	_	_	_	_
+5	uğramasın	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	arkadaşıma	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bwi_91437
+# text = Ayla, Ceyhun ile mercimeği fırına vermek istiyor.
+1	Ayla	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	Ceyhun	_	_	_	_	_	_	_	_
+4	ile	_	_	_	_	_	_	_	_
+5	mercimeği	_	_	_	_	_	_	_	_
+6	fırına	_	_	_	_	_	_	_	_
+7	vermek	_	_	_	_	_	_	_	_
+8	istiyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = brv_13836
+# text = Kör istedi bir göz, Allah verdi iki göz.
+1	Kör	_	_	_	_	_	_	_	_
+2	istedi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	göz	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	Allah	_	_	_	_	_	_	_	_
+7	verdi	_	_	_	_	_	_	_	_
+8	iki	_	_	_	_	_	_	_	_
+9	göz	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = bvj_99605
+# text = Arda'nın dediğine göre bin dost az ama bir düşman çok.
+1	Arda'nın	_	_	_	_	_	_	_	_
+2	dediğine	_	_	_	_	_	_	_	_
+3	göre	_	_	_	_	_	_	_	_
+4	bin	_	_	_	_	_	_	_	_
+5	dost	_	_	_	_	_	_	_	_
+6	az	_	_	_	_	_	_	_	_
+7	ama	_	_	_	_	_	_	_	_
+8	bir	_	_	_	_	_	_	_	_
+9	düşman	_	_	_	_	_	_	_	_
+10	çok	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = boz_60334
+# text = İsteyenin bir yüzü kara, vermeyenin iki yüzü kara.
+1	İsteyenin	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	yüzü	_	_	_	_	_	_	_	_
+4	kara	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	vermeyenin	_	_	_	_	_	_	_	_
+7	iki	_	_	_	_	_	_	_	_
+8	yüzü	_	_	_	_	_	_	_	_
+9	kara	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = bop_33008
+# text = Bir gece ansızın yanına gelmek istiyorum.
+1	Bir	_	_	_	_	_	_	_	_
+2	gece	_	_	_	_	_	_	_	_
+3	ansızın	_	_	_	_	_	_	_	_
+4	yanına	_	_	_	_	_	_	_	_
+5	gelmek	_	_	_	_	_	_	_	_
+6	istiyorum	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bnx_98360
+# text = Güneş girmeyen bir eve doktor girer.
+1	Güneş	_	_	_	_	_	_	_	_
+2	girmeyen	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	eve	_	_	_	_	_	_	_	_
+5	doktor	_	_	_	_	_	_	_	_
+6	girer	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bwy_74969
+# text = Pazardan aldım bir tane, eve geldim bin tane.
+1	Pazardan	_	_	_	_	_	_	_	_
+2	aldım	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	tane	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	eve	_	_	_	_	_	_	_	_
+7	geldim	_	_	_	_	_	_	_	_
+8	bin	_	_	_	_	_	_	_	_
+9	tane	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = bsc_60360
+# text = Bir elin nesi var iki elin sesi var. 
+1	Bir	_	_	_	_	_	_	_	_
+2	elin	_	_	_	_	_	_	_	_
+3	nesi	_	_	_	_	_	_	_	_
+4	var	_	_	_	_	_	_	_	_
+5	iki	_	_	_	_	_	_	_	_
+6	elin	_	_	_	_	_	_	_	_
+7	sesi	_	_	_	_	_	_	_	_
+8	var	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = bds_54416
+# text = Bir musibet bin nasihatten iyidir.
+1	Bir	_	_	_	_	_	_	_	_
+2	musibet	_	_	_	_	_	_	_	_
+3	bin	_	_	_	_	_	_	_	_
+4	nasihatten	_	_	_	_	_	_	_	_
+5	iyidir	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bpp_37113
+# text = Bir bela bin nasihate yeğdir.
+1	Bir	_	_	_	_	_	_	_	_
+2	bela	_	_	_	_	_	_	_	_
+3	bin	_	_	_	_	_	_	_	_
+4	nasihate	_	_	_	_	_	_	_	_
+5	yeğdir	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bvx_91799
+# text = Bir berber bir berbere "Gel beraber bir berber dükkanı açalım." demiş.
+1	Bir	_	_	_	_	_	_	_	_
+2	berber	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	berbere	_	_	_	_	_	_	_	_
+5	"Gel	_	_	_	_	_	_	_	_
+6	beraber	_	_	_	_	_	_	_	_
+7	bir	_	_	_	_	_	_	_	_
+8	berber	_	_	_	_	_	_	_	_
+9	dükkanı	_	_	_	_	_	_	_	_
+10	açalım	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+12	"	_	_	_	_	_	_	_	_
+13	demiş	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = bnb_76236
+# text = Adam olana bir söz yeter. 
+1	Adam	_	_	_	_	_	_	_	_
+2	olana	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	söz	_	_	_	_	_	_	_	_
+5	yeter	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bko_68120
+# text = Beş parmak bir olamaz.
+1	Beş	_	_	_	_	_	_	_	_
+2	parmak	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	olamaz	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = bws_35793
+# text = Bin bilse de bir bilene danışmak istiyor.
+1	Bin	_	_	_	_	_	_	_	_
+2	bilse	_	_	_	_	_	_	_	_
+3	de	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	bilene	_	_	_	_	_	_	_	_
+6	danışmak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bwj_84061
+# text = Terzi diyor ki bin kumaş ölçmeli bir kumaş biçmeli.
+1	Terzi	_	_	_	_	_	_	_	_
+2	diyor	_	_	_	_	_	_	_	_
+3	ki	_	_	_	_	_	_	_	_
+4	bin	_	_	_	_	_	_	_	_
+5	kumaş	_	_	_	_	_	_	_	_
+6	ölçmeli	_	_	_	_	_	_	_	_
+7	bir	_	_	_	_	_	_	_	_
+8	kumaş	_	_	_	_	_	_	_	_
+9	biçmeli	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = brw_81755
+# text = Bir başa bir göz yeter.
+1	Bir	_	_	_	_	_	_	_	_
+2	başa	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	göz	_	_	_	_	_	_	_	_
+5	yeter	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bon_34338
+# text = Anneannem der ki bir ağızdan çıkan bin ağıza yayılır.
+1	Anneannem	_	_	_	_	_	_	_	_
+2	der	_	_	_	_	_	_	_	_
+3	ki	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	ağızdan	_	_	_	_	_	_	_	_
+6	çıkan	_	_	_	_	_	_	_	_
+7	bin	_	_	_	_	_	_	_	_
+8	ağıza	_	_	_	_	_	_	_	_
+9	yayılır	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = big_43739
+# text = Bin tasa bir borç ödemez derler. 
+1	Bin	_	_	_	_	_	_	_	_
+2	tasa	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	borç	_	_	_	_	_	_	_	_
+5	ödemez	_	_	_	_	_	_	_	_
+6	derler	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bvw_38076
+# text = Bir el bir eli yıkamak, iki el bir yüzü yıkamak ister.
+1	Bir	_	_	_	_	_	_	_	_
+2	el	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	eli	_	_	_	_	_	_	_	_
+5	yıkamak	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	iki	_	_	_	_	_	_	_	_
+8	el	_	_	_	_	_	_	_	_
+9	bir	_	_	_	_	_	_	_	_
+10	yüzü	_	_	_	_	_	_	_	_
+11	yıkamak	_	_	_	_	_	_	_	_
+12	ister	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = bkq_77788
+# text = Bir söz ara bozar, bir söz ara düzer.
+1	Bir	_	_	_	_	_	_	_	_
+2	söz	_	_	_	_	_	_	_	_
+3	ara	_	_	_	_	_	_	_	_
+4	bozar	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	söz	_	_	_	_	_	_	_	_
+8	ara	_	_	_	_	_	_	_	_
+9	düzer	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = bqr_64188
+# text = Bir uyuz keçi bir sürüyü boklar.
+1	Bir	_	_	_	_	_	_	_	_
+2	uyuz	_	_	_	_	_	_	_	_
+3	keçi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	sürüyü	_	_	_	_	_	_	_	_
+6	boklar	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = buo_11340
+# text = Bir sürçen atın başı kesilmez.
+1	Bir	_	_	_	_	_	_	_	_
+2	sürçen	_	_	_	_	_	_	_	_
+3	atın	_	_	_	_	_	_	_	_
+4	başı	_	_	_	_	_	_	_	_
+5	kesilmez	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bka_20387
+# text = Bir tepe yıkılırsa bir dere dolar.
+1	Bir	_	_	_	_	_	_	_	_
+2	tepe	_	_	_	_	_	_	_	_
+3	yıkılırsa	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	dere	_	_	_	_	_	_	_	_
+6	dolar	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bzg_55783
+# text = Bir kötünün yedi mahalleye zararı vardır.
+1	Bir	_	_	_	_	_	_	_	_
+2	kötünün	_	_	_	_	_	_	_	_
+3	yedi	_	_	_	_	_	_	_	_
+4	mahalleye	_	_	_	_	_	_	_	_
+5	zararı	_	_	_	_	_	_	_	_
+6	vardır	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bxf_11104
+# text = Bir ipte iki cambaz oynamaz.
+1	Bir	_	_	_	_	_	_	_	_
+2	ipte	_	_	_	_	_	_	_	_
+3	iki	_	_	_	_	_	_	_	_
+4	cambaz	_	_	_	_	_	_	_	_
+5	oynamaz	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bua_36737
+# text = Bir çöplükte iki horoz ötmez.
+1	Bir	_	_	_	_	_	_	_	_
+2	çöplükte	_	_	_	_	_	_	_	_
+3	iki	_	_	_	_	_	_	_	_
+4	horoz	_	_	_	_	_	_	_	_
+5	ötmez	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bab_23410
+# text = Eskiler der ki bir söz yola getirir bir söz yoldan çıkarır.
+1	Eskiler	_	_	_	_	_	_	_	_
+2	der	_	_	_	_	_	_	_	_
+3	ki	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	söz	_	_	_	_	_	_	_	_
+6	yola	_	_	_	_	_	_	_	_
+7	getirir	_	_	_	_	_	_	_	_
+8	bir	_	_	_	_	_	_	_	_
+9	söz	_	_	_	_	_	_	_	_
+10	yoldan	_	_	_	_	_	_	_	_
+11	çıkarır	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = bqx_98077
+# text = Bir ağaçta gül de biter diken de.
+1	Bir	_	_	_	_	_	_	_	_
+2	ağaçta	_	_	_	_	_	_	_	_
+3	gül	_	_	_	_	_	_	_	_
+4	de	_	_	_	_	_	_	_	_
+5	biter	_	_	_	_	_	_	_	_
+6	diken	_	_	_	_	_	_	_	_
+7	de	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bej_58775
+# text = Bir dirhem et bir ayıp örter derler. 
+1	Bir	_	_	_	_	_	_	_	_
+2	dirhem	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	ayıp	_	_	_	_	_	_	_	_
+6	örter	_	_	_	_	_	_	_	_
+7	derler	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bjh_73556
+# text = Bir elin verdiğini öbür elin duymamalı.
+1	Bir	_	_	_	_	_	_	_	_
+2	elin	_	_	_	_	_	_	_	_
+3	verdiğini	_	_	_	_	_	_	_	_
+4	öbür	_	_	_	_	_	_	_	_
+5	elin	_	_	_	_	_	_	_	_
+6	duymamalı	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = btw_42040
+# text = Bir dalın gölgesinde bin koyun eğlenir diye bir söz var.
+1	Bir	_	_	_	_	_	_	_	_
+2	dalın	_	_	_	_	_	_	_	_
+3	gölgesinde	_	_	_	_	_	_	_	_
+4	bin	_	_	_	_	_	_	_	_
+5	koyun	_	_	_	_	_	_	_	_
+6	eğlenir	_	_	_	_	_	_	_	_
+7	diye	_	_	_	_	_	_	_	_
+8	bir	_	_	_	_	_	_	_	_
+9	söz	_	_	_	_	_	_	_	_
+10	var	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = bqv_49129
+# text = Bir işe başlamak bitirmenin yarısıdır diye bir atasözü var.
+1	Bir	_	_	_	_	_	_	_	_
+2	işe	_	_	_	_	_	_	_	_
+3	başlamak	_	_	_	_	_	_	_	_
+4	bitirmenin	_	_	_	_	_	_	_	_
+5	yarısıdır	_	_	_	_	_	_	_	_
+6	diye	_	_	_	_	_	_	_	_
+7	bir	_	_	_	_	_	_	_	_
+8	atasözü	_	_	_	_	_	_	_	_
+9	var	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = bzi_19554
+# text = Bir fincan kahvenin kırk yıl hatırı vardır.
+1	Bir	_	_	_	_	_	_	_	_
+2	fincan	_	_	_	_	_	_	_	_
+3	kahvenin	_	_	_	_	_	_	_	_
+4	kırk	_	_	_	_	_	_	_	_
+5	yıl	_	_	_	_	_	_	_	_
+6	hatırı	_	_	_	_	_	_	_	_
+7	vardır	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bil_65806
+# text = "Bir ayağı çukurda olmak" diye bir deyim var.
+1	"Bir	_	_	_	_	_	_	_	_
+2	ayağı	_	_	_	_	_	_	_	_
+3	çukurda	_	_	_	_	_	_	_	_
+4	olmak"	_	_	_	_	_	_	_	_
+5	diye	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	deyim	_	_	_	_	_	_	_	_
+8	var	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = brq_73494
+# text = Cin tutana bir muska yeter.
+1	Cin	_	_	_	_	_	_	_	_
+2	tutana	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	muska	_	_	_	_	_	_	_	_
+5	yeter	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bqq_69884
+# text = Deve büyüktür ama beşini bir eşek çeker.
+1	Deve	_	_	_	_	_	_	_	_
+2	büyüktür	_	_	_	_	_	_	_	_
+3	ama	_	_	_	_	_	_	_	_
+4	beşini	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	eşek	_	_	_	_	_	_	_	_
+7	çeker	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bma_76060
+# text = Deveyi yardan uçuran bir tutam ottur diye bir atasözü var.
+1	Deveyi	_	_	_	_	_	_	_	_
+2	yardan	_	_	_	_	_	_	_	_
+3	uçuran	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	tutam	_	_	_	_	_	_	_	_
+6	ottur	_	_	_	_	_	_	_	_
+7	diye	_	_	_	_	_	_	_	_
+8	bir	_	_	_	_	_	_	_	_
+9	atasözü	_	_	_	_	_	_	_	_
+10	var	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = bok_46282
+# text = Evden bir ölü çıkmak istiyor demişler, herkes hizmetçinin yüzüne bakmış.
+1	Evden	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	ölü	_	_	_	_	_	_	_	_
+4	çıkmak	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	demişler	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	herkes	_	_	_	_	_	_	_	_
+9	hizmetçinin	_	_	_	_	_	_	_	_
+10	yüzüne	_	_	_	_	_	_	_	_
+11	bakmış	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = bct_15190
+# text = Evlinin bir evi var, evsizin bin evi var.
+1	Evlinin	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	evi	_	_	_	_	_	_	_	_
+4	var	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	evsizin	_	_	_	_	_	_	_	_
+7	bin	_	_	_	_	_	_	_	_
+8	evi	_	_	_	_	_	_	_	_
+9	var	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = bhj_30773
+# text = Eşeğin gönlüne kalsa bir bağ maydanozu götürmez.
+1	Eşeğin	_	_	_	_	_	_	_	_
+2	gönlüne	_	_	_	_	_	_	_	_
+3	kalsa	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	bağ	_	_	_	_	_	_	_	_
+6	maydanozu	_	_	_	_	_	_	_	_
+7	götürmez	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bni_91970
+# text = Her gün gezen kırda bir gün uğrar kurda diye bir atasözü var.
+1	Her	_	_	_	_	_	_	_	_
+2	gün	_	_	_	_	_	_	_	_
+3	gezen	_	_	_	_	_	_	_	_
+4	kırda	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	gün	_	_	_	_	_	_	_	_
+7	uğrar	_	_	_	_	_	_	_	_
+8	kurda	_	_	_	_	_	_	_	_
+9	diye	_	_	_	_	_	_	_	_
+10	bir	_	_	_	_	_	_	_	_
+11	atasözü	_	_	_	_	_	_	_	_
+12	var	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = bpt_19264
+# text = Her vaktin bir padişahı var.
+1	Her	_	_	_	_	_	_	_	_
+2	vaktin	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	padişahı	_	_	_	_	_	_	_	_
+5	var	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bmw_60927
+# text = Her inişin bir çıkışı var.
+1	Her	_	_	_	_	_	_	_	_
+2	inişin	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	çıkışı	_	_	_	_	_	_	_	_
+5	var	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bao_51103
+# text = Her yiğidin bir yoğurt yiyişi vardır.
+1	Her	_	_	_	_	_	_	_	_
+2	yiğidin	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	yoğurt	_	_	_	_	_	_	_	_
+5	yiyişi	_	_	_	_	_	_	_	_
+6	vardır	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bra_20849
+# text = Her işte bir hayır vardır.
+1	Her	_	_	_	_	_	_	_	_
+2	işte	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	hayır	_	_	_	_	_	_	_	_
+5	vardır	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = ber_34845
+# text = Her yiğidin gönlünde bir aslan yatar.
+1	Her	_	_	_	_	_	_	_	_
+2	yiğidin	_	_	_	_	_	_	_	_
+3	gönlünde	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	aslan	_	_	_	_	_	_	_	_
+6	yatar	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = byu_24157
+# text = Bir kızı bin kişi ister bir kişi alır.
+1	Bir	_	_	_	_	_	_	_	_
+2	kızı	_	_	_	_	_	_	_	_
+3	bin	_	_	_	_	_	_	_	_
+4	kişi	_	_	_	_	_	_	_	_
+5	ister	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	kişi	_	_	_	_	_	_	_	_
+8	alır	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = bpc_69045
+# text = Meramın elinden bir şey kurtulmaz.
+1	Meramın	_	_	_	_	_	_	_	_
+2	elinden	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	şey	_	_	_	_	_	_	_	_
+5	kurtulmaz	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgu_20578
+# text = Ölüsü olan bir gün ağlamak delisi olan her gün ağlamak ister.
+1	Ölüsü	_	_	_	_	_	_	_	_
+2	olan	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	gün	_	_	_	_	_	_	_	_
+5	ağlamak	_	_	_	_	_	_	_	_
+6	delisi	_	_	_	_	_	_	_	_
+7	olan	_	_	_	_	_	_	_	_
+8	her	_	_	_	_	_	_	_	_
+9	gün	_	_	_	_	_	_	_	_
+10	ağlamak	_	_	_	_	_	_	_	_
+11	ister	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = cnh_46385
+# text = Benzersiz bir hayata sahip olmayı düşler her insan.
+1	Benzersiz	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	hayata	_	_	_	_	_	_	_	_
+4	sahip	_	_	_	_	_	_	_	_
+5	olmayı	_	_	_	_	_	_	_	_
+6	düşler	_	_	_	_	_	_	_	_
+7	her	_	_	_	_	_	_	_	_
+8	insan	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = cjl_93407
+# text = Hakim buradaki gibi bir davaya bakmak istiyor.
+1	Hakim	_	_	_	_	_	_	_	_
+2	buradaki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	davaya	_	_	_	_	_	_	_	_
+6	bakmak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = cxb_53439
+# text = Kamil istiyor bir kanepede uyumak.
+1	Kamil	_	_	_	_	_	_	_	_
+2	istiyor	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	kanepede	_	_	_	_	_	_	_	_
+5	uyumak	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = chq_83944
+# text = Leman o gece bir kaşif ile tanışmayı arzuluyormuş.
+1	Leman	_	_	_	_	_	_	_	_
+2	o	_	_	_	_	_	_	_	_
+3	gece	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	kaşif	_	_	_	_	_	_	_	_
+6	ile	_	_	_	_	_	_	_	_
+7	tanışmayı	_	_	_	_	_	_	_	_
+8	arzuluyormuş	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = ctt_65537
+# text = Büşra kütüphaneden bir kitap ödünç almak istiyordu.
+1	Büşra	_	_	_	_	_	_	_	_
+2	kütüphaneden	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	kitap	_	_	_	_	_	_	_	_
+5	ödünç	_	_	_	_	_	_	_	_
+6	almak	_	_	_	_	_	_	_	_
+7	istiyordu	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = cso_26586
+# text = Bir köyden ev almak istiyor Gülsüm.
+1	Bir	_	_	_	_	_	_	_	_
+2	köyden	_	_	_	_	_	_	_	_
+3	ev	_	_	_	_	_	_	_	_
+4	almak	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	Gülsüm	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cwz_43220
+# text = Filiz geçen sene bir yazlık almak istiyordu.
+1	Filiz	_	_	_	_	_	_	_	_
+2	geçen	_	_	_	_	_	_	_	_
+3	sene	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	yazlık	_	_	_	_	_	_	_	_
+6	almak	_	_	_	_	_	_	_	_
+7	istiyordu	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = cmp_80775
+# text = Hüseyin bir uzmanla fikir alışverişi yapmak istiyor.
+1	Hüseyin	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	uzmanla	_	_	_	_	_	_	_	_
+4	fikir	_	_	_	_	_	_	_	_
+5	alışverişi	_	_	_	_	_	_	_	_
+6	yapmak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = czx_10919
+# text = Teoman başka bir sanatçı ile düet yapmak istiyor.
+1	Teoman	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	sanatçı	_	_	_	_	_	_	_	_
+5	ile	_	_	_	_	_	_	_	_
+6	düet	_	_	_	_	_	_	_	_
+7	yapmak	_	_	_	_	_	_	_	_
+8	istiyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = cvk_75865
+# text = Başka bir yetenekli yarışmacıyı değerlendirmek istiyor Zerrin.
+1	Başka	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	yetenekli	_	_	_	_	_	_	_	_
+4	yarışmacıyı	_	_	_	_	_	_	_	_
+5	değerlendirmek	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	Zerrin	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = cjh_20467
+# text = Öğrencilerden biri bir sunum yapmak istiyormuş.
+1	Öğrencilerden	_	_	_	_	_	_	_	_
+2	biri	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	sunum	_	_	_	_	_	_	_	_
+5	yapmak	_	_	_	_	_	_	_	_
+6	istiyormuş	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cly_98612
+# text = Başka bir marketten meyve almak istiyor Hülya.
+1	Başka	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	marketten	_	_	_	_	_	_	_	_
+4	meyve	_	_	_	_	_	_	_	_
+5	almak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	Hülya	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = cec_10119
+# text = Nazım istiyordu ki bir daha bir deniz kızının şarkısı yarıda kalmasın.
+1	Nazım	_	_	_	_	_	_	_	_
+2	istiyordu	_	_	_	_	_	_	_	_
+3	ki	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	daha	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	deniz	_	_	_	_	_	_	_	_
+8	kızının	_	_	_	_	_	_	_	_
+9	şarkısı	_	_	_	_	_	_	_	_
+10	yarıda	_	_	_	_	_	_	_	_
+11	kalmasın	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = cnc_25461
+# text = Mercan bir yaşlıdan tavsiye almak istiyor.
+1	Mercan	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	yaşlıdan	_	_	_	_	_	_	_	_
+4	tavsiye	_	_	_	_	_	_	_	_
+5	almak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cef_41685
+# text = Filiz güzel bir arabayı almak istiyor.
+1	Filiz	_	_	_	_	_	_	_	_
+2	güzel	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	arabayı	_	_	_	_	_	_	_	_
+5	almak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = ccy_38957
+# text = Suat bir doktora görünmek istiyor.
+1	Suat	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	doktora	_	_	_	_	_	_	_	_
+4	görünmek	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = cok_24050
+# text = dün Leyla salonun duvarına bir tablo asmak istiyordu.
+1	dün	_	_	_	_	_	_	_	_
+2	Leyla	_	_	_	_	_	_	_	_
+3	salonun	_	_	_	_	_	_	_	_
+4	duvarına	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	tablo	_	_	_	_	_	_	_	_
+7	asmak	_	_	_	_	_	_	_	_
+8	istiyordu	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = cvf_20248
+# text = Büşra mağazadan bir elbise almak istiyordu.
+1	Büşra	_	_	_	_	_	_	_	_
+2	mağazadan	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	elbise	_	_	_	_	_	_	_	_
+5	almak	_	_	_	_	_	_	_	_
+6	istiyordu	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cfo_86173
+# text = Anıl eski bir bisiklet almayı planlıyormuş.
+1	Anıl	_	_	_	_	_	_	_	_
+2	eski	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	bisiklet	_	_	_	_	_	_	_	_
+5	almayı	_	_	_	_	_	_	_	_
+6	planlıyormuş	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = ceb_32096
+# text = Doğanay sevgilisini bir gece treninde yakalayabileceğini umuyor.
+1	Doğanay	_	_	_	_	_	_	_	_
+2	sevgilisini	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	gece	_	_	_	_	_	_	_	_
+5	treninde	_	_	_	_	_	_	_	_
+6	yakalayabileceğini	_	_	_	_	_	_	_	_
+7	umuyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = cmc_38584
+# text = Konuşkan biriyle hasbihal etmek istiyor Nazan.
+1	Konuşkan	_	_	_	_	_	_	_	_
+2	biriyle	_	_	_	_	_	_	_	_
+3	hasbihal	_	_	_	_	_	_	_	_
+4	etmek	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	Nazan	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cvh_24535
+# text = Gaye bir sınavdan yüksek puan almak istiyor.
+1	Gaye	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	sınavdan	_	_	_	_	_	_	_	_
+4	yüksek	_	_	_	_	_	_	_	_
+5	puan	_	_	_	_	_	_	_	_
+6	almak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = cjo_13092
+# text = İmge istiyor başka bir konuda konuşmak.
+1	İmge	_	_	_	_	_	_	_	_
+2	istiyor	_	_	_	_	_	_	_	_
+3	başka	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	konuda	_	_	_	_	_	_	_	_
+6	konuşmak	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cgl_12312
+# text = Özlem başka bir yazı yazmak istiyor.
+1	Özlem	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	yazı	_	_	_	_	_	_	_	_
+5	yazmak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cff_94696
+# text = uzun boylu öğrenci zor bir soru sormak istiyormuş.
+1	uzun	_	_	_	_	_	_	_	_
+2	boylu	_	_	_	_	_	_	_	_
+3	öğrenci	_	_	_	_	_	_	_	_
+4	zor	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	soru	_	_	_	_	_	_	_	_
+7	sormak	_	_	_	_	_	_	_	_
+8	istiyormuş	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = cdq_88896
+# text = Buse uzun zamandır buraya bir avize almak istiyordu.
+1	Buse	_	_	_	_	_	_	_	_
+2	uzun	_	_	_	_	_	_	_	_
+3	zamandır	_	_	_	_	_	_	_	_
+4	buraya	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	avize	_	_	_	_	_	_	_	_
+7	almak	_	_	_	_	_	_	_	_
+8	istiyordu	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = cfo_86845
+# text = Handan her sabah hayatını değiştirecek bir insanla tanışmayı diliyor.
+1	Handan	_	_	_	_	_	_	_	_
+2	her	_	_	_	_	_	_	_	_
+3	sabah	_	_	_	_	_	_	_	_
+4	hayatını	_	_	_	_	_	_	_	_
+5	değiştirecek	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	insanla	_	_	_	_	_	_	_	_
+8	tanışmayı	_	_	_	_	_	_	_	_
+9	diliyor	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = cac_38213
+# text = Bunun gibi bir adama hayran olmak istiyor Beren.
+1	Bunun	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	adama	_	_	_	_	_	_	_	_
+5	hayran	_	_	_	_	_	_	_	_
+6	olmak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	Beren	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = cbd_66681
+# text = Gülsüm en kısa zamanda bir doktor görmek istiyormuş.
+1	Gülsüm	_	_	_	_	_	_	_	_
+2	en	_	_	_	_	_	_	_	_
+3	kısa	_	_	_	_	_	_	_	_
+4	zamanda	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	doktor	_	_	_	_	_	_	_	_
+7	görmek	_	_	_	_	_	_	_	_
+8	istiyormuş	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = cdb_24274
+# text = izmir'deki gibi bir sahilde güneşlenmek istiyor Selin.
+1	izmir'deki	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	sahilde	_	_	_	_	_	_	_	_
+5	güneşlenmek	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	Selin	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = cma_74820
+# text = İlke uzun bir kitabı bitirmek istiyor.
+1	İlke	_	_	_	_	_	_	_	_
+2	uzun	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	kitabı	_	_	_	_	_	_	_	_
+5	bitirmek	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cgw_11624
+# text = Reyhan bir kurabiyeden ısırık almak istiyor.
+1	Reyhan	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	kurabiyeden	_	_	_	_	_	_	_	_
+4	ısırık	_	_	_	_	_	_	_	_
+5	almak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cqj_55290
+# text = bir misafirin pencereyi açık bıraktığını düşünüyor Asude.
+1	bir	_	_	_	_	_	_	_	_
+2	misafirin	_	_	_	_	_	_	_	_
+3	pencereyi	_	_	_	_	_	_	_	_
+4	açık	_	_	_	_	_	_	_	_
+5	bıraktığını	_	_	_	_	_	_	_	_
+6	düşünüyor	_	_	_	_	_	_	_	_
+7	Asude	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = cvn_83689
+# text = zeynep'inki gibi bir makaleden bahsetmek istiyor Ayla.
+1	zeynep'inki	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	makaleden	_	_	_	_	_	_	_	_
+5	bahsetmek	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	Ayla	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = cnd_84283
+# text = sınıftaki kız bir kitap almak istiyormuş.
+1	sınıftaki	_	_	_	_	_	_	_	_
+2	kız	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	kitap	_	_	_	_	_	_	_	_
+5	almak	_	_	_	_	_	_	_	_
+6	istiyormuş	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = ccn_33233
+# text = Beyza rahat bir yatakta uyumak istiyor.
+1	Beyza	_	_	_	_	_	_	_	_
+2	rahat	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	yatakta	_	_	_	_	_	_	_	_
+5	uyumak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = chn_62643
+# text = Talha bir ziyaretçinin kilidi kırdığını düşünüyor.
+1	Talha	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	ziyaretçinin	_	_	_	_	_	_	_	_
+4	kilidi	_	_	_	_	_	_	_	_
+5	kırdığını	_	_	_	_	_	_	_	_
+6	düşünüyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cgl_98477
+# text = Olcay istiyor başka bir arabada seyahat etmek.
+1	Olcay	_	_	_	_	_	_	_	_
+2	istiyor	_	_	_	_	_	_	_	_
+3	başka	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	arabada	_	_	_	_	_	_	_	_
+6	seyahat	_	_	_	_	_	_	_	_
+7	etmek	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = czz_36231
+# text = Bir ateş almak için demirciye uğrayamayacağından korkuyordu Uve.
+1	Bir	_	_	_	_	_	_	_	_
+2	ateş	_	_	_	_	_	_	_	_
+3	almak	_	_	_	_	_	_	_	_
+4	için	_	_	_	_	_	_	_	_
+5	demirciye	_	_	_	_	_	_	_	_
+6	uğrayamayacağından	_	_	_	_	_	_	_	_
+7	korkuyordu	_	_	_	_	_	_	_	_
+8	Uve	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = cds_11645
+# text = Evren ablası gibi bir astronot olmayı arzu ediyor.
+1	Evren	_	_	_	_	_	_	_	_
+2	ablası	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	astronot	_	_	_	_	_	_	_	_
+6	olmayı	_	_	_	_	_	_	_	_
+7	arzu	_	_	_	_	_	_	_	_
+8	ediyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = cvk_68217
+# text = komşunun oğlu bir tamirci öpmek istiyormuş.
+1	komşunun	_	_	_	_	_	_	_	_
+2	oğlu	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	tamirci	_	_	_	_	_	_	_	_
+5	öpmek	_	_	_	_	_	_	_	_
+6	istiyormuş	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cws_76692
+# text = Akıllı bir insan varını yoğunu satıp savıp yeni bir maceraya yelken açmaz.
+1	Akıllı	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	insan	_	_	_	_	_	_	_	_
+4	varını	_	_	_	_	_	_	_	_
+5	yoğunu	_	_	_	_	_	_	_	_
+6	satıp	_	_	_	_	_	_	_	_
+7	savıp	_	_	_	_	_	_	_	_
+8	yeni	_	_	_	_	_	_	_	_
+9	bir	_	_	_	_	_	_	_	_
+10	maceraya	_	_	_	_	_	_	_	_
+11	yelken	_	_	_	_	_	_	_	_
+12	açmaz	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = cck_63638
+# text = Helin başka bir denizden balık tutmak istiyor.
+1	Helin	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	denizden	_	_	_	_	_	_	_	_
+5	balık	_	_	_	_	_	_	_	_
+6	tutmak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = cvy_22223
+# text = Ayşe bahçede bir köpek beslemek istiyordu.
+1	Ayşe	_	_	_	_	_	_	_	_
+2	bahçede	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	köpek	_	_	_	_	_	_	_	_
+5	beslemek	_	_	_	_	_	_	_	_
+6	istiyordu	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cqh_90118
+# text = Çolpan onunla aynı mesleği yapanların çoğunun hayattan keyif alamadığından şüpheleniyor.
+1	Çolpan	_	_	_	_	_	_	_	_
+2	onunla	_	_	_	_	_	_	_	_
+3	aynı	_	_	_	_	_	_	_	_
+4	mesleği	_	_	_	_	_	_	_	_
+5	yapanların	_	_	_	_	_	_	_	_
+6	çoğunun	_	_	_	_	_	_	_	_
+7	hayattan	_	_	_	_	_	_	_	_
+8	keyif	_	_	_	_	_	_	_	_
+9	alamadığından	_	_	_	_	_	_	_	_
+10	şüpheleniyor	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = cmv_95673
+# text = Berke istiyor başka bir dosyayla ilgilenmek.
+1	Berke	_	_	_	_	_	_	_	_
+2	istiyor	_	_	_	_	_	_	_	_
+3	başka	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	dosyayla	_	_	_	_	_	_	_	_
+6	ilgilenmek	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cyk_11837
+# text = Mutfağa bir sandalye koymak istiyordu.
+1	Mutfağa	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	sandalye	_	_	_	_	_	_	_	_
+4	koymak	_	_	_	_	_	_	_	_
+5	istiyordu	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = cps_49576
+# text = Atacan bir uzmandan görüş almak istiyor.
+1	Atacan	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	uzmandan	_	_	_	_	_	_	_	_
+4	görüş	_	_	_	_	_	_	_	_
+5	almak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cpq_69872
+# text = Bir halıya süt dökmenin geri dönülmez bir hata olmadığını düşünecekti Mırnav.
+1	Bir	_	_	_	_	_	_	_	_
+2	halıya	_	_	_	_	_	_	_	_
+3	süt	_	_	_	_	_	_	_	_
+4	dökmenin	_	_	_	_	_	_	_	_
+5	geri	_	_	_	_	_	_	_	_
+6	dönülmez	_	_	_	_	_	_	_	_
+7	bir	_	_	_	_	_	_	_	_
+8	hata	_	_	_	_	_	_	_	_
+9	olmadığını	_	_	_	_	_	_	_	_
+10	düşünecekti	_	_	_	_	_	_	_	_
+11	Mırnav	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = cxe_11357
+# text = Benim gibi bir öğrenciyle görüşmek istiyor Fikriye.
+1	Benim	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	öğrenciyle	_	_	_	_	_	_	_	_
+5	görüşmek	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	Fikriye	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = cfw_73324
+# text = Orkun başka bir kravat takmak istiyor.
+1	Orkun	_	_	_	_	_	_	_	_
+2	başka	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	kravat	_	_	_	_	_	_	_	_
+5	takmak	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cpf_97428
+# text = Itır odadan kaçabilmek için gizli bir geçidi bulmalıydı.
+1	Itır	_	_	_	_	_	_	_	_
+2	odadan	_	_	_	_	_	_	_	_
+3	kaçabilmek	_	_	_	_	_	_	_	_
+4	için	_	_	_	_	_	_	_	_
+5	gizli	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	geçidi	_	_	_	_	_	_	_	_
+8	bulmalıydı	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = clq_46091
+# text = Geçen ay Büşra balkonunda bir kedi beslemek istiyordu.
+1	Geçen	_	_	_	_	_	_	_	_
+2	ay	_	_	_	_	_	_	_	_
+3	Büşra	_	_	_	_	_	_	_	_
+4	balkonunda	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	kedi	_	_	_	_	_	_	_	_
+7	beslemek	_	_	_	_	_	_	_	_
+8	istiyordu	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = csc_53638
+# text = arkadaşına özel bir hediye almak istiyormuş.
+1	arkadaşına	_	_	_	_	_	_	_	_
+2	özel	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	hediye	_	_	_	_	_	_	_	_
+5	almak	_	_	_	_	_	_	_	_
+6	istiyormuş	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cjy_58288
+# text = Bir çiçeğe su vermek istiyor küçük çocuk.
+1	Bir	_	_	_	_	_	_	_	_
+2	çiçeğe	_	_	_	_	_	_	_	_
+3	su	_	_	_	_	_	_	_	_
+4	vermek	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	küçük	_	_	_	_	_	_	_	_
+7	çocuk	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = cnk_83597
+# text = Leyla, ayşe'ninki gibi kırmızı bir araba almak istiyor.
+1	Leyla	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	ayşe'ninki	_	_	_	_	_	_	_	_
+4	gibi	_	_	_	_	_	_	_	_
+5	kırmızı	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	araba	_	_	_	_	_	_	_	_
+8	almak	_	_	_	_	_	_	_	_
+9	istiyor	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = cud_98475
+# text = Zor bir bölümü geçmek istiyor Mehmet.
+1	Zor	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	bölümü	_	_	_	_	_	_	_	_
+4	geçmek	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	Mehmet	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cwq_92047
+# text = seninki gibi bir elbiseyi giymek istiyor Ilgın.
+1	seninki	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	elbiseyi	_	_	_	_	_	_	_	_
+5	giymek	_	_	_	_	_	_	_	_
+6	istiyor	_	_	_	_	_	_	_	_
+7	Ilgın	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = cmf_45030
+# text = Leyla bahçedeki gibi bir arabayla gezmek istiyor.
+1	Leyla	_	_	_	_	_	_	_	_
+2	bahçedeki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	arabayla	_	_	_	_	_	_	_	_
+6	gezmek	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = cmw_92409
+# text = Hülagü karayipler'deki gibi bir restoranda yemek yemek istiyor.
+1	Hülagü	_	_	_	_	_	_	_	_
+2	karayipler'deki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	restoranda	_	_	_	_	_	_	_	_
+6	yemek	_	_	_	_	_	_	_	_
+7	yemek	_	_	_	_	_	_	_	_
+8	istiyor	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = cls_25105
+# text = Melike etkileyici bir şiir okumak istiyormuş arkadaşına.
+1	Melike	_	_	_	_	_	_	_	_
+2	etkileyici	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	şiir	_	_	_	_	_	_	_	_
+5	okumak	_	_	_	_	_	_	_	_
+6	istiyormuş	_	_	_	_	_	_	_	_
+7	arkadaşına	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = cbu_99836
+# text = Erkan istiyor bir apartmanda yaşamak.
+1	Erkan	_	_	_	_	_	_	_	_
+2	istiyor	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	apartmanda	_	_	_	_	_	_	_	_
+5	yaşamak	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = cyw_50200
+# text = Lale bir panda görmek istiyormuş.
+1	Lale	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	panda	_	_	_	_	_	_	_	_
+4	görmek	_	_	_	_	_	_	_	_
+5	istiyormuş	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = cqu_58779
+# text = Ayşe gibi bir gazeteciye röportaj vermek istiyor şarkıcı.
+1	Ayşe	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	gazeteciye	_	_	_	_	_	_	_	_
+5	röportaj	_	_	_	_	_	_	_	_
+6	vermek	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	şarkıcı	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = clv_32659
+# text = Buket benimki gibi bir bilgisayarla çalışmak istiyor.
+1	Buket	_	_	_	_	_	_	_	_
+2	benimki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	bilgisayarla	_	_	_	_	_	_	_	_
+6	çalışmak	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = cuc_96218
+# text = Bir ağaçtan meyve toplamak istiyor Tahsin.
+1	Bir	_	_	_	_	_	_	_	_
+2	ağaçtan	_	_	_	_	_	_	_	_
+3	meyve	_	_	_	_	_	_	_	_
+4	toplamak	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	Tahsin	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cvu_46898
+# text = Komşunun kızı bir tesisatçı öpmek istiyormuş.
+1	Komşunun	_	_	_	_	_	_	_	_
+2	kızı	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	tesisatçı	_	_	_	_	_	_	_	_
+5	öpmek	_	_	_	_	_	_	_	_
+6	istiyormuş	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = can_37333
+# text = Başka bir kadınla öpüşmek istiyor Nuran.
+1	Başka	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	kadınla	_	_	_	_	_	_	_	_
+4	öpüşmek	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	Nuran	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = cxo_67379
+# text = başkanınki gibi bir makam arabasını sürmek istiyor Şoför.
+1	başkanınki	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	makam	_	_	_	_	_	_	_	_
+5	arabasını	_	_	_	_	_	_	_	_
+6	sürmek	_	_	_	_	_	_	_	_
+7	istiyor	_	_	_	_	_	_	_	_
+8	Şoför	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = cjs_54659
+# text = Bir uzmana danışmak istiyor Yaren.
+1	Bir	_	_	_	_	_	_	_	_
+2	uzmana	_	_	_	_	_	_	_	_
+3	danışmak	_	_	_	_	_	_	_	_
+4	istiyor	_	_	_	_	_	_	_	_
+5	Yaren	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = cze_71710
+# text = Urla'daki gibi bir organik pazardan alışveriş yapmak istiyor Bensu.
+1	Urla'daki	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	organik	_	_	_	_	_	_	_	_
+5	pazardan	_	_	_	_	_	_	_	_
+6	alışveriş	_	_	_	_	_	_	_	_
+7	yapmak	_	_	_	_	_	_	_	_
+8	istiyor	_	_	_	_	_	_	_	_
+9	Bensu	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = cfn_72191
+# text = Gözde bir çiçeği sulamak istiyor.
+1	Gözde	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	çiçeği	_	_	_	_	_	_	_	_
+4	sulamak	_	_	_	_	_	_	_	_
+5	istiyor	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+

@@ -9,10 +9,10 @@
 7	.	_	_	_	_	_	_	_	_
 
 # sent_id = mtn_29484
-# text = Fatma, Selin'inki gibi bir tekne modifiye etmek istiyor.
+# text = Fatma, selin'inki gibi bir tekne modifiye etmek istiyor.
 1	Fatma	_	_	_	_	_	_	_	_
 2	,	_	_	_	_	_	_	_	_
-3	Selin'inki	_	_	_	_	_	_	_	_
+3	selin'inki	_	_	_	_	_	_	_	_
 4	gibi	_	_	_	_	_	_	_	_
 5	bir	_	_	_	_	_	_	_	_
 6	tekne	_	_	_	_	_	_	_	_
@@ -1415,13 +1415,9 @@
 6	almak	_	_	_	_	_	_	_	_
 7	.	_	_	_	_	_	_	_	_
 
-# sent_id = zzz_00001
-# text = bu boş bir cümledir.
-1	bu	_	_	_	_	_	_	_	_
-2	boş	_	_	_	_	_	_	_	_
-3	bir	_	_	_	_	_	_	_	_
-4	cümledir	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+# sent_id = vvv_00000
+# text = split0
+1	split0	_	_	_	_	_	_	_	_
 
 # sent_id = mwq_94188
 # text = Naz'ın talep ettiği bir toplantı var patronundan.
@@ -1498,16 +1494,15 @@
 7	.	_	_	_	_	_	_	_	_
 
 # sent_id = mvr_94274
-# text = Rüstem'in yola çıkmak istediği bir araba Şakire'ninkine benziyor.
+# text = Rüstem'in yola çıkmak istediği araba Şakire'ninkine benziyor.
 1	Rüstem'in	_	_	_	_	_	_	_	_
 2	yola	_	_	_	_	_	_	_	_
 3	çıkmak	_	_	_	_	_	_	_	_
 4	istediği	_	_	_	_	_	_	_	_
-5	bir	_	_	_	_	_	_	_	_
-6	araba	_	_	_	_	_	_	_	_
-7	Şakire'ninkine	_	_	_	_	_	_	_	_
-8	benziyor	_	_	_	_	_	_	_	_
-9	.	_	_	_	_	_	_	_	_
+5	araba	_	_	_	_	_	_	_	_
+6	Şakire'ninkine	_	_	_	_	_	_	_	_
+7	benziyor	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
 
 # sent_id = mvt_51641
 # text = Ayşe'nin yıkamak istediği bir tabak var.
@@ -1808,7 +1803,7 @@
 9	.	_	_	_	_	_	_	_	_
 
 # sent_id = mbq_65816
-# text = Hediye'nin elbise dikerken kullanmak istediği şuna benzeyen yeni model bir dikiş makinesi var.
+# text = Hediye'nin elbise dikerken kullanmak istediği şuna benzeyen yeni model bir dikiş makinesi  var.
 1	Hediye'nin	_	_	_	_	_	_	_	_
 2	elbise	_	_	_	_	_	_	_	_
 3	dikerken	_	_	_	_	_	_	_	_
@@ -1937,7 +1932,7 @@
 9	.	_	_	_	_	_	_	_	_
 
 # sent_id = mtu_80138
-# text = Gamze'nin doğum günü partisi için alıp gelmemizi istediği şeyin bir şarap olup olmadığını biliyor musun? 
+# text = Gamze'nin doğum günü partisi için alıp gelmemizi istediği şeyin bir şarap olup olmadığını biliyor musun? 
 1	Gamze'nin	_	_	_	_	_	_	_	_
 2	doğum	_	_	_	_	_	_	_	_
 3	günü	_	_	_	_	_	_	_	_
@@ -2473,17 +2468,16 @@
 17	.	_	_	_	_	_	_	_	_
 
 # sent_id = mtv_14785
-# text = Banu'nun arsa almak istediği bir şehir İstanbul gibi büyük.
+# text = Banu'nun arsa almak istediği şehir İstanbul gibi büyük.
 1	Banu'nun	_	_	_	_	_	_	_	_
 2	arsa	_	_	_	_	_	_	_	_
 3	almak	_	_	_	_	_	_	_	_
 4	istediği	_	_	_	_	_	_	_	_
-5	bir	_	_	_	_	_	_	_	_
-6	şehir	_	_	_	_	_	_	_	_
-7	İstanbul	_	_	_	_	_	_	_	_
-8	gibi	_	_	_	_	_	_	_	_
-9	büyük	_	_	_	_	_	_	_	_
-10	.	_	_	_	_	_	_	_	_
+5	şehir	_	_	_	_	_	_	_	_
+6	İstanbul	_	_	_	_	_	_	_	_
+7	gibi	_	_	_	_	_	_	_	_
+8	büyük	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
 
 # sent_id = mlj_75000
 # text = Deniz'in kitaplarının taşımanın daha uygun olduğunu düşündüğü küçük bir valiz var.
@@ -2638,7 +2632,7 @@
 12	.	_	_	_	_	_	_	_	_
 
 # sent_id = myz_29666
-# text = Henrik'in söylemenin uygun kaçıp kaçmayacığını merak ettiği güzel bir söz var. 
+# text = Henrik'in söylemenin uygun kaçıp kaçmayacığını merak ettiği güzel bir söz var. 
 1	Henrik'in	_	_	_	_	_	_	_	_
 2	söylemenin	_	_	_	_	_	_	_	_
 3	uygun	_	_	_	_	_	_	_	_
@@ -2838,7 +2832,7 @@
 12	.	_	_	_	_	_	_	_	_
 
 # sent_id = msu_38814
-# text = Çok sıkıldığım için birlikte bara gitmek istediğim bir arkadaşım var. 
+# text = Çok sıkıldığım için birlikte bara gitmek istediğim bir arkadaşım var. 
 1	Çok	_	_	_	_	_	_	_	_
 2	sıkıldığım	_	_	_	_	_	_	_	_
 3	için	_	_	_	_	_	_	_	_
@@ -2974,13 +2968,9 @@
 8	var	_	_	_	_	_	_	_	_
 9	.	_	_	_	_	_	_	_	_
 
-# sent_id = zzz_00002
-# text = bu boş bir cümledir.
-1	bu	_	_	_	_	_	_	_	_
-2	boş	_	_	_	_	_	_	_	_
-3	bir	_	_	_	_	_	_	_	_
-4	cümledir	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+# sent_id = vvv_00001
+# text = split1
+1	split1	_	_	_	_	_	_	_	_
 
 # sent_id = mmt_69355
 # text = Naz'ın patronundan talep ettiği şey bir toplantı.
@@ -3067,7 +3057,7 @@
 8	.	_	_	_	_	_	_	_	_
 
 # sent_id = mkb_59345
-# text = Yola çıkacağı bir arabanın Şakire'ninki gibi olmasını istiyor Rüstem. 
+# text = Yola çıkacağı bir arabanın Şakire'ninki gibi olmasını istiyor Rüstem. 
 1	Yola	_	_	_	_	_	_	_	_
 2	çıkacağı	_	_	_	_	_	_	_	_
 3	bir	_	_	_	_	_	_	_	_
@@ -3163,7 +3153,7 @@
 10	.	_	_	_	_	_	_	_	_
 
 # sent_id = mem_88802
-# text = Bir an önce bir işe başlamak Rumet'in bu evden taşınmasının yollarından biri. 
+# text = Bir an önce bir işe başlamak Rumet'in bu evden taşınmasının yollarından biri. 
 1	Bir	_	_	_	_	_	_	_	_
 2	an	_	_	_	_	_	_	_	_
 3	önce	_	_	_	_	_	_	_	_
@@ -3321,7 +3311,7 @@
 9	.	_	_	_	_	_	_	_	_
 
 # sent_id = mcr_97048
-# text = Kaan tanıdığı işsiz bir kadının farklı olmasını istiyor. 
+# text = Kaan tanıdığı işsiz bir kadının farklı olmasını istiyor. 
 1	Kaan	_	_	_	_	_	_	_	_
 2	tanıdığı	_	_	_	_	_	_	_	_
 3	işsiz	_	_	_	_	_	_	_	_
@@ -4049,7 +4039,7 @@
 10	.	_	_	_	_	_	_	_	_
 
 # sent_id = mgo_43148
-# text = Tüm güzel anıların yerini tutan şey geriye kalan bir fotoğraf parçası olabilir mi diye merak ediyordu Perihan. 
+# text = Tüm güzel anıların yerini tutan şey geriye kalan bir fotoğraf parçası olabilir mi diye merak ediyordu Perihan. 
 1	Tüm	_	_	_	_	_	_	_	_
 2	güzel	_	_	_	_	_	_	_	_
 3	anıların	_	_	_	_	_	_	_	_
@@ -4530,7 +4520,7 @@
 8	.	_	_	_	_	_	_	_	_
 
 # sent_id = mkl_21985
-# text = Ağaçları budayacağı bir makasın şuradakine benzemesini istiyor Fikri. 
+# text = Ağaçları budayacağı bir makasın şuradakine benzemesini istiyor Fikri. 
 1	Ağaçları	_	_	_	_	_	_	_	_
 2	budayacağı	_	_	_	_	_	_	_	_
 3	bir	_	_	_	_	_	_	_	_
@@ -4557,7 +4547,7 @@
 12	.	_	_	_	_	_	_	_	_
 
 # sent_id = mcn_45473
-# text = Buğra'nın yapabileceği en iyi şey bu konuya dair bir makale okumak. 
+# text = Buğra'nın yapabileceği en iyi şey bu konuya dair bir makale okumak. 
 1	Buğra'nın	_	_	_	_	_	_	_	_
 2	yapabileceği	_	_	_	_	_	_	_	_
 3	en	_	_	_	_	_	_	_	_
@@ -4593,46 +4583,4 @@
 6	istiyor	_	_	_	_	_	_	_	_
 7	Zahide	_	_	_	_	_	_	_	_
 8	.	_	_	_	_	_	_	_	_
-
-# sent_id = 
-# text = 
-
-# sent_id = 
-# text = 
-
-# sent_id = 
-# text = 
-
-# sent_id = 
-# text = 
-
-# sent_id = 
-# text = 
-
-# sent_id = 
-# text = 
-
-# sent_id = 
-# text = 
-
-# sent_id = 
-# text = 
-
-# sent_id = 
-# text = 
-
-# sent_id = 
-# text = 
-
-# sent_id = 
-# text = 
-
-# sent_id = 
-# text = 
-
-# sent_id = 
-# text = 
-
-# sent_id = 
-# text = 
 
