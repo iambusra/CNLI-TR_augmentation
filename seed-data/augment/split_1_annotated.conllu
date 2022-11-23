@@ -1469,7 +1469,7 @@
 1	Mehmet'in	Mehmet	PROPN	_	Case=Nom|Number=Gen|Person=3	_	_	_	_
 2	bakmak	bak	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
 3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
-4	özel	özel	ADJ	Adj	_	_	amod	_	_
+4	özel	özel	ADJ	Adj	_	_	amod	_	change=yes
 5	bir	bir	DET	Indef	_	_	det	_	_
 6	müşteri	müşteri	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	change=yes
 7	var	var	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
@@ -1960,7 +1960,7 @@
 
 # sent_id = abo_89968
 # text = Özel bir ev var Güzide'nin almak istediği bundan başka.
-1	Özel	Özel	ADJ	Adj	_	_	amod	_	change=yes
+1	Özel	özel	ADJ	Adj	_	_	amod	_	change=yes
 2	bir	bir	DET	Indef	_	_	det	_	_
 3	ev	ev	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	change=yes
 4	var	var	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
@@ -2081,7 +2081,7 @@
 5	belirlemesi	_	Vnoun	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
 6	gerektiğini	_	Ptcp	_	Aspect=Perf|Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	_	_	_
 7	sağduyu	sağduyu	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	change=yes
-8	sahibi	sahip	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	change=yes
+8	sahibi	sahip	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
 9	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
 10	satıcı	satıcı	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	change=yes
 11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
