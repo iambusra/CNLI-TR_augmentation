@@ -10,15 +10,13 @@ TAGS_3 = ["PROPN", "NOUN", "ADV", "ADJ"] #ALL
 create_augmented_version("split_1_annotated.conllu", "v1.conllu", TAGS_1)
 create_augmented_version("split_1_annotated.conllu", "v2.conllu", TAGS_2)
 create_augmented_version("split_1_annotated.conllu", "v3.conllu", TAGS_3)
-create_augmented_version("v2.conllu", "v6.conllu", TAGS_1)
-"""
+
 create_augmented_version("v1.conllu", "v4.conllu", TAGS_2)
 create_augmented_version("v1.conllu", "v5.conllu", TAGS_3)
 create_augmented_version("v2.conllu", "v6.conllu", TAGS_1)
 create_augmented_version("v2.conllu", "v7.conllu", TAGS_3)
 create_augmented_version("v3.conllu", "v8.conllu", TAGS_1)
 create_augmented_version("v3.conllu", "v9.conllu", TAGS_3)
-"""
 
 """
 v0:

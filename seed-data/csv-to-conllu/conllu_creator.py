@@ -2,7 +2,7 @@ import re
 import csv
 
 csv_filename = "data.csv"
-row_num = 380
+row_num = 360
 
 
 punct_list = ["!", "?", ",", ";", ":", "-", "*", "."] #no . and '

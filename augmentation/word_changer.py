@@ -3,14 +3,16 @@ import random
 from file_handler import get_csv_data
 from lemma_csv import csv_to_syn_dict
 
-synonyms_file = ""
-synonyms = dict()#csv_to_syn_dict(synonyms_file)
+synonyms_file = "lemmas_change_yes.csv"
+synonyms = csv_to_syn_dict(synonyms_file)
 
 names_prev = dict()
 
 
 def get_synonym(word):
-	return word
+	if(word not in synonyms.keys()):
+		print(word, "not in syn list")
+
 	return synonyms[word]
 
 
@@ -25,7 +27,7 @@ def __randomize_name(name):
 
 	random_name = random.choice(names)
 	
-	while (random_name == name):
+	while (random_name == name or random_name == '</html>'):
 		random_name = random.choice(names)
 
 	return random_name
@@ -43,4 +45,5 @@ def flush_names():
 
 def get_names():
 	return names_prev
+
 

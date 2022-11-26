@@ -4,7 +4,7 @@ from types import MappingProxyType
 
 from annotator import edit_line, get_fields
 from file_handler import read_file, write_to_file, get_csv_data
-from word_changer import get_random_name, get_synonym, flush_names, get_names
+from word_changer import get_random_name, get_synonym, flush_names
 
 
 additives = MappingProxyType( 
@@ -39,7 +39,6 @@ def create_augmented_version(base_file, new_file, upos_tags):
 	conllu_lines = augment_by(upos_tags, conllu_lines).copy()
 
 	flush_names()
-	print(get_names())
 
 	data = "".join(conllu_lines)
 	write_to_file(new_file, data)
@@ -51,6 +50,7 @@ def augment_by(upos_tags, conllu_lines):
 			fields = get_fields(line).copy()
 
 			augmented_fields = augment_data(fields, upos_tags)
+
 			conllu_lines[i] = edit_line(conllu_lines[i], augmented_fields)
 
 			text_index = i - int(line[0])
@@ -70,11 +70,14 @@ def check_tags(upos_tags, fields):
 			return True
 """
 
-def augment_data(fields, upos_tags): 
+
+def augment_data(fields, upos_tags):
 	augmented_fields = fields.copy()
 
 	if fields['upos'] == "PROPN" and "PROPN" in upos_tags:
-		augmented_fields['lemma'] = get_random_name(augmented_fields['lemma'])
+		random_name = get_random_name(augmented_fields['lemma'])
+
+		augmented_fields['lemma'] = random_name.replace("â", "a")
 		augmented_fields['form'] = get_augmented_form(augmented_fields['lemma'], augmented_fields['feats'], True)
 
 	elif fields['upos'] == "NOUN" and ("NOUN" in upos_tags) and fields['misc'] == "change=yes":
@@ -91,24 +94,49 @@ def augment_data(fields, upos_tags):
 	return augmented_fields
 
 
+"""
+def augment_data(fields, upos_tags):
+	try: 
+		augmented_fields = fields.copy()
+
+		if fields['upos'] == "PROPN" and "PROPN" in upos_tags:
+			augmented_fields['lemma'] = get_random_name(augmented_fields['lemma'])
+			augmented_fields['form'] = get_augmented_form(augmented_fields['lemma'], augmented_fields['feats'], True)
+
+		elif fields['upos'] == "NOUN" and ("NOUN" in upos_tags) and fields['misc'] == "change=yes":
+			augmented_fields['lemma'] = get_synonym(augmented_fields['lemma'])
+			augmented_fields['form'] = get_augmented_form(augmented_fields['lemma'], augmented_fields['feats'], False)
+
+		elif (fields['upos'] == "ADJ" or fields['upos'] == "ADV") and ("ADV" in upos_tags or "ADJ" in upos_tags)  and fields['misc'] == "change=yes":
+			augmented_fields['lemma'] = get_synonym(augmented_fields['lemma'])
+			augmented_fields['form'] = augmented_fields['lemma']
+	
+		if fields['id'] == "1":
+			augmented_fields['form'] = augmented_fields['form'][:1].upper()+augmented_fields['form'][1:]
+	except:
+		print(fields)
+
+	return augmented_fields
+"""
+
+
+
 def get_augmented_form(lemma, feats, is_propn):
 	augmented_form = lemma
 
 	augmented_form += get_plur_additive(augmented_form, feats)
-	if lemma=="iş": print("add plur", augmented_form)
 
 	augmented_form += get_pos_additive(augmented_form, feats) 
-	if lemma=="iş": print("add pos", augmented_form)
 
 	case = feats.split('|')[0][-3:] 
 	augmented_form += get_case_additive(augmented_form, case, is_propn, ('psor' in feats))
-	if lemma=="iş": print("add case", augmented_form)
 
 	return augmented_form
 
 
 def get_plur_additive(base, feats):
 	plur_additive = ""
+	print(base)
 	additive_vowel = additives[get_last_vowel(base).lower()]['Dat']
 
 	if "Number=Plur" in feats:
@@ -152,7 +180,6 @@ def get_pos_additive(base, feats):
 
 def get_case_additive(base, case, is_propn, is_pos): # re adjust for non-names
 	last_vowel = get_last_vowel(base).lower()
-	#print("base:", base, "case:", case)
 	additive = additives[last_vowel][case]
 
 	if(last_vowel == base[-1]):

@@ -1,0 +1,4099 @@
+# sent_id = swl_48813
+# text = Pelin başka bir yüksek okulda okumak istiyor.
+1	Pelin	Pelin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	başka	başka	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	yüksek	yüksek	ADJ	Adj	_	_	amod	_	_
+5	okulda	okul	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+6	okumak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sji_20351
+# text = arkadaşım bir roman okumak ister.
+1	arkadaşım	arkadaş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	roman	roman	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	okumak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+5	ister	_	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = skl_19794
+# text = Ezan okununca eniştem namaz kılmak için bir seccade istedi.
+1	Ezan	Ezan	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	okununca	_	_	_	_	_	_	_	_
+3	eniştem	_	enişte	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_
+4	namaz	namaz	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	kılmak	_	_	_	_	_	_	_	_
+6	için	_	_	_	_	_	_	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	seccade	seccade	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	istedi	_	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = srh_23096
+# text = Kenan sevgilisine bir mektup yazmanın romantik olabileceğine inanıyor.
+1	Kenan	Kenan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	sevgilisine	sevgili	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	mektup	mektup	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	yazmanın	_	_	_	_	_	_	_	_
+6	romantik	romantik	ADJ	Adj	_	_	amod	_	_
+7	olabileceğine	_	_	_	_	_	_	_	_
+8	inanıyor	_	_	_	_	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = scg_30815
+# text = Ezgi boncukları dizerek bir kolye yapabilir.
+1	Ezgi	Ezgi	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	boncukları	boncuk	NOUN	_	Case=Acc|Number=Plur|Person=3	_	_	_	_
+3	dizerek	_	_	_	_	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	kolye	kolye	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	yapabilir	_	VERB	_	Aspect=Hab|Mood=Pot|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sou_63772
+# text = Kütüphaneden nasıl bir kitap almayı düşünüyor Beyza?
+1	Kütüphaneden	Kütüphane	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+2	nasıl	_	_	_	_	_	_	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	kitap	kitap	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	almayı	_	Vnoun	_	Case=Acc|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	Beyza	Beyza	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	?	?	PUNCT	Ques	_	_	punct	_	_
+
+# sent_id = sjl_21328
+# text = Erdem gibi güçlü bir rakiple karşılaşmak istiyor Yetkin.
+1	Erdem	Erdem	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	güçlü	güçlü	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	rakiple	rakip	NOUN	_	Case=Inst|Number=Sing|Person=3	_	_	_	_
+6	karşılaşmak	_	_	_	_	_	_	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	Yetkin	Yetkin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = ser_63860
+# text = Dilara bir sorumluluk alırsa hep yerine getirir mi?
+1	Dilara	Dilara	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	sorumluluk	sorumluluk	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	alırsa	_	_	_	_	_	_	_	_
+5	hep	hep	ADV	_	_	_	_	_	_
+6	yerine	yer	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+7	getirir	_	_	_	_	_	_	_	_
+8	mi	_	AUX	Ques	_	_	discourse:q	_	_
+9	?	?	PUNCT	Ques	_	_	punct	_	_
+
+# sent_id = sgl_31146
+# text = Bahçıvan buraya bir fidan dikmek ister.
+1	Bahçıvan	Bahçıvan	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	buraya	bura	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	fidan	fidan	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	dikmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	ister	_	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = snm_42723
+# text = Baran hep bir rapor yazmak zorunda mı?
+1	Baran	Baran	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	hep	hep	ADV	_	_	_	_	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	rapor	rapor	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	yazmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	zorunda	_	_	_	_	_	_	_	_
+7	mı	_	AUX	Ques	_	_	discourse:q	_	_
+8	?	?	PUNCT	Ques	_	_	punct	_	_
+
+# sent_id = sci_31871
+# text = buraya şık bir poster asmak istiyordu ev arkadaşım.
+1	buraya	bura	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+2	şık	şık	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	poster	poster	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	asmak	_	_	_	_	_	_	_	_
+6	istiyordu	_	_	_	_	_	_	_	_
+7	ev	ev	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	arkadaşım	arkadaş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = swq_32223
+# text = yaren'inki gibi dayanıklı bir traktör bulmak istiyor Özden.
+1	yaren'inki	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	dayanıklı	dayanıklı	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	traktör	traktör	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	bulmak	_	_	_	_	_	_	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	Özden	Özden	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sie_83833
+# text = sarışın kız sana bir soru sormak ister.
+1	sarışın	sarışın	ADJ	Adj	_	_	amod	_	_
+2	kız	kız	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	sana	san	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	soru	soru	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	sormak	_	_	_	_	_	_	_	_
+7	ister	_	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = szc_27268
+# text = Karpuz seçmeyi bilmeyen Tilbe manavdan lezzetli bir karpuz istedi.
+1	Karpuz	Karpuz	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	seçmeyi	_	_	_	_	_	_	_	_
+3	bilmeyen	_	_	_	_	_	_	_	_
+4	Tilbe	Tilbe	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	manavdan	manav	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+6	lezzetli	lezzetli	ADJ	Adj	_	_	amod	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	karpuz	karpuz	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	istedi	_	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sfg_82857
+# text = Helin başına gelen bir olayı bile anlatmak istemiyor.
+1	Helin	Helin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	başına	baş	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+3	gelen	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	olayı	olay	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+6	bile	_	ADV	_	_	_	advmod	_	_
+7	anlatmak	_	_	_	_	_	_	_	_
+8	istemiyor	_	_	_	_	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sst_80336
+# text = Ali nasıl yeni bir ülkede yaşayacak?
+1	Ali	Ali	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	nasıl	_	_	_	_	_	_	_	_
+3	yeni	yeni	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	ülkede	ülke	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+6	yaşayacak	_	_	_	_	_	_	_	_
+7	?	?	PUNCT	Ques	_	_	punct	_	_
+
+# sent_id = sad_68657
+# text = Elif bir arabası olsaydı bu kadar yorulmayacağını düşünüyor.
+1	Elif	Elif	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	arabası	araba	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+4	olsaydı	_	_	_	_	_	_	_	_
+5	bu	bu	ADJ	Adj	_	_	amod	_	_
+6	kadar	_	_	_	_	_	_	_	_
+7	yorulmayacağını	_	_	_	_	_	_	_	_
+8	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = shf_52441
+# text = hakem bir oyuncunun faul yaptığını düşünüyor.
+1	Hakem	Hakem	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	oyuncunun	oyuncu	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	faul	faul	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	yaptığını	_	Ptcp	_	Aspect=Perf|Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	_	_	_
+6	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sws_54885
+# text = Kedim için bir yaş mama almak istiyorum.
+1	Kedim	Ked	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+2	için	_	_	_	_	_	_	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	yaş	yaş	ADJ	Adj	_	_	amod	_	_
+5	mama	mama	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyorum	_	VERB	_	Aspect=Imp|Number=Sing|Person=1|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = shj_27461
+# text = Halide annesininki gibi lüks bir otelde tatil yapmak istiyor.
+1	Halide	Halide	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	annesininki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	lüks	lüks	ADJ	Adj	_	_	amod	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	otelde	otel	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+7	tatil	tatil	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	yapmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sns_84482
+# text = İnci bir olaydan bahsetmekten çekiniyor.
+1	İnci	İnci	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	olaydan	olay	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+4	bahsetmekten	_	_	_	_	_	_	_	_
+5	çekiniyor	_	_	_	_	_	_	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sow_59428
+# text = okuldaki gibi kapsamlı bir kütüphanede çalışmak istiyorum.
+1	okuldaki	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	kapsamlı	kapsamlı	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	kütüphanede	kütüphane	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+6	çalışmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyorum	_	VERB	_	Aspect=Imp|Number=Sing|Person=1|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sgg_19224
+# text = Nergis bir arkadaşına yemek sözü verdi.
+1	Nergis	Nergis	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	arkadaşına	arkadaş	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+4	yemek	yemek	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	sözü	söz	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+6	verdi	_	_	_	_	_	_	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sle_38220
+# text = Bazı öğrenciler bir sınıfta ders dinlemek istiyor.
+1	Bazı	Bazı	ADJ	Adj	_	_	amod	_	_
+2	öğrenciler	öğrenci	NOUN	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	sınıfta	sınıf	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+5	ders	ders	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	dinlemek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sjw_69833
+# text = Kuzenim iyi bir üniversitede okumayı arzu ediyor.
+1	Kuzenim	Kuzen	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+2	iyi	iyi	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	üniversitede	üniversite	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+5	okumayı	_	_	_	_	_	_	_	_
+6	arzu	arzu	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	ediyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sxo_32981
+# text = Kardeşim bir arabayı almak istiyor.
+1	Kardeşim	Kardeş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	arabayı	araba	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+4	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+5	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = skl_16078
+# text = Kerem her tabağın sirtaki için uygun olduğunu sanıyor.
+1	Kerem	Kerem	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	her	her	ADJ	Adj	_	_	amod	_	_
+3	tabağın	tabağ	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	sirtaki	sirtaki	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	için	_	_	_	_	_	_	_	_
+6	uygun	uygun	ADJ	Adj	_	_	amod	_	_
+7	olduğunu	_	Ptcp	_	Aspect=Perf|Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	_	_	_
+8	sanıyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sdc_21978
+# text = Nermin belki bir komşusunu akşam yemeğine davet edebilir.
+1	Nermin	Nermin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	belki	_	ADV	_	_	_	advmod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	komşusunu	komşu	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+5	akşam	akşam	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	yemeğine	yemeğ	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+7	davet	davet	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	edebilir	_	_	_	_	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = spd_47497
+# text = İşte bir sorunla karşılaşırsa Defne arkadaşını arar.
+1	İşte	İş	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	sorunla	sorun	NOUN	_	Case=Inst|Number=Sing|Person=3	_	_	_	_
+4	karşılaşırsa	_	_	_	_	_	_	_	_
+5	Defne	Defne	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	arkadaşını	arkadaş	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+7	arar	_	_	_	_	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = shi_55857
+# text = kitaptaki gibi zor bir konuya aşina olmak istiyor öğrenci.
+1	kitaptaki	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	zor	zor	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	konuya	konu	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+6	aşina	aşina	ADJ	Adj	_	_	amod	_	_
+7	olmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	öğrenci	öğrenci	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = ssi_81912
+# text = Harun, arkadaşınınki gibi hızlı bir araba sürmek istiyor.
+1	Harun	Harun	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	,	,	PUNCT	Comma	_	_	punct	_	_
+3	arkadaşınınki	_	_	_	_	_	_	_	_
+4	gibi	_	_	_	_	_	_	_	_
+5	hızlı	hızlı	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	araba	araba	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	sürmek	_	_	_	_	_	_	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = swc_75168
+# text = Şuayip zor bir sorudan başlamak istiyor.
+1	Şuayip	Şuayip	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	zor	zor	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	sorudan	soru	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+5	başlamak	_	_	_	_	_	_	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = syu_53537
+# text = Pelin her müzisyenin okullu olduğunu düşünüyor.
+1	Pelin	Pelin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	her	her	ADJ	Adj	_	_	amod	_	_
+3	müzisyenin	müzisye	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	okullu	okullu	ADJ	Adj	_	_	amod	_	_
+5	olduğunu	_	Ptcp	_	Aspect=Perf|Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	_	_	_
+6	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sfe_85411
+# text = Yelda başka bir adamla birlikte vakit geçirmek istiyor.
+1	Yelda	Yelda	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	başka	başka	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	adamla	adam	NOUN	_	Case=Inst|Number=Sing|Person=3	_	_	_	_
+5	birlikte	_	ADV	_	_	_	advmod	_	_
+6	vakit	vakit	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	geçirmek	_	_	_	_	_	_	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sot_61309
+# text = Feriha istiyor başka bir prestijli üniversitede okumak.
+1	Feriha	Feriha	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+3	başka	başka	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	prestijli	prestijli	ADJ	Adj	_	_	amod	_	_
+6	üniversitede	üniversite	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+7	okumak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = scy_43512
+# text = Jale Yaren gibi güvenilir bir arkadaşına sırlarını açmak istiyor.
+1	Jale	Jale	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	Yaren	Yaren	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	güvenilir	güvenilir	ADJ	Adj	_	_	amod	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	arkadaşına	arkadaş	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+7	sırlarını	sır	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+8	açmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = slq_37268
+# text = Bir kitapçı ile muhabbet etmek istiyor Benan.
+1	Bir	_	DET	Indef	_	_	det	_	_
+2	kitapçı	kitapçı	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	ile	_	_	_	_	_	_	_	_
+4	muhabbet	muhabbet	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	etmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	Benan	Benan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = smp_62063
+# text = Naz başka bir yakın arkadaşıyla birlikte yaşamak istiyor.
+1	Naz	Naz	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	başka	başka	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	yakın	yakın	ADJ	Adj	_	_	amod	_	_
+5	arkadaşıyla	arkadaş	NOUN	_	Case=Inst|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+6	birlikte	_	ADV	_	_	_	advmod	_	_
+7	yaşamak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = srr_95265
+# text = Bu işi tamamlarsa bir kulüpte parti vermek istiyor Berrin.
+1	Bu	_	_	_	_	_	_	_	_
+2	işi	_	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+3	tamamlarsa	_	_	_	_	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	kulüpte	kulüp	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+6	parti	parti	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	vermek	_	_	_	_	_	_	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	Berrin	Berrin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = shq_84410
+# text = başka bir geniş evde yaşamak istiyor Cansu.
+1	başka	başka	ADJ	Adj	_	_	amod	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	geniş	geniş	ADJ	Adj	_	_	amod	_	_
+4	evde	ev	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+5	yaşamak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	Cansu	Cansu	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = smo_86429
+# text = Reyhan başka bir tarihi roman yazmak istiyor.
+1	Reyhan	Reyhan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	başka	başka	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	tarihi	tarihi	ADJ	Adj	_	_	amod	_	_
+5	roman	roman	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	yazmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sdz_36369
+# text = Berkay ile anlaşamadığı için kiralık bir eve taşınmak istiyor Didem.
+1	Berkay	Berkay	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	ile	_	_	_	_	_	_	_	_
+3	anlaşamadığı	_	_	_	_	_	_	_	_
+4	için	_	_	_	_	_	_	_	_
+5	kiralık	kiralık	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	eve	ev	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+8	taşınmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	Didem	Didem	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = suj_42789
+# text = Mete kızıl saçlı bir kadın ile evleneceğine inanıyor.
+1	Mete	Mete	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	kızıl	kızıl	ADJ	Adj	_	_	amod	_	_
+3	saçlı	saçlı	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	kadın	kadın	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	ile	_	_	_	_	_	_	_	_
+7	evleneceğine	_	_	_	_	_	_	_	_
+8	inanıyor	_	_	_	_	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = smy_18265
+# text = Sevgilisi için Anıl güzel bir yemek hazırlamak istiyormuş.
+1	Sevgilisi	Sevgili	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	için	_	_	_	_	_	_	_	_
+3	Anıl	Anıl	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	güzel	güzel	ADJ	Adj	_	_	amod	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	yemek	yemek	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	hazırlamak	_	_	_	_	_	_	_	_
+8	istiyormuş	_	_	_	_	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sqt_38989
+# text = Sude bir çantayı dolaba koymak istiyor.
+1	Sude	Sude	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	çantayı	çanta	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+4	dolaba	dolab	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+5	koymak	_	_	_	_	_	_	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sjm_34762
+# text = başka bir insanla oturmak istiyor Jülide.
+1	başka	başka	ADJ	Adj	_	_	amod	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	insanla	insan	NOUN	_	Case=Inst|Number=Sing|Person=3	_	_	_	_
+4	oturmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+5	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+6	Jülide	Jülide	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sog_48543
+# text = Asena denize bakan bir masaya oturmak istiyor.
+1	Asena	Asena	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	denize	deniz	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+3	bakan	_	_	_	_	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	masaya	masa	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+6	oturmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = shj_52847
+# text = otobüse buradaki gibi merkezi bir duraktan binmek istiyor Mahmut.
+1	otobüse	otobüs	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+2	buradaki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	merkezi	merkezi	ADJ	Adj	_	_	amod	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	duraktan	durak	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+7	binmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	Mahmut	Mahmut	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sjk_76394
+# text = mağazadakiler gibi kırmızı bir domates arıyor Şef.
+1	mağazadakiler	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	kırmızı	kırmızı	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	domates	domates	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	arıyor	_	_	_	_	_	_	_	_
+7	Şef	Şef	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sze_24499
+# text = Doktoru cilt kanserinden korunması için bir güneş kremi almasını istemiş.
+1	Doktoru	Doktor	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	cilt	cilt	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	kanserinden	kanser	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+4	korunması	_	_	_	_	_	_	_	_
+5	için	_	_	_	_	_	_	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	güneş	güneş	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	kremi	krem	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+9	almasını	_	_	_	_	_	_	_	_
+10	istemiş	_	_	_	_	_	_	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sbp_19804
+# text = Yağız başka bir öğrenciyi görmek istiyor.
+1	Yağız	Yağız	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	başka	başka	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	öğrenciyi	öğrenci	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+5	görmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = soh_12642
+# text = koridora bir ayna asmak istiyor Selim.
+1	koridora	koridor	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	ayna	ayna	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	asmak	_	_	_	_	_	_	_	_
+5	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+6	Selim	Selim	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sfw_74945
+# text = Şeyda bir kitabı bitirmek için saatler harcamamayı diliyor.
+1	Şeyda	Şeyda	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	kitabı	kitap	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+4	bitirmek	_	_	_	_	_	_	_	_
+5	için	_	_	_	_	_	_	_	_
+6	saatler	saat	NOUN	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+7	harcamamayı	_	_	_	_	_	_	_	_
+8	diliyor	_	_	_	_	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = spv_43065
+# text = Günlerini bir sahil kasabasında geçirmek istiyor Pelin.
+1	Günlerini	Gün	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	sahil	sahil	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	kasabasında	kasaba	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+5	geçirmek	_	_	_	_	_	_	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	Pelin	Pelin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = shd_64172
+# text = Her şeyden bıkmış görünen Melis artık bir sahil kasabasına yerleşmek istiyor.
+1	Her	Her	ADJ	Adj	_	_	amod	_	_
+2	şeyden	şey	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+3	bıkmış	_	_	_	_	_	_	_	_
+4	görünen	_	_	_	_	_	_	_	_
+5	Melis	Melis	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	artık	_	ADV	_	_	_	advmod	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	sahil	sahil	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	kasabasına	kasaba	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+10	yerleşmek	_	_	_	_	_	_	_	_
+11	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sma_96579
+# text = Halil istiyor bir şarkıcı ile buluşmak.
+1	Halil	Halil	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	şarkıcı	şarkıcı	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	ile	_	_	_	_	_	_	_	_
+6	buluşmak	_	_	_	_	_	_	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sbd_61737
+# text = Fırat yeni açılmış bir kursta yelken eğitimi almayı düşünüyor.
+1	Fırat	Fırat	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	yeni	yeni	ADJ	Adj	_	_	amod	_	_
+3	açılmış	_	_	_	_	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	kursta	kurs	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+6	yelken	yelken	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	eğitimi	eğitim	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+8	almayı	_	Vnoun	_	Case=Acc|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = smd_21809
+# text = Buse başka bir hikayeyi dinlemek istiyor.
+1	Buse	Buse	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	başka	başka	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	hikayeyi	hikaye	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+5	dinlemek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sar_78942
+# text = Bir çiçeğe bakmanın çok iyi hissettirdiğini düşünüyor Gökçe.
+1	Bir	_	DET	Indef	_	_	det	_	_
+2	çiçeğe	çiçeğ	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+3	bakmanın	_	_	_	_	_	_	_	_
+4	çok	_	ADV	_	_	_	advmod	_	_
+5	iyi	iyi	ADJ	Adj	_	_	amod	_	_
+6	hissettirdiğini	_	_	_	_	_	_	_	_
+7	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	Gökçe	Gökçe	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = srv_83414
+# text = Nilay başka bir lüks restorana haber vermek istiyor.
+1	Nilay	Nilay	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	başka	başka	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	lüks	lüks	ADJ	Adj	_	_	amod	_	_
+5	restorana	restoran	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+6	haber	haber	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	vermek	_	_	_	_	_	_	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sby_81206
+# text = Duygu hastalanırsa yakınlarda bir eczane bulamayacağını düşünüyor.
+1	Duygu	Duygu	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	hastalanırsa	_	_	_	_	_	_	_	_
+3	yakınlarda	_	_	_	_	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	eczane	eczane	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	bulamayacağını	_	_	_	_	_	_	_	_
+7	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sda_44149
+# text = Yurdanur Behice gibi zeki bir menajerle işbirliği yapmak istiyor.
+1	Yurdanur	Yurdanur	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	Behice	Behice	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	zeki	zeki	ADJ	Adj	_	_	amod	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	menajerle	menajer	NOUN	_	Case=Inst|Number=Sing|Person=3	_	_	_	_
+7	işbirliği	işbirliği	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	yapmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sps_50905
+# text = Soner bu notaları gül ağacından yapılmış eski bir gitardan duymak istiyor.
+1	Soner	Soner	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bu	bu	ADJ	Adj	_	_	amod	_	_
+3	notaları	nota	NOUN	_	Case=Acc|Number=Plur|Person=3	_	_	_	_
+4	gül	gül	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	ağacından	ağac	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+6	yapılmış	_	_	_	_	_	_	_	_
+7	eski	eski	ADJ	Adj	_	_	amod	_	_
+8	bir	bir	DET	Indef	_	_	det	_	_
+9	gitardan	gitar	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+10	duymak	_	_	_	_	_	_	_	_
+11	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sak_56356
+# text = başka bir cesur adamdan para isteyecek Tarık.
+1	başka	başka	ADJ	Adj	_	_	amod	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	cesur	cesur	ADJ	Adj	_	_	amod	_	_
+4	adamdan	adam	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+5	para	para	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	isteyecek	_	_	_	_	_	_	_	_
+7	Tarık	Tarık	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sge_33540
+# text = Buse bir şirkette hissedar olmak istiyor.
+1	Buse	Buse	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	şirkette	şirket	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+4	hissedar	hissedar	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	olmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = saj_55808
+# text = Çamaşırlarını sermeye üşenen Mert ekonomik bir kurutma makinesi istiyor.
+1	Çamaşırlarını	Çamaşır	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	sermeye	_	_	_	_	_	_	_	_
+3	üşenen	_	_	_	_	_	_	_	_
+4	Mert	Mert	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	ekonomik	ekonomik	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	kurutma	kurutma	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	makinesi	makine	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = smn_21354
+# text = Bade başka bir şarkıyı söylemek istiyor.
+1	Bade	Bade	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	başka	başka	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	şarkıyı	şarkı	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+5	söylemek	_	_	_	_	_	_	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = stt_54525
+# text = Ceyda bir bardağın kırıldığını düşünüyor.
+1	Ceyda	Ceyda	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	bardağın	bardağ	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	kırıldığını	_	_	_	_	_	_	_	_
+5	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = skj_72946
+# text = Tolga bir mesaj ile benim moralimi bozabileceğini düşünüyor.
+1	Tolga	Tolga	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	mesaj	mesaj	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	ile	_	_	_	_	_	_	_	_
+5	benim	_	_	_	_	_	_	_	_
+6	moralimi	moral	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+7	bozabileceğini	_	_	_	_	_	_	_	_
+8	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sdx_12719
+# text = Bu proje için bir inşaat mühendisi ile anlaşmak istiyor Nezahat.
+1	Bu	_	_	_	_	_	_	_	_
+2	proje	proje	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	için	_	_	_	_	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	inşaat	inşaat	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	mühendisi	mühendi	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+7	ile	_	_	_	_	_	_	_	_
+8	anlaşmak	_	_	_	_	_	_	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	Nezahat	Nezahat	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = shg_41780
+# text = bizim bahçedeki gibi canlı ağaçları görmek istiyor Yurdakul.
+1	bizim	_	_	_	_	_	_	_	_
+2	bahçedeki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	canlı	canlı	ADJ	Adj	_	_	amod	_	_
+5	ağaçları	ağaç	NOUN	_	Case=Acc|Number=Plur|Person=3	_	_	_	_
+6	görmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	Yurdakul	Yurdakul	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = svq_40257
+# text = Ziynet başka bir organik pazardan sebze almak istiyor.
+1	Ziynet	Ziynet	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	başka	başka	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	organik	organik	ADJ	Adj	_	_	amod	_	_
+5	pazardan	pazar	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+6	sebze	sebze	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = syy_80173
+# text = Eskisi gibi kullanışlı bir uygulama hazırlamak istiyordu.
+1	Eskisi	Eski	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	kullanışlı	kullanışlı	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	uygulama	uygulama	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	hazırlamak	_	_	_	_	_	_	_	_
+7	istiyordu	_	_	_	_	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sfc_33329
+# text = Kedi bir oyuncak ister.
+1	Kedi	Kedi	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	oyuncak	oyuncak	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	ister	_	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+5	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = svx_70447
+# text = Babam eve gelirken bir sigara almasını istedi kardeşimden.
+1	Babam	Baba	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+2	eve	ev	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+3	gelirken	_	Conv	_	Polarity=Pos|VerbForm=Conv	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	sigara	sigara	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	almasını	_	_	_	_	_	_	_	_
+7	istedi	_	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+8	kardeşimden	kardeş	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sbi_76069
+# text = senin elindeki gibi kırmızı bir domatesi ısırmak istiyor Hülya.
+1	senin	_	_	_	_	_	_	_	_
+2	elindeki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	kırmızı	kırmızı	ADJ	Adj	_	_	amod	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	domatesi	_	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+7	ısırmak	_	_	_	_	_	_	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	Hülya	Hülya	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sqf_99385
+# text = Çağla isterse bir meyve suyu içebilirmiş.
+1	Çağla	Çağla	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	isterse	_	_	_	_	_	_	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	meyve	meyve	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	suyu	suy	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+6	içebilirmiş	_	_	_	_	_	_	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = srg_37351
+# text = Bir muhtarla tartışmak istiyor Niyazi.
+1	Bir	_	DET	Indef	_	_	det	_	_
+2	muhtarla	muhtar	NOUN	_	Case=Inst|Number=Sing|Person=3	_	_	_	_
+3	tartışmak	_	_	_	_	_	_	_	_
+4	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+5	Niyazi	Niyazi	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sap_61397
+# text = Ali bir film izlemek istiyor.
+1	Ali	Ali	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	film	film	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	izlemek	_	_	_	_	_	_	_	_
+5	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = scc_89386
+# text = Murat İstanbul'dan bir ev almayı çok istiyor.
+1	Murat	Murat	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	İstanbul'dan	_	_	_	_	_	_	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	ev	ev	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	almayı	_	Vnoun	_	Case=Acc|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	çok	_	ADV	_	_	_	advmod	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sfo_32435
+# text = Bu konuyu bir kitaptan öğrenmek istiyor Muhterem.
+1	Bu	_	_	_	_	_	_	_	_
+2	konuyu	konu	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	kitaptan	kitap	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+5	öğrenmek	_	_	_	_	_	_	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	Muhterem	Muhterem	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = smi_44495
+# text = Cildi çok kuru olan Nazan bir nemlendirici satın almak istiyor.
+1	cildi	cilt	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	çok	_	ADV	_	_	_	advmod	_	_
+3	kuru	kuru	ADJ	Adj	_	_	amod	_	_
+4	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+5	Nazan	Nazan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	nemlendirici	nemlendirici	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	satın	satın	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+10	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sgh_55842
+# text = Gürkan kapıyı hikayelerdeki gibi altın bir anahtarla açmak istiyor.
+1	Gürkan	Gürkan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	kapıyı	kapı	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+3	hikayelerdeki	_	_	_	_	_	_	_	_
+4	gibi	_	_	_	_	_	_	_	_
+5	altın	altın	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	anahtarla	anahtar	NOUN	_	Case=Inst|Number=Sing|Person=3	_	_	_	_
+8	açmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sqv_26068
+# text = Mükerrem ile konuşan herkes kendisini mutlu bir prenses sanabilir.
+1	Mükerrem	Mükerrem	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	ile	_	_	_	_	_	_	_	_
+3	konuşan	_	_	_	_	_	_	_	_
+4	herkes	herkes	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	kendisini	_	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+6	mutlu	mutlu	ADJ	Adj	_	_	amod	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	prenses	prenses	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	sanabilir	_	_	_	_	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = spd_95763
+# text = Zümran istiyor başka bir yerel gazeteye ilan vermek.
+1	Zümran	Zümran	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+3	başka	başka	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	yerel	yerel	ADJ	Adj	_	_	amod	_	_
+6	gazeteye	gazete	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+7	ilan	ilan	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	vermek	_	_	_	_	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sgu_60294
+# text = Kardeşime özel bir öğretmen tutup keman dersleri aldıracaklar.
+1	kardeşime	kardeş	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+2	özel	özel	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	öğretmen	öğretmen	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	tutup	_	_	_	_	_	_	_	_
+6	keman	keman	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	dersleri	ders	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+8	aldıracaklar	_	_	_	_	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sqm_82814
+# text = Eğer yeterince çabalarsa Derin onu bir televizyon alma konusunda ikna edebilir.
+1	Eğer	_	_	_	_	_	_	_	_
+2	yeterince	_	ADV	_	_	_	advmod	_	_
+3	çabalarsa	_	_	_	_	_	_	_	_
+4	Derin	Derin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	onu	on	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	televizyon	televizyon	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	alma	_	_	_	_	_	_	_	_
+9	konusunda	konu	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+10	ikna	ikna	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+11	edebilir	_	_	_	_	_	_	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sem_45772
+# text = Hakan bir dershaneye yazılmak istiyor.
+1	Hakan	Hakan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	dershaneye	dershane	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+4	yazılmak	_	_	_	_	_	_	_	_
+5	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sun_52044
+# text = Filiz gibi uzman bir doktora görünmek istiyor Gülsüm.
+1	Filiz	Filiz	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	uzman	uzman	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	doktora	doktor	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+6	görünmek	_	_	_	_	_	_	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	Gülsüm	Gülsüm	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sjw_92657
+# text = başka bir hastayla ilgilenmek istiyor doktor.
+1	başka	başka	ADJ	Adj	_	_	amod	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	hastayla	hasta	NOUN	_	Case=Inst|Number=Sing|Person=3	_	_	_	_
+4	ilgilenmek	_	_	_	_	_	_	_	_
+5	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+6	doktor	doktor	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sir_77983
+# text = Neslihan yarın bir dizi izlemek istiyor.
+1	Neslihan	Neslihan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	yarın	_	ADV	Adj	_	_	advmod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	dizi	dizi	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	izlemek	_	_	_	_	_	_	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = seo_33673
+# text = Kaan başka bir kırmızı dosya istiyor.
+1	Kaan	Kaan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	başka	başka	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	kırmızı	kırmızı	ADJ	Adj	_	_	amod	_	_
+5	dosya	dosya	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = siz_35865
+# text = Serra başka bir odayı süpürmek istiyor.
+1	Serra	Serra	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	başka	başka	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	odayı	oda	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+5	süpürmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sbr_93780
+# text = Akif can sıkan bir soruna çözüm bulmak istiyor.
+1	Akif	Akif	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	can	_	_	_	_	_	_	_	_
+3	sıkan	_	_	_	_	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	soruna	sorun	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+6	çözüm	çözüm	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	bulmak	_	_	_	_	_	_	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sow_54040
+# text = Konudan rahatsız olan herkes bu konuda yeni bir kanun düzenlenmesini istiyor.
+1	Konudan	Konu	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+2	rahatsız	rahatsız	ADJ	Adj	_	_	amod	_	_
+3	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+4	herkes	herkes	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	bu	bu	ADJ	Adj	_	_	amod	_	_
+6	konuda	konu	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+7	yeni	yeni	ADJ	Adj	_	_	amod	_	_
+8	bir	bir	DET	Indef	_	_	det	_	_
+9	kanun	kanun	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+10	düzenlenmesini	_	_	_	_	_	_	_	_
+11	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sun_74139
+# text = Kenan bir sınava girdiğinde sakin olmalı.
+1	Kenan	Kenan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	sınava	sınav	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+4	girdiğinde	_	_	_	_	_	_	_	_
+5	sakin	sakin	ADJ	Adj	_	_	amod	_	_
+6	olmalı	_	_	_	_	_	_	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = swz_13608
+# text = Müşteri bir tatlı yemek ister.
+1	Müşteri	Müşteri	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	tatlı	tatlı	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	yemek	yemek	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	ister	_	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sto_85301
+# text = Miray bir oyun almayı kesinlikle ister.
+1	Miray	Miray	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	oyun	oyun	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	almayı	_	Vnoun	_	Case=Acc|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+5	kesinlikle	_	ADV	_	_	_	advmod	_	_
+6	ister	_	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = shb_31303
+# text = Dudu başka bir yakışıklı adama aşık olmak istiyor.
+1	Dudu	Dudu	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	başka	başka	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	yakışıklı	yakışıklı	ADJ	Adj	_	_	amod	_	_
+5	adama	adam	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+6	aşık	aşık	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	olmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = swx_10071
+# text = Uygar sıkıcı bir şehirden taşınmak istiyor.
+1	Uygar	Uygar	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	sıkıcı	sıkıcı	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	şehirden	şehir	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+5	taşınmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sai_46655
+# text = Bir yardım alabilirse Deniz daha mutlu olacak.
+1	Bir	_	DET	Indef	_	_	det	_	_
+2	yardım	yardım	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	alabilirse	_	_	_	_	_	_	_	_
+4	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	daha	_	ADV	_	_	_	advmod	_	_
+6	mutlu	mutlu	ADJ	Adj	_	_	amod	_	_
+7	olacak	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = srb_78514
+# text = Ünsal her yere bir fidan dikmek istiyor.
+1	Ünsal	Ünsal	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	her	her	ADJ	Adj	_	_	amod	_	_
+3	yere	yer	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	fidan	fidan	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	dikmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = svt_47761
+# text = Çiçek başka bir arkadaş edinmek istiyor.
+1	Çiçek	Çiçek	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	başka	başka	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	arkadaş	arkadaş	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	edinmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = shs_76245
+# text = Oğluna yeni bir ayakkabı almayı hayal ediyormuş.
+1	Oğluna	Oğl	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	yeni	yeni	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	ayakkabı	ayakkabı	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	almayı	_	Vnoun	_	Case=Acc|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	hayal	hayal	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	ediyormuş	_	_	_	_	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sul_37538
+# text = senin gibi kibar bir arkadaşından yardım isteyecek Narin.
+1	senin	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	kibar	kibar	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	arkadaşından	arkadaş	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+6	yardım	yardım	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	isteyecek	_	_	_	_	_	_	_	_
+8	Narin	Narin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sng_77497
+# text = Ilgın başka bir havalimanından kalkan uçuşa bilet almak istiyor.
+1	Ilgın	Ilgın	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	başka	başka	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	havalimanından	havalimanın	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+5	kalkan	_	_	_	_	_	_	_	_
+6	uçuşa	uçuş	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+7	bilet	bilet	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = suv_95281
+# text = Orkun resimlerinin bir hikaye anlattığını düşünüyor.
+1	Orkun	Orkun	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	resimlerinin	_	NOUN	_	Case=Gen|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	hikaye	hikaye	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	anlattığını	_	_	_	_	_	_	_	_
+6	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sse_54303
+# text = Eski evindeki gibi bir yatak almak istiyor Sadık.
+1	Eski	_	_	_	_	_	_	_	_
+2	evindeki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	yatak	yatak	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	Sadık	Sadık	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sun_39526
+# text = Aysima bir parfüm koklamak istiyor.
+1	Aysima	Aysima	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	parfüm	parfüm	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	koklamak	_	_	_	_	_	_	_	_
+5	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sug_57164
+# text = Aslı alanında uzman bir doktora fikir danışmak istiyor.
+1	Aslı	Aslı	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	alanında	alan	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+3	uzman	uzman	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	doktora	doktor	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+6	fikir	fikir	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	danışmak	_	_	_	_	_	_	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = swh_69159
+# text = Şakir az önce konuştuğumuz gibi hassas bir konudan bahsetmek istiyor.
+1	Şakir	Şakir	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	az	az	ADJ	Adj	_	_	amod	_	_
+3	önce	önce	ADJ	Adj	_	_	amod	_	_
+4	konuştuğumuz	_	_	_	_	_	_	_	_
+5	gibi	_	_	_	_	_	_	_	_
+6	hassas	hassas	ADJ	Adj	_	_	amod	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	konudan	konu	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+9	bahsetmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+10	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = suq_84940
+# text = seninki gibi şık bir ofiste çalışmak istiyor Leyla.
+1	seninki	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	şık	şık	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	ofiste	ofis	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+6	çalışmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	Leyla	Leyla	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sll_27642
+# text = Gece bir böcek görürse Fırat çok korkar.
+1	Gece	_	ADV	_	_	_	advmod	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	böcek	böcek	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	görürse	_	_	_	_	_	_	_	_
+5	Fırat	Fırat	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	çok	_	ADV	_	_	_	advmod	_	_
+7	korkar	_	_	_	_	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sdu_36998
+# text = Portekizli oğlan özel bir hediye almak istiyordu sevgilisine.
+1	Portekizli	Portekizli	ADJ	Adj	_	_	amod	_	_
+2	oğlan	oğlan	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	özel	özel	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	hediye	hediye	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyordu	_	_	_	_	_	_	_	_
+8	sevgilisine	sevgili	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sax_66223
+# text = Venüs bir kediyi görmek istiyor.
+1	Venüs	Venüs	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	kediyi	kedi	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+4	görmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+5	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = www_00000
+# text = split0
+1	split0	_	_	_	_	_	_	_	_
+
+# sent_id = sjc_93630
+# text = Pelin'in okumak istediği yüksek okul şu an gittiğinden farklı.
+1	Pelin'in	Pelin	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	okumak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	yüksek	yüksek	ADJ	Adj	_	_	amod	_	_
+5	okul	okul	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	şu	şu	ADJ	Adj	_	_	amod	_	_
+7	an	an	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	gittiğinden	_	_	_	_	_	_	_	_
+9	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sqv_16167
+# text = Arkadaşımın okumak istediği belirli bir roman var.
+1	arkadaşımın	arkadaş	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+2	okumak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	belirli	belirli	ADJ	Adj	_	_	amod	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	roman	roman	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sse_28859
+# text = Ezan okununca eniştem namaz kılmak için belirli bir seccadeyi istedi.
+1	Ezan	Ezan	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	okununca	_	_	_	_	_	_	_	_
+3	eniştem	enişte	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+4	namaz	namaz	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	kılmak	_	_	_	_	_	_	_	_
+6	için	_	_	_	_	_	_	_	_
+7	belirli	belirli	ADJ	Adj	_	_	amod	_	_
+8	bir	bir	DET	Indef	_	_	det	_	_
+9	seccadeyi	seccade	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+10	istedi	_	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sgc_74636
+# text = Kenan sevgilisine belirli bir mektubu yazmanın romantik olabileceğine inanıyor.
+1	Kenan	Kenan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	sevgilisine	sevgili	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+3	belirli	belirli	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	mektubu	mektub	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+6	yazmanın	_	_	_	_	_	_	_	_
+7	romantik	romantik	ADJ	Adj	_	_	amod	_	_
+8	olabileceğine	_	_	_	_	_	_	_	_
+9	inanıyor	_	_	_	_	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = san_93140
+# text = Ezgi boncukları dizerek yapabileceği belirli bir kolye türü var.
+1	Ezgi	Ezgi	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	boncukları	boncuk	NOUN	_	Case=Acc|Number=Plur|Person=3	_	_	_	_
+3	dizerek	_	_	_	_	_	_	_	_
+4	yapabileceği	_	_	_	_	_	_	_	_
+5	belirli	belirli	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	kolye	kolye	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	türü	tür	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+9	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = spf_22980
+# text = Beyza'nın kütüphaneden almayı düşündüğü kitap nasıl bir kitap?
+1	Beyza'nın	Beyza	PROPN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+2	kütüphaneden	kütüphane	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+3	almayı	_	Vnoun	_	Case=Acc|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	düşündüğü	_	Ptcp	_	Aspect=Perf|Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	acl	_	_
+5	kitap	kitap	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	nasıl	_	_	_	_	_	_	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	kitap	kitap	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	?	?	PUNCT	Ques	_	_	punct	_	_
+
+# sent_id = saz_29481
+# text = Yetkin'in karşılaşmak istediği rakip Erdem gibi güçlü biri.
+1	Yetkin'in	Yetkin	PROPN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+2	karşılaşmak	_	_	_	_	_	_	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	rakip	_	_	_	_	_	_	_	_
+5	Erdem	Erdem	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	gibi	_	_	_	_	_	_	_	_
+7	güçlü	güçlü	ADJ	Adj	_	_	amod	_	_
+8	biri	biri	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = srj_81053
+# text = Dilara'nın aldığında hep yerine getireceği bir sorumluluk var mı?
+1	Dilara'nın	Dilara	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	aldığında	_	_	_	_	_	_	_	_
+3	hep	hep	ADV	_	_	_	_	_	_
+4	yerine	yer	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+5	getireceği	_	_	_	_	_	_	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	sorumluluk	sorumluluk	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+9	mı	_	AUX	Ques	_	_	discourse:q	_	_
+10	?	?	PUNCT	Ques	_	_	punct	_	_
+
+# sent_id = sts_36912
+# text = Bahçıvanın buraya dikmek istediği bir fidan var.
+1	Bahçıvanın	Bahçıva	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+2	buraya	bura	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+3	dikmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	fidan	fidan	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sxb_89318
+# text = Baran'ın hep yazmak zorunda olduğu belirli bir rapor var mı?
+1	Baran'ın	Baran	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	hep	hep	ADV	_	_	_	_	_	_
+3	yazmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	zorunda	_	_	_	_	_	_	_	_
+5	olduğu	_	Ptcp	_	Aspect=Perf|Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	acl	_	_
+6	belirli	belirli	ADJ	Adj	_	_	amod	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	rapor	rapor	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+10	mı	_	AUX	Ques	_	_	discourse:q	_	_
+11	?	?	PUNCT	Ques	_	_	punct	_	_
+
+# sent_id = sze_27386
+# text = Ev arkadaşımın buraya asmak istediği poster şık bir şey.
+1	Ev	Ev	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	arkadaşımın	_	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+3	buraya	bura	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+4	asmak	_	_	_	_	_	_	_	_
+5	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+6	poster	poster	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	şık	şık	ADJ	Adj	_	_	amod	_	_
+8	bir	bir	DET	Indef	_	_	det	_	_
+9	şey	şey	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sku_51139
+# text = Özden'in bulmak istediği traktör Yaren'inki gibi dayanıklı.
+1	Özden'in	Özden	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	bulmak	_	_	_	_	_	_	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	traktör	traktör	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	Yaren'inki	_	_	_	_	_	_	_	_
+6	gibi	_	_	_	_	_	_	_	_
+7	dayanıklı	dayanıklı	ADJ	Adj	_	_	amod	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = soa_90718
+# text = Sarışın kızın sana soracağı bir soru var.
+1	Sarışın	Sarışın	ADJ	Adj	_	_	amod	_	_
+2	kızın	kız	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+3	sana	san	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+4	soracağı	_	_	_	_	_	_	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	soru	soru	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = ser_38010
+# text = Karpuz seçmeyi bilmeyen Tilbe manavdan istediği şey lezzetli olan bir karpuz idi.
+1	Karpuz	Karpuz	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	seçmeyi	_	_	_	_	_	_	_	_
+3	bilmeyen	_	_	_	_	_	_	_	_
+4	Tilbe	Tilbe	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	manavdan	manav	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+6	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+7	şey	şey	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	lezzetli	lezzetli	ADJ	Adj	_	_	amod	_	_
+9	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+10	bir	bir	DET	Indef	_	_	det	_	_
+11	karpuz	karpuz	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+12	idi	_	_	_	_	_	_	_	_
+13	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = spo_13183
+# text = Helin başına gelen bir olay var ki bunu bile anlatmak istemiyor.
+1	Helin	Helin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	başına	baş	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+3	gelen	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	olay	olay	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+7	ki	_	_	_	_	_	_	_	_
+8	bunu	_	_	_	_	_	_	_	_
+9	bile	_	ADV	_	_	_	advmod	_	_
+10	anlatmak	_	_	_	_	_	_	_	_
+11	istemiyor	_	_	_	_	_	_	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = swo_13819
+# text = Ali yaşayacağı yeni ülkede nasıl yaşayacak?
+1	Ali	Ali	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	yaşayacağı	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+3	yeni	yeni	ADJ	Adj	_	_	amod	_	_
+4	ülkede	ülke	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+5	nasıl	_	_	_	_	_	_	_	_
+6	yaşayacak	_	_	_	_	_	_	_	_
+7	?	?	PUNCT	Ques	_	_	punct	_	_
+
+# sent_id = sqy_41406
+# text = Elif belirli bir arabaya sahip olsaydı bu kadar yorulmayacağını düşünüyor.
+1	Elif	Elif	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	belirli	belirli	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	arabaya	araba	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+5	sahip	sahip	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	olsaydı	_	_	_	_	_	_	_	_
+7	bu	bu	ADJ	Adj	_	_	amod	_	_
+8	kadar	_	_	_	_	_	_	_	_
+9	yorulmayacağını	_	_	_	_	_	_	_	_
+10	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sfn_14494
+# text = Hakemin faul yaptığını düşündüğü bir oyuncu var.
+1	Hakemin	Hakem	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+2	faul	faul	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	yaptığını	_	Ptcp	_	Aspect=Perf|Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	_	_	_
+4	düşündüğü	_	Ptcp	_	Aspect=Perf|Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	acl	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	oyuncu	oyuncu	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = syx_22230
+# text = Kedim için almak istediğim bir yaş mama var.
+1	Kedim	Ked	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+2	için	_	_	_	_	_	_	_	_
+3	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	istediğim	_	Ptcp	_	Aspect=Perf|Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1|Polarity=Pos|Tense=Past|VerbForm=Part	_	acl	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	yaş	yaş	ADJ	Adj	_	_	amod	_	_
+7	mama	mama	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = swz_78461
+# text = Halide'nin tatil yapmak istediği otel annesininki gibi lüks.
+1	Halide'nin	Halide	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	tatil	tatil	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	yapmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	otel	otel	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	annesininki	_	_	_	_	_	_	_	_
+7	gibi	_	_	_	_	_	_	_	_
+8	lüks	lüks	ADJ	Adj	_	_	amod	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = suz_44770
+# text = İnci'nin bahsetmekten çekindiği bir olay var.
+1	İnci'nin	İnci	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	bahsetmekten	_	_	_	_	_	_	_	_
+3	çekindiği	_	_	_	_	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	olay	olay	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = slf_44028
+# text = Çalışmak istediğim kütüphane okuldaki gibi kapsamlı.
+1	Çalışmak	_	_	_	_	_	_	_	_
+2	istediğim	_	Ptcp	_	Aspect=Perf|Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1|Polarity=Pos|Tense=Past|VerbForm=Part	_	acl	_	_
+3	kütüphane	kütüphane	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	okuldaki	_	_	_	_	_	_	_	_
+5	gibi	_	_	_	_	_	_	_	_
+6	kapsamlı	kapsamlı	ADJ	Adj	_	_	amod	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sgz_69359
+# text = Nergis'in yemek sözü verdiği kişi onun arkadaşı.
+1	Nergis'in	Nergis	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	yemek	yemek	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	sözü	söz	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+4	verdiği	_	_	_	_	_	_	_	_
+5	kişi	kişi	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	onun	_	_	_	_	_	_	_	_
+7	arkadaşı	arkadaş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sft_77886
+# text = Bazı öğrenciler dersi belli bir sınıfta dinlemek istiyor.
+1	Bazı	Bazı	ADJ	Adj	_	_	amod	_	_
+2	öğrenciler	öğrenci	NOUN	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+3	dersi	_	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+4	belli	belli	ADJ	Adj	_	_	amod	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	sınıfta	sınıf	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+7	dinlemek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sao_25511
+# text = Kuzenimin okumayı arzu ettiği üniversite iyi bir üniversite.
+1	Kuzenimin	_	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+2	okumayı	_	_	_	_	_	_	_	_
+3	arzu	arzu	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	ettiği	_	Ptcp	_	Aspect=Perf|Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	acl	_	_
+5	üniversite	üniversite	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	iyi	iyi	ADJ	Adj	_	_	amod	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	üniversite	üniversite	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sie_97008
+# text = Kardeşimin almak istediği bir araba var.
+1	Kardeşimin	_	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+2	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	araba	araba	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = ssj_51029
+# text = Kerem gruptaki her tabağın sirtaki için uygun olduğunu sanıyor.
+1	Kerem	Kerem	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	gruptaki	_	_	_	_	_	_	_	_
+3	her	her	ADJ	Adj	_	_	amod	_	_
+4	tabağın	tabağ	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+5	sirtaki	sirtaki	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	için	_	_	_	_	_	_	_	_
+7	uygun	uygun	ADJ	Adj	_	_	amod	_	_
+8	olduğunu	_	Ptcp	_	Aspect=Perf|Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	_	_	_
+9	sanıyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = swn_71697
+# text = Nermin'in akşam yemeğine davet etme ihtimalinin olduğu bir komşusu var.
+1	Nermin'in	Nermin	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	akşam	akşam	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	yemeğine	yemeğ	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+4	davet	davet	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	etme	_	_	_	_	_	_	_	_
+6	ihtimalinin	ihtimal	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+7	olduğu	_	Ptcp	_	Aspect=Perf|Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	acl	_	_
+8	bir	bir	DET	Indef	_	_	det	_	_
+9	komşusu	komşu	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+10	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sxt_25088
+# text = Defne işte karşılaştığı belli bir sorun olursa arkadaşını arar.
+1	Defne	Defne	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	işte	iş	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+3	karşılaştığı	_	_	_	_	_	_	_	_
+4	belli	belli	ADJ	Adj	_	_	amod	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	sorun	sorun	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	olursa	_	_	_	_	_	_	_	_
+8	arkadaşını	arkadaş	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+9	arar	_	_	_	_	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = svy_25218
+# text = Öğrencinin aşina olmak istediği konu kitaptaki gibi zor.
+1	Öğrencinin	Öğrenci	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+2	aşina	aşina	ADJ	Adj	_	_	amod	_	_
+3	olmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	konu	konu	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	kitaptaki	_	_	_	_	_	_	_	_
+7	gibi	_	_	_	_	_	_	_	_
+8	zor	zor	ADJ	Adj	_	_	amod	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sad_40255
+# text = Harun'un sürmek istediği araba arkadaşınınki gibi hızlı.
+1	Harun'un	Harun	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	sürmek	_	_	_	_	_	_	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	araba	araba	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	arkadaşınınki	_	_	_	_	_	_	_	_
+6	gibi	_	_	_	_	_	_	_	_
+7	hızlı	hızlı	ADJ	Adj	_	_	amod	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sve_14058
+# text = Şuayip'in başlamak istediği soru zor bir soru.
+1	Şuayip'in	Şuayip	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	başlamak	_	_	_	_	_	_	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	soru	soru	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	zor	zor	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	soru	soru	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sfr_24045
+# text = Pelin gruptaki her müzisyenin okullu olduğunu düşünüyor.
+1	Pelin	Pelin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	gruptaki	_	_	_	_	_	_	_	_
+3	her	her	ADJ	Adj	_	_	amod	_	_
+4	müzisyenin	müzisye	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+5	okullu	okullu	ADJ	Adj	_	_	amod	_	_
+6	olduğunu	_	Ptcp	_	Aspect=Perf|Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	_	_	_
+7	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = shb_54345
+# text = Yelda'nın vakit geçirmek istediği adam şu an vakit geçirdiği kişi değil.
+1	Yelda'nın	_	_	_	_	_	_	_	_
+2	vakit	vakit	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	geçirmek	_	_	_	_	_	_	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	adam	adam	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	şu	şu	ADJ	Adj	_	_	amod	_	_
+7	an	an	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	vakit	vakit	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	geçirdiği	_	_	_	_	_	_	_	_
+10	kişi	kişi	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+11	değil	_	_	_	_	_	_	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = saj_21089
+# text = Feriha'nın okumak istediği prestijli üniversite şimdiki prestijli üniversitesinden farklı bir okul.
+1	Feriha'nın	Feriha	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	okumak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	prestijli	prestijli	ADJ	Adj	_	_	amod	_	_
+5	üniversite	üniversite	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	şimdiki	_	_	_	_	_	_	_	_
+7	prestijli	prestijli	ADJ	Adj	_	_	amod	_	_
+8	üniversitesinden	üniversite	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+9	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+10	bir	bir	DET	Indef	_	_	det	_	_
+11	okul	okul	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = suk_59709
+# text = Jale'nin sırlarını açmak istediği arkadaşı Yaren gibi güvenilir.
+1	Jale'nin	Jale	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	sırlarını	sır	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+3	açmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	arkadaşı	arkadaş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+6	Yaren	Yaren	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	gibi	_	_	_	_	_	_	_	_
+8	güvenilir	güvenilir	ADJ	Adj	_	_	amod	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = svw_97214
+# text = Benan'ın muhabbet etmeyi istediği bir kitapçı var.
+1	Benan'ın	Benan	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	muhabbet	muhabbet	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	etmeyi	_	Vnoun	_	Case=Acc|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	kitapçı	kitapçı	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sbg_54714
+# text = Naz'ın birlikte yaşamayı istediği yakın arkadaşı şimdiki yakın arkadaşıyla aynı değil.
+1	Naz'ın	Naz	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	birlikte	_	ADV	_	_	_	advmod	_	_
+3	yaşamayı	_	_	_	_	_	_	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	yakın	yakın	ADJ	Adj	_	_	amod	_	_
+6	arkadaşı	arkadaş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+7	şimdiki	_	_	_	_	_	_	_	_
+8	yakın	yakın	ADJ	Adj	_	_	amod	_	_
+9	arkadaşıyla	arkadaş	NOUN	_	Case=Inst|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+10	aynı	aynı	ADJ	Adj	_	_	amod	_	_
+11	değil	_	_	_	_	_	_	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = syp_13003
+# text = Bu işi tamamlarsa parti vermek istediği bir kulüp var Berrin'in.
+1	Bu	_	_	_	_	_	_	_	_
+2	işi	_	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+3	tamamlarsa	_	_	_	_	_	_	_	_
+4	parti	parti	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	vermek	_	_	_	_	_	_	_	_
+6	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	kulüp	kulüp	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+10	Berrin'in	_	_	_	_	_	_	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sad_20571
+# text = Cansu'nun yaşamak istediği geniş ev şimdiki geniş evi değil.
+1	Cansu'nun	Cansu	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	yaşamak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	geniş	geniş	ADJ	Adj	_	_	amod	_	_
+5	ev	ev	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	şimdiki	_	_	_	_	_	_	_	_
+7	geniş	geniş	ADJ	Adj	_	_	amod	_	_
+8	evi	_	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+9	değil	_	_	_	_	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = stj_90500
+# text = Reyhan yazmak istediği tarihi roman yazdığı tarihi romandan farklı.
+1	Reyhan	Reyhan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	yazmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	tarihi	tarihi	ADJ	Adj	_	_	amod	_	_
+5	roman	roman	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	yazdığı	_	_	_	_	_	_	_	_
+7	tarihi	tarihi	ADJ	Adj	_	_	amod	_	_
+8	romandan	roman	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+9	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = swc_18782
+# text = Berkay ile anlaşamadığı için taşınmak isteyen Didem'in düşündüğü yer kiralık bir ev.
+1	Berkay	Berkay	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	ile	_	_	_	_	_	_	_	_
+3	anlaşamadığı	_	_	_	_	_	_	_	_
+4	için	_	_	_	_	_	_	_	_
+5	taşınmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	isteyen	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+7	Didem'in	Didem	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+8	düşündüğü	_	Ptcp	_	Aspect=Perf|Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	acl	_	_
+9	yer	yer	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+10	kiralık	kiralık	ADJ	Adj	_	_	amod	_	_
+11	bir	bir	DET	Indef	_	_	det	_	_
+12	ev	ev	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+13	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sye_62623
+# text = Mete'nin evleneceğine inandığı kızıl saçlı bir kadın var.
+1	Mete'nin	Mete	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	evleneceğine	_	_	_	_	_	_	_	_
+3	inandığı	_	_	_	_	_	_	_	_
+4	kızıl	kızıl	ADJ	Adj	_	_	amod	_	_
+5	saçlı	saçlı	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	kadın	kadın	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = srj_68080
+# text = Sevgilisi için Anıl'ın hazırlamayı düşündüğü güzel bir yemek varmış.
+1	Sevgilisi	Sevgili	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	için	_	_	_	_	_	_	_	_
+3	Anıl'ın	_	_	_	_	_	_	_	_
+4	hazırlamayı	_	_	_	_	_	_	_	_
+5	düşündüğü	_	Ptcp	_	Aspect=Perf|Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	acl	_	_
+6	güzel	güzel	ADJ	Adj	_	_	amod	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	yemek	yemek	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	varmış	_	NOUN	Exist	Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	_	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = slo_57527
+# text = Sude dolaba belli bir çanta koymak istiyor.
+1	Sude	Sude	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	dolaba	dolab	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+3	belli	belli	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	çanta	çanta	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	koymak	_	_	_	_	_	_	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = som_89234
+# text = Jülide'nin oturmak istediği, şimdikinden farklı biri var.
+1	Jülide'nin	Jülide	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	oturmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	,	,	PUNCT	Comma	_	_	punct	_	_
+5	şimdikinden	_	_	_	_	_	_	_	_
+6	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+7	biri	biri	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = srm_68623
+# text = Asena'nın oturmak istediği masa denize bakıyor.
+1	Asena'nın	Asena	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	oturmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	masa	masa	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	denize	deniz	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+6	bakıyor	_	_	_	_	_	_	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = ssh_56333
+# text = Mahmut'un otobüse binmek istediği durak buradaki gibi merkezi.
+1	Mahmut'un	Mahmut	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	otobüse	otobüs	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+3	binmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	durak	_	_	_	_	_	_	_	_
+6	buradaki	_	_	_	_	_	_	_	_
+7	gibi	_	_	_	_	_	_	_	_
+8	merkezi	merkezi	ADJ	Adj	_	_	amod	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = svl_71728
+# text = Mağazdakiler gibi kırmızı bir domates şef tarafından aranıyor.
+1	Mağazdakiler	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	kırmızı	kırmızı	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	domates	domates	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	şef	şef	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	tarafından	taraf	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+8	aranıyor	_	_	_	_	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = srs_11740
+# text = Doktoru cilt kanserinden korunması için belli bir güneş kremini almasını istemiş.
+1	Doktoru	Doktor	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	cilt	cilt	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	kanserinden	kanser	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+4	korunması	_	_	_	_	_	_	_	_
+5	için	_	_	_	_	_	_	_	_
+6	belli	belli	ADJ	Adj	_	_	amod	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	güneş	güneş	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	kremini	krem	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+10	almasını	_	_	_	_	_	_	_	_
+11	istemiş	_	_	_	_	_	_	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = svu_81090
+# text = Yağız'ın görmek istediği öğrenci şimdikinden farklı.
+1	Yağız'ın	Yağız	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	görmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	öğrenci	öğrenci	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	şimdikinden	_	_	_	_	_	_	_	_
+6	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = srm_55655
+# text = Koridora asmak istediği şey belirli bir ayna Selim'in.
+1	Koridora	Koridor	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+2	asmak	_	_	_	_	_	_	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	şey	şey	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	belirli	belirli	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	ayna	ayna	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	Selim'in	Selim	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sgu_55442
+# text = Şeyda'nın bitirmek için saatler harcamamak dilediği bir kitap var.
+1	Şeyda'nın	Şeyda	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	bitirmek	_	_	_	_	_	_	_	_
+3	için	_	_	_	_	_	_	_	_
+4	saatler	saat	NOUN	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+5	harcamamak	_	_	_	_	_	_	_	_
+6	dilediği	_	_	_	_	_	_	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	kitap	kitap	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = szi_76249
+# text = Günlerini belirli bir sahil kasabasında geçirmek istiyor Pelin.
+1	Günlerini	Gün	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	belirli	belirli	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	sahil	sahil	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	kasabasında	kasaba	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+6	geçirmek	_	_	_	_	_	_	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	Pelin	Pelin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = svj_99081
+# text = Her şeyden bıkmış görünen Melis artık aklındaki sahil kasabasına yerleşmek istiyor.
+1	Her	Her	ADJ	Adj	_	_	amod	_	_
+2	şeyden	şey	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+3	bıkmış	_	_	_	_	_	_	_	_
+4	görünen	_	_	_	_	_	_	_	_
+5	Melis	Melis	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	artık	_	ADV	_	_	_	advmod	_	_
+7	aklındaki	_	_	_	_	_	_	_	_
+8	sahil	sahil	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	kasabasına	kasaba	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+10	yerleşmek	_	_	_	_	_	_	_	_
+11	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sbm_44648
+# text = Halil'in buluşmak istediği kişi bir şarkıcı.
+1	Halil'in	Halil	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	buluşmak	_	_	_	_	_	_	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	kişi	kişi	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	şarkıcı	şarkıcı	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sfy_41641
+# text = Fırat yeni açılmış olan kursta yelken eğitimi almayı düşünüyor.
+1	Fırat	Fırat	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	yeni	yeni	ADJ	Adj	_	_	amod	_	_
+3	açılmış	_	_	_	_	_	_	_	_
+4	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+5	kursta	kurs	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+6	yelken	yelken	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	eğitimi	eğitim	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+8	almayı	_	Vnoun	_	Case=Acc|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = shg_90335
+# text = Buse'nin dinlemek istediği şu ankinden farklı bir hikaye var.
+1	Buse'nin	Buse	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	dinlemek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	şu	şu	ADJ	Adj	_	_	amod	_	_
+5	ankinden	_	_	_	_	_	_	_	_
+6	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	hikaye	hikaye	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = ske_62659
+# text = Gökçe'nin bakmanın çok iyi hissettirdiğini düşündüğü bir çiçek var.
+1	Gökçe'nin	Gökçe	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	bakmanın	_	_	_	_	_	_	_	_
+3	çok	_	ADV	_	_	_	advmod	_	_
+4	iyi	iyi	ADJ	Adj	_	_	amod	_	_
+5	hissettirdiğini	_	_	_	_	_	_	_	_
+6	düşündüğü	_	Ptcp	_	Aspect=Perf|Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	acl	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	çiçek	çiçek	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sdz_59158
+# text = Nilay'ın haber vermek istediği lüks restoran haber verdiğinden farklı.
+1	Nilay'ın	Nilay	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	haber	haber	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	vermek	_	_	_	_	_	_	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	lüks	lüks	ADJ	Adj	_	_	amod	_	_
+6	restoran	restoran	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	haber	haber	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	verdiğinden	_	_	_	_	_	_	_	_
+9	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = see_24374
+# text = Duygu hastalanırsa yakınlardaki bir eczaneyi bulamayacağını düşünüyor.
+1	Duygu	Duygu	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	hastalanırsa	_	_	_	_	_	_	_	_
+3	yakınlardaki	_	_	_	_	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	eczaneyi	eczane	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+6	bulamayacağını	_	_	_	_	_	_	_	_
+7	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sjh_31020
+# text = Yurdanur'un işbirliği yapmak istediği menajer Behice gibi zeki.
+1	Yurdanur'un	Yurdanur	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	işbirliği	işbirliği	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	yapmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	menajer	menajer	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	Behice	Behice	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	gibi	_	_	_	_	_	_	_	_
+8	zeki	zeki	ADJ	Adj	_	_	amod	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sms_45376
+# text = Soner bu notaları gül ağacından yapılmış olan eski gitardan duymak istiyor.
+1	Soner	Soner	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bu	bu	ADJ	Adj	_	_	amod	_	_
+3	notaları	nota	NOUN	_	Case=Acc|Number=Plur|Person=3	_	_	_	_
+4	gül	gül	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	ağacından	ağac	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+6	yapılmış	_	_	_	_	_	_	_	_
+7	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+8	eski	eski	ADJ	Adj	_	_	amod	_	_
+9	gitardan	gitar	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+10	duymak	_	_	_	_	_	_	_	_
+11	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = snb_77484
+# text = Para isteyeceği şimdikinden farklı bir cesur adam var Tarık'ın.
+1	Para	Para	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	isteyeceği	_	_	_	_	_	_	_	_
+3	şimdikinden	_	_	_	_	_	_	_	_
+4	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	cesur	cesur	ADJ	Adj	_	_	amod	_	_
+7	adam	adam	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+9	Tarık'ın	Tarık	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sph_35593
+# text = Buse'nin hissedar olmayı istediği yer bir şirket.
+1	Buse'nin	Buse	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	hissedar	hissedar	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	olmayı	_	_	_	_	_	_	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	yer	yer	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	şirket	şirket	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = swc_25747
+# text = Çamaşırlarını sermeye üşenen Mert'in almak istediği kurutma makinesi ekonomik.
+1	Çamaşırlarını	Çamaşır	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	sermeye	_	_	_	_	_	_	_	_
+3	üşenen	_	_	_	_	_	_	_	_
+4	Mert'in	Mert	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+5	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+7	kurutma	kurutma	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	makinesi	makine	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+9	ekonomik	ekonomik	ADJ	Adj	_	_	amod	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sib_37754
+# text = Bade'nin söylemek istediği şarkı şimdi söylediğinden farklı.
+1	Bade'nin	Bade	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	söylemek	_	_	_	_	_	_	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	şarkı	şarkı	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	şimdi	_	ADV	_	_	_	advmod	_	_
+6	söylediğinden	_	_	_	_	_	_	_	_
+7	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = scn_84512
+# text = Ceyda'nın kırıldığını düşündüğü şey bir bardak.
+1	Ceyda'nın	Ceyda	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	kırıldığını	_	_	_	_	_	_	_	_
+3	düşündüğü	_	Ptcp	_	Aspect=Perf|Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	acl	_	_
+4	şey	şey	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	bardak	bardak	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sai_27199
+# text = Tolga'nın benim moralimi bozabileceğini düşündüğü bir mesaj var.
+1	Tolga'nın	Tolga	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	benim	_	_	_	_	_	_	_	_
+3	moralimi	moral	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+4	bozabileceğini	_	_	_	_	_	_	_	_
+5	düşündüğü	_	Ptcp	_	Aspect=Perf|Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	acl	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	mesaj	mesaj	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sgb_74359
+# text = Bu proje için Nezahat'in anlaşmak istediği bir inşaat mühendisi var.
+1	Bu	_	_	_	_	_	_	_	_
+2	proje	proje	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	için	_	_	_	_	_	_	_	_
+4	Nezahat'in	Nezahat	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+5	anlaşmak	_	_	_	_	_	_	_	_
+6	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	inşaat	inşaat	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	mühendisi	mühendi	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+10	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sdz_66402
+# text = Bizim bahçedeki gibi canlı olan birtakım ağaçları görmek istiyor Yurdakul.
+1	Bizim	_	_	_	_	_	_	_	_
+2	bahçedeki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	canlı	canlı	ADJ	Adj	_	_	amod	_	_
+5	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+6	birtakım	_	_	_	_	_	_	_	_
+7	ağaçları	ağaç	NOUN	_	Case=Acc|Number=Plur|Person=3	_	_	_	_
+8	görmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	Yurdakul	Yurdakul	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sby_54520
+# text = Ziynet'in sebze almak istediği organik pazar burası değil.
+1	Ziynet'in	Ziynet	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	sebze	sebze	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	organik	organik	ADJ	Adj	_	_	amod	_	_
+6	pazar	pazar	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	burası	_	_	_	_	_	_	_	_
+8	değil	_	_	_	_	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sot_86688
+# text = Eskisi gibi kullanışlı olacak uygulamayı hazırlamak istiyordu.
+1	Eskisi	Eski	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	kullanışlı	kullanışlı	ADJ	Adj	_	_	amod	_	_
+4	olacak	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	uygulamayı	_	_	_	_	_	_	_	_
+6	hazırlamak	_	_	_	_	_	_	_	_
+7	istiyordu	_	_	_	_	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = srm_67486
+# text = Kedinin istediği oyuncak belli.
+1	Kedinin	Kedi	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+2	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+3	oyuncak	oyuncak	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	belli	belli	ADJ	Adj	_	_	amod	_	_
+5	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = syn_42023
+# text = Babam eve gelirken belirli bir sigarayı almasını istedi kardeşimden.
+1	Babam	Baba	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+2	eve	ev	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+3	gelirken	_	Conv	_	Polarity=Pos|VerbForm=Conv	_	_	_	_
+4	belirli	belirli	ADJ	Adj	_	_	amod	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	sigarayı	sigara	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+7	almasını	_	_	_	_	_	_	_	_
+8	istedi	_	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+9	kardeşimden	kardeş	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = szf_37640
+# text = Senin elindeki gibi olan kırmızı domatesi ısırmak istiyor Hülya.
+1	Senin	_	_	_	_	_	_	_	_
+2	elindeki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+5	kırmızı	kırmızı	ADJ	Adj	_	_	amod	_	_
+6	domatesi	_	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+7	ısırmak	_	_	_	_	_	_	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	Hülya	Hülya	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sjb_46317
+# text = Çağla'nın isterse içebileceği bir meyve suyu varmış.
+1	Çağla'nın	_	_	_	_	_	_	_	_
+2	isterse	_	_	_	_	_	_	_	_
+3	içebileceği	_	_	_	_	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	meyve	meyve	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	suyu	suy	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+7	varmış	_	NOUN	Exist	Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	_	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = stx_36948
+# text = Niyazi'nin tartışmak istediği kişi bir muhtar.
+1	Niyazi'nin	Niyazi	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	tartışmak	_	_	_	_	_	_	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	kişi	kişi	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	muhtar	muhtar	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sap_10757
+# text = Ali'nin izlemek istediği bir film var.
+1	Ali'nin	Ali	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	izlemek	_	_	_	_	_	_	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	film	film	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = scp_11417
+# text = Murat'ın İstanbul'da almayı çok istediği bir ev var.
+1	Murat'ın	Murat	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	İstanbul'da	_	_	_	_	_	_	_	_
+3	almayı	_	Vnoun	_	Case=Acc|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	çok	_	ADV	_	_	_	advmod	_	_
+5	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	ev	ev	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sga_27525
+# text = Bu konuyu öğrenmek istediği belli bir kitap var Muhterem'in.
+1	Bu	_	_	_	_	_	_	_	_
+2	konuyu	konu	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+3	öğrenmek	_	_	_	_	_	_	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	belli	belli	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	kitap	kitap	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+9	Muhterem'in	Muhterem	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sek_78570
+# text = Cildi çok kuru olan Nazan'ın satın almak istediği şey belirli bir nemlendirici.
+1	cildi	cilt	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	çok	_	ADV	_	_	_	advmod	_	_
+3	kuru	kuru	ADJ	Adj	_	_	amod	_	_
+4	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+5	Nazan'ın	_	_	_	_	_	_	_	_
+6	satın	satın	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+8	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+9	şey	şey	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+10	belirli	belirli	ADJ	Adj	_	_	amod	_	_
+11	bir	bir	DET	Indef	_	_	det	_	_
+12	nemlendirici	nemlendirici	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+13	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = szx_10000
+# text = Gürkan'ın kapıyı açmak istediği anahtar hikayelerdeki gibi altın.
+1	Gürkan'ın	Gürkan	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	kapıyı	kapı	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+3	açmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	anahtar	anahtar	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	hikayelerdeki	_	_	_	_	_	_	_	_
+7	gibi	_	_	_	_	_	_	_	_
+8	altın	altın	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = srj_86024
+# text = Mükerrem ile konuşan herkesin kendisini sanacağı mutlu bir prenses var.
+1	Mükerrem	Mükerrem	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	ile	_	_	_	_	_	_	_	_
+3	konuşan	_	_	_	_	_	_	_	_
+4	herkesin	herkes	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+5	kendisini	_	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+6	sanacağı	_	_	_	_	_	_	_	_
+7	mutlu	mutlu	ADJ	Adj	_	_	amod	_	_
+8	bir	bir	DET	Indef	_	_	det	_	_
+9	prenses	prenses	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+10	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sxq_38414
+# text = Zümran istiyor ilan verdiğinden farklı olan yerel gazeteye ilan vermek.
+1	Zümran	Zümran	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+3	ilan	ilan	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	verdiğinden	_	_	_	_	_	_	_	_
+5	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+6	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+7	yerel	yerel	ADJ	Adj	_	_	amod	_	_
+8	gazeteye	gazete	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+9	ilan	ilan	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+10	vermek	_	_	_	_	_	_	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = siy_54687
+# text = Kardeşime keman derslerini aldıracakları bir özel öğretmen var.
+1	kardeşime	kardeş	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+2	keman	keman	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	derslerini	_	_	_	_	_	_	_	_
+4	aldıracakları	_	_	_	_	_	_	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	özel	özel	ADJ	Adj	_	_	amod	_	_
+7	öğretmen	öğretmen	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = saz_23990
+# text = Eğer yeterince çabalarsa Derin onu almaya ikna edeceği bir televizyon var.
+1	Eğer	_	_	_	_	_	_	_	_
+2	yeterince	_	ADV	_	_	_	advmod	_	_
+3	çabalarsa	_	_	_	_	_	_	_	_
+4	Derin	Derin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	onu	on	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+6	almaya	_	_	_	_	_	_	_	_
+7	ikna	ikna	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	edeceği	_	_	_	_	_	_	_	_
+9	bir	bir	DET	Indef	_	_	det	_	_
+10	televizyon	televizyon	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+11	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = szs_20267
+# text = Hakan'ın yazılmak istediği yer dershane.
+1	Hakan'ın	Hakan	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	yazılmak	_	_	_	_	_	_	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	yer	yer	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	dershane	dershane	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = scd_91442
+# text = Gülsüm'ün görünmek istediği doktor Filiz gibi uzman.
+1	Gülsüm'ün	Gülsüm	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	görünmek	_	_	_	_	_	_	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	doktor	doktor	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	Filiz	Filiz	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	gibi	_	_	_	_	_	_	_	_
+7	uzman	uzman	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = svk_78000
+# text = Doktorun ilgilenmek istediği belirli ve farklı bir hasta var.
+1	Doktorun	Doktor	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+2	ilgilenmek	_	_	_	_	_	_	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	belirli	belirli	ADJ	Adj	_	_	amod	_	_
+5	ve	_	_	_	_	_	_	_	_
+6	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	hasta	hasta	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = szs_92418
+# text = Neslihan yarın aklındaki diziyi izlemek istiyor.
+1	Neslihan	Neslihan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	yarın	_	ADV	Adj	_	_	advmod	_	_
+3	aklındaki	_	_	_	_	_	_	_	_
+4	diziyi	dizi	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+5	izlemek	_	_	_	_	_	_	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sos_54061
+# text = Kaan'ın istediği farklı ve özel bir kırmızı dosya var.
+1	Kaan'ın	Kaan	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+3	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+4	ve	_	_	_	_	_	_	_	_
+5	özel	özel	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	kırmızı	kırmızı	ADJ	Adj	_	_	amod	_	_
+8	dosya	dosya	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sdp_76903
+# text = Serra'nın süpürmek istediği belirli bir oda var.
+1	Serra'nın	Serra	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	süpürmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	belirli	belirli	ADJ	Adj	_	_	amod	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	oda	oda	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sdf_35499
+# text = Akif can sıkan soruna çözüm bulmak istiyor.
+1	Akif	Akif	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	can	_	_	_	_	_	_	_	_
+3	sıkan	_	_	_	_	_	_	_	_
+4	soruna	sorun	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+5	çözüm	çözüm	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	bulmak	_	_	_	_	_	_	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sgm_20579
+# text = Konudan rahatsız olan herkes bu konuya dair yeni kanunun düzenlenmesini istiyor.
+1	Konudan	Konu	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+2	rahatsız	rahatsız	ADJ	Adj	_	_	amod	_	_
+3	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+4	herkes	herkes	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	bu	bu	ADJ	Adj	_	_	amod	_	_
+6	konuya	konu	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+7	dair	_	_	_	_	_	_	_	_
+8	yeni	yeni	ADJ	Adj	_	_	amod	_	_
+9	kanunun	kanun	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+10	düzenlenmesini	_	_	_	_	_	_	_	_
+11	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = scs_74734
+# text = Kenan'ın sakin olarak girmesi gereken bir sınav var.
+1	Kenan'ın	Kenan	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	sakin	sakin	ADJ	Adj	_	_	amod	_	_
+3	olarak	_	_	_	_	_	_	_	_
+4	girmesi	_	_	_	_	_	_	_	_
+5	gereken	_	_	_	_	_	_	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	sınav	sınav	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = syy_56093
+# text = Müşterinin yemek istediği ürün tatlı.
+1	Müşterinin	Müşteri	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+2	yemek	yemek	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	ürün	ürün	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	tatlı	tatlı	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = stw_48243
+# text = Miray'ın almayı kesinlikle isteyeceği bir oyun var.
+1	Miray'ın	Miray	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	almayı	_	Vnoun	_	Case=Acc|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+3	kesinlikle	_	ADV	_	_	_	advmod	_	_
+4	isteyeceği	_	_	_	_	_	_	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	oyun	oyun	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sih_78669
+# text = Dudu'nun aşık olmayı istediği yakışıklı adam şimdiki aşkı değil.
+1	Dudu'nun	Dudu	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	aşık	aşık	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	olmayı	_	_	_	_	_	_	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	yakışıklı	yakışıklı	ADJ	Adj	_	_	amod	_	_
+6	adam	adam	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	şimdiki	_	_	_	_	_	_	_	_
+8	aşkı	_	_	_	_	_	_	_	_
+9	değil	_	_	_	_	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sck_33323
+# text = Uygar'ın taşınmak istediği şehir sıkıcı bir yer.
+1	Uygar'ın	Uygar	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	taşınmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	şehir	şehir	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	sıkıcı	sıkıcı	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	yer	yer	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sdu_41032
+# text = Deniz'in alabilirse daha mutlu olacağı bir yardım var.
+1	Deniz'in	Deniz	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	alabilirse	_	_	_	_	_	_	_	_
+3	daha	_	ADV	_	_	_	advmod	_	_
+4	mutlu	mutlu	ADJ	Adj	_	_	amod	_	_
+5	olacağı	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	yardım	yardım	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = svi_47960
+# text = Ünsal'ın her yere dikmek istediği şey bir fidan.
+1	Ünsal'ın	Ünsal	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	her	her	ADJ	Adj	_	_	amod	_	_
+3	yere	yer	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+4	dikmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+5	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+6	şey	şey	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	fidan	fidan	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = shw_31642
+# text = Çiçek'in arkadaş olmak istediği kişi belli.
+1	Çiçek'in	Çiçek	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	arkadaş	arkadaş	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	olmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	kişi	kişi	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	belli	belli	ADJ	Adj	_	_	amod	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = stq_60773
+# text = Oğluna almayı hayal ettiği ayakkabı yeni.
+1	Oğluna	Oğl	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	almayı	_	Vnoun	_	Case=Acc|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+3	hayal	hayal	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	ettiği	_	Ptcp	_	Aspect=Perf|Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	acl	_	_
+5	ayakkabı	ayakkabı	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	yeni	yeni	ADJ	Adj	_	_	amod	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = ski_39409
+# text = Senin gibi kibar olan belli bir arkadaşından yardım isteyecek Narin.
+1	Senin	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	kibar	kibar	ADJ	Adj	_	_	amod	_	_
+4	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+5	belli	belli	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	arkadaşından	arkadaş	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+8	yardım	yardım	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	isteyecek	_	_	_	_	_	_	_	_
+10	Narin	Narin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = syj_56435
+# text = Ilgın'ın bilet almak istediği uçuş belirli ve farklı bir havalimanından kalkıyor.
+1	Ilgın'ın	Ilgın	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	bilet	bilet	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	uçuş	uçuş	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	belirli	belirli	ADJ	Adj	_	_	amod	_	_
+7	ve	_	_	_	_	_	_	_	_
+8	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+9	bir	bir	DET	Indef	_	_	det	_	_
+10	havalimanından	havalimanın	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+11	kalkıyor	_	_	_	_	_	_	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sev_98648
+# text = Orkun resimlerinin anlattığı belirli bir hikaye olduğunu düşünüyor.
+1	Orkun	Orkun	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	resimlerinin	_	NOUN	_	Case=Gen|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+3	anlattığı	_	_	_	_	_	_	_	_
+4	belirli	belirli	ADJ	Adj	_	_	amod	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	hikaye	hikaye	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	olduğunu	_	Ptcp	_	Aspect=Perf|Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	_	_	_
+8	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sup_79676
+# text = Sadık'ın almak istediği yatak eski evindeki gibi.
+1	Sadık'ın	Sadık	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	yatak	yatak	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	eski	eski	ADJ	Adj	_	_	amod	_	_
+6	evindeki	_	_	_	_	_	_	_	_
+7	gibi	_	_	_	_	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = srp_57401
+# text = Aysima'nın koklamak istediği şey belirli bir parfüm.
+1	Aysima'nın	Aysima	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	koklamak	_	_	_	_	_	_	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	şey	şey	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	belirli	belirli	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	parfüm	parfüm	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sly_97021
+# text = Aslı alanında uzman olan doktora fikir danışmak istiyor.
+1	Aslı	Aslı	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	alanında	alan	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+3	uzman	uzman	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+5	doktora	doktor	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+6	fikir	fikir	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	danışmak	_	_	_	_	_	_	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sfa_16776
+# text = Şakir az önce konuştuğumuz konu gibi hassas olan belirli bir konudan bahsetmek istiyor.
+1	Şakir	Şakir	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	az	az	ADJ	Adj	_	_	amod	_	_
+3	önce	önce	ADJ	Adj	_	_	amod	_	_
+4	konuştuğumuz	_	_	_	_	_	_	_	_
+5	konu	konu	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	gibi	_	_	_	_	_	_	_	_
+7	hassas	hassas	ADJ	Adj	_	_	amod	_	_
+8	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+9	belirli	belirli	ADJ	Adj	_	_	amod	_	_
+10	bir	bir	DET	Indef	_	_	det	_	_
+11	konudan	konu	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+12	bahsetmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+13	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+14	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = szi_76588
+# text = Leyla'nın çalışmak istediği ofis seninki gibi şık.
+1	Leyla'nın	Leyla	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	çalışmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	ofis	ofis	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	seninki	_	_	_	_	_	_	_	_
+6	gibi	_	_	_	_	_	_	_	_
+7	şık	şık	ADJ	Adj	_	_	amod	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sts_95237
+# text = Fırat'ın gece görürse çok korkacağı bir böcek var.
+1	Fırat'ın	Fırat	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	gece	_	ADV	_	Case=Nom|Number=Sing|Person=3	_	advmod	_	_
+3	görürse	_	_	_	_	_	_	_	_
+4	çok	_	ADV	_	_	_	advmod	_	_
+5	korkacağı	_	_	_	_	_	_	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	böcek	böcek	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	var	_	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	_	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = slw_43218
+# text = Portekizli oğlanın sevgilisine almak istediği özel bir hediye vardı.
+1	Portekizli	Portekizli	ADJ	Adj	_	_	amod	_	_
+2	oğlanın	oğlan	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+3	sevgilisine	sevgili	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+4	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+5	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+6	özel	özel	ADJ	Adj	_	_	amod	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	hediye	hediye	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	vardı	_	NOUN	Exist	Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	_	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sgn_58532
+# text = Venüs'ün görmek istediği kedi belirli bir kedi.
+1	Venüs'ün	Venüs	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	görmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	kedi	kedi	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	belirli	belirli	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	kedi	kedi	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = www_00001
+# text = split1
+1	split1	_	_	_	_	_	_	_	_
+
+# sent_id = sof_87395
+# text = Pelin şimdiki yüksek okulunda okumak istemiyor.
+1	Pelin	Pelin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	şimdiki	_	_	_	_	_	_	_	_
+3	yüksek	yüksek	ADJ	Adj	_	_	amod	_	_
+4	okulunda	okul	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+5	okumak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	istemiyor	_	_	_	_	_	_	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sye_54814
+# text = Arkadaşım okuyacağı şeyin bir kitap olmasını ister.
+1	Arkadaşım	Arkadaş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+2	okuyacağı	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+3	şeyin	şey	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	kitap	kitap	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	ister	_	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sne_57598
+# text = Ezan okununca eniştem namaz kılmak için herhangi bir seccade istedi.
+1	Ezan	Ezan	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	okununca	_	_	_	_	_	_	_	_
+3	eniştem	enişte	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+4	namaz	namaz	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	kılmak	_	_	_	_	_	_	_	_
+6	için	_	_	_	_	_	_	_	_
+7	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+8	bir	bir	DET	Indef	_	_	det	_	_
+9	seccade	seccade	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+10	istedi	_	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sgh_28487
+# text = Kenan sevgilisine herhangi bir mektup yazmanın romantik olabileceğine inanıyor.
+1	Kenan	Kenan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	sevgilisine	sevgili	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+3	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	mektup	mektup	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	yazmanın	_	_	_	_	_	_	_	_
+7	romantik	romantik	ADJ	Adj	_	_	amod	_	_
+8	olabileceğine	_	_	_	_	_	_	_	_
+9	inanıyor	_	_	_	_	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sbx_46616
+# text = Ezgi boncukları dizerek yapabileceği ürün bir kolye.
+1	Ezgi	Ezgi	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	boncukları	boncuk	NOUN	_	Case=Acc|Number=Plur|Person=3	_	_	_	_
+3	dizerek	_	_	_	_	_	_	_	_
+4	yapabileceği	_	_	_	_	_	_	_	_
+5	ürün	ürün	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	kolye	kolye	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = scl_12350
+# text = Beyza'nın nasıl kitaplardan herhangi birini kütüphaneden almayı düşünüyor?
+1	Beyza'nın	Beyza	PROPN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+2	nasıl	_	_	_	_	_	_	_	_
+3	kitaplardan	_	_	_	_	_	_	_	_
+4	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+5	birini	_	_	_	_	_	_	_	_
+6	kütüphaneden	kütüphane	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+7	almayı	_	Vnoun	_	Case=Acc|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+8	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	?	?	PUNCT	Ques	_	_	punct	_	_
+
+# sent_id = skm_32571
+# text = Yetkin karşılacağı rakibin Erdem gibi güçlü biri olmasını istiyor.
+1	Yetkin	Yetkin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	karşılacağı	_	_	_	_	_	_	_	_
+3	rakibin	rakib	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	Erdem	Erdem	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	gibi	_	_	_	_	_	_	_	_
+6	güçlü	güçlü	ADJ	Adj	_	_	amod	_	_
+7	biri	biri	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = svn_74503
+# text = Dilara aldığı sorumlulukları yerine getirir mi?
+1	Dilara	Dilara	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	aldığı	_	_	_	_	_	_	_	_
+3	sorumlulukları	sorumluluk	NOUN	_	Case=Acc|Number=Plur|Person=3	_	_	_	_
+4	yerine	yer	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+5	getirir	_	_	_	_	_	_	_	_
+6	mi	_	AUX	Ques	_	_	discourse:q	_	_
+7	?	?	PUNCT	Ques	_	_	punct	_	_
+
+# sent_id = sbe_65925
+# text = Bahçıvan buraya fidan dikmek istiyor.
+1	Bahçıvan	Bahçıvan	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	buraya	bura	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+3	fidan	fidan	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	dikmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+5	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sja_39544
+# text = Baran hep rapor yazar durumda olmak zorunda mı?
+1	Baran	Baran	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	hep	hep	ADV	_	_	_	_	_	_
+3	rapor	rapor	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	yazar	yazar	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	durumda	_	_	_	_	_	_	_	_
+6	olmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	zorunda	_	_	_	_	_	_	_	_
+8	mı	_	AUX	Ques	_	_	discourse:q	_	_
+9	?	?	PUNCT	Ques	_	_	punct	_	_
+
+# sent_id = sxo_23444
+# text = Ev arkadaşım buraya asacağı şeyin bir poster olmasını istiyor.
+1	Ev	Ev	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	arkadaşım	arkadaş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+3	buraya	bura	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+4	asacağı	_	_	_	_	_	_	_	_
+5	şeyin	şey	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	poster	poster	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sbu_81859
+# text = Özden bulacağı traktörün Yaren'inki gibi dayanıklı traktörlerden olmasını istiyor.
+1	Özden	Özden	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bulacağı	_	_	_	_	_	_	_	_
+3	traktörün	traktör	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	Yaren'inki	_	_	_	_	_	_	_	_
+5	gibi	_	_	_	_	_	_	_	_
+6	dayanıklı	dayanıklı	ADJ	Adj	_	_	amod	_	_
+7	traktörlerden	traktör	NOUN	_	Case=Abl|Number=Plur|Person=3	_	_	_	_
+8	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = syn_47314
+# text = Sarışın kızın yapmak istediği şey sana soru sormak.
+1	Sarışın	Sarışın	ADJ	Adj	_	_	amod	_	_
+2	kızın	kız	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+3	yapmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	şey	şey	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	sana	san	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+7	soru	soru	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	sormak	_	_	_	_	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sbq_78278
+# text = Karpuz seçmeyi bilmeyen Tilbe manavdan lezzetli karpuzlardan herhangi birini vermesini istedi.
+1	Karpuz	Karpuz	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	seçmeyi	_	_	_	_	_	_	_	_
+3	bilmeyen	_	_	_	_	_	_	_	_
+4	Tilbe	Tilbe	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	manavdan	manav	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+6	lezzetli	lezzetli	ADJ	Adj	_	_	amod	_	_
+7	karpuzlardan	karpuz	NOUN	_	Case=Abl|Number=Plur|Person=3	_	_	_	_
+8	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+9	birini	_	_	_	_	_	_	_	_
+10	vermesini	_	_	_	_	_	_	_	_
+11	istedi	_	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sji_64861
+# text = Helin başına gelen olaylardan herhangi birini bile anlatmak istemiyor.
+1	Helin	Helin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	başına	baş	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+3	gelen	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+4	olaylardan	olay	NOUN	_	Case=Abl|Number=Plur|Person=3	_	_	_	_
+5	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+6	birini	_	_	_	_	_	_	_	_
+7	bile	_	ADV	_	_	_	advmod	_	_
+8	anlatmak	_	_	_	_	_	_	_	_
+9	istemiyor	_	_	_	_	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sip_72525
+# text = Ali şimdiki ülkesinden farklı bir ülkede nasıl yaşayacak?
+1	Ali	Ali	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	şimdiki	_	_	_	_	_	_	_	_
+3	ülkesinden	ülke	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+4	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	ülkede	ülke	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+7	nasıl	_	_	_	_	_	_	_	_
+8	yaşayacak	_	_	_	_	_	_	_	_
+9	?	?	PUNCT	Ques	_	_	punct	_	_
+
+# sent_id = sah_45963
+# text = Elif araba sahibi olsaydı bu kadar yorulmayacağını düşünüyor.
+1	Elif	Elif	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	araba	araba	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	sahibi	sahib	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+4	olsaydı	_	_	_	_	_	_	_	_
+5	bu	bu	ADJ	Adj	_	_	amod	_	_
+6	kadar	_	_	_	_	_	_	_	_
+7	yorulmayacağını	_	_	_	_	_	_	_	_
+8	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = shd_51809
+# text = hakem faul yapan kişinin bir oyuncu olduğunu düşünüyor.
+1	hakem	hakem	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	faul	faul	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	yapan	_	_	_	_	_	_	_	_
+4	kişinin	kişi	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	oyuncu	oyuncu	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	olduğunu	_	Ptcp	_	Aspect=Perf|Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	_	_	_
+8	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sun_79125
+# text = Kedim için almak istediğim şey yaş mama.
+1	Kedim	Ked	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+2	için	_	_	_	_	_	_	_	_
+3	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	istediğim	_	Ptcp	_	Aspect=Perf|Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1|Polarity=Pos|Tense=Past|VerbForm=Part	_	acl	_	_
+5	şey	şey	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	yaş	yaş	ADJ	Adj	_	_	amod	_	_
+7	mama	mama	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sdu_50356
+# text = Halide annesininki gibi lüks olan otellerden herhangi birinde tatil yapmak istiyor.
+1	Halide	Halide	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	annesininki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	lüks	lüks	ADJ	Adj	_	_	amod	_	_
+5	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+6	otellerden	otel	NOUN	_	Case=Abl|Number=Plur|Person=3	_	_	_	_
+7	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+8	birinde	_	_	_	_	_	_	_	_
+9	tatil	tatil	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+10	yapmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+11	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = swu_91071
+# text = İnci olaylardan bahsetmekten çekiniyor.
+1	İnci	İnci	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	olaylardan	olay	NOUN	_	Case=Abl|Number=Plur|Person=3	_	_	_	_
+3	bahsetmekten	_	_	_	_	_	_	_	_
+4	çekiniyor	_	_	_	_	_	_	_	_
+5	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = soy_18172
+# text = Çalışacağım kütüphanenin okuldaki gibi kapsamlı olmasını istiyorum.
+1	Çalışacağım	_	_	_	_	_	_	_	_
+2	kütüphanenin	kütüphane	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+3	okuldaki	_	_	_	_	_	_	_	_
+4	gibi	_	_	_	_	_	_	_	_
+5	kapsamlı	kapsamlı	ADJ	Adj	_	_	amod	_	_
+6	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyorum	_	VERB	_	Aspect=Imp|Number=Sing|Person=1|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sru_44655
+# text = Nergis arkadaşı olan herhangi bir kişiye yemek yedirme sözü verdi.
+1	Nergis	Nergis	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	arkadaşı	arkadaş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+3	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+4	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	kişiye	kişi	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+7	yemek	yemek	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	yedirme	_	_	_	_	_	_	_	_
+9	sözü	söz	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+10	verdi	_	_	_	_	_	_	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = svb_55793
+# text = Bazı öğrencilerin yapmak istediği şey dersi sınıfta dinlemek.
+1	Bazı	bazı	ADJ	Adj	_	_	amod	_	_
+2	öğrencilerin	öğrenci	NOUN	_	Case=Gen|Number=Plur|Person=3	_	_	_	_
+3	yapmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	şey	şey	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	dersi	_	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+7	sınıfta	sınıf	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+8	dinlemek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = szr_13966
+# text = Kuzenim okuyacağı üniversitenin iyi olmasını arzu ediyor.
+1	Kuzenim	Kuzen	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+2	okuyacağı	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+3	üniversitenin	üniversite	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	iyi	iyi	ADJ	Adj	_	_	amod	_	_
+5	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	arzu	arzu	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	ediyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sea_97796
+# text = Kardeşim herhangi bir araba almak istiyor.
+1	Kardeşim	Kardeş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+2	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	araba	araba	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = ssf_22133
+# text = Kerem dünyadaki tüm tabakların sirtaki için uygun olduğunu sanıyor.
+1	Kerem	Kerem	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	dünyadaki	_	_	_	_	_	_	_	_
+3	tüm	tüm	ADJ	Adj	_	_	amod	_	_
+4	tabakların	tabak	NOUN	_	Case=Gen|Number=Plur|Person=3	_	_	_	_
+5	sirtaki	sirtaki	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	için	_	_	_	_	_	_	_	_
+7	uygun	uygun	ADJ	Adj	_	_	amod	_	_
+8	olduğunu	_	Ptcp	_	Aspect=Perf|Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	_	_	_
+9	sanıyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sqz_97356
+# text = Nermin'in yapma ihtimalinin olduğu şey akşam yemeğine komşu çağırmak.
+1	Nermin'in	Nermin	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	yapma	_	_	_	_	_	_	_	_
+3	ihtimalinin	ihtimal	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+4	olduğu	_	Ptcp	_	Aspect=Perf|Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	acl	_	_
+5	şey	şey	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	akşam	akşam	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	yemeğine	yemeğ	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+8	komşu	komşu	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	çağırmak	_	_	_	_	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = scv_99397
+# text = İşte herhangi bir sorunla karşılaşırsa Defne arkadaşını arar.
+1	İşte	İş	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+2	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	sorunla	sorun	NOUN	_	Case=Inst|Number=Sing|Person=3	_	_	_	_
+5	karşılaşırsa	_	_	_	_	_	_	_	_
+6	Defne	Defne	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	arkadaşını	arkadaş	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+8	arar	_	_	_	_	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sij_92683
+# text = Öğrenci aşina olacağı konunun kitaptaki gibi zor olmasını istiyor.
+1	Öğrenci	öğrenci	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	aşina	aşina	ADJ	Adj	_	_	amod	_	_
+3	olacağı	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	konunun	konu	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+5	kitaptaki	_	_	_	_	_	_	_	_
+6	gibi	_	_	_	_	_	_	_	_
+7	zor	zor	ADJ	Adj	_	_	amod	_	_
+8	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sni_76188
+# text = Harun, süreceği arabanın arkadaşınınki gibi hızlı olmasını istiyor.
+1	Harun	Harun	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	,	,	PUNCT	Comma	_	_	punct	_	_
+3	süreceği	_	_	_	_	_	_	_	_
+4	arabanın	araba	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+5	arkadaşınınki	_	_	_	_	_	_	_	_
+6	gibi	_	_	_	_	_	_	_	_
+7	hızlı	hızlı	ADJ	Adj	_	_	amod	_	_
+8	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sdo_41545
+# text = Şuayip'in istediği şey başlayacağı sorunun zor olması.
+1	Şuayip'in	Şuayip	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+3	şey	şey	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	başlayacağı	_	_	_	_	_	_	_	_
+5	sorunun	soru	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+6	zor	zor	ADJ	Adj	_	_	amod	_	_
+7	olması	_	_	_	_	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sif_86730
+# text = Pelin tüm müzisyenlerin okullu olduğunu düşünüyor.
+1	Pelin	Pelin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	tüm	tüm	ADJ	Adj	_	_	amod	_	_
+3	müzisyenlerin	müzisyen	NOUN	_	Case=Gen|Number=Plur|Person=3	_	_	_	_
+4	okullu	okullu	ADJ	Adj	_	_	amod	_	_
+5	olduğunu	_	Ptcp	_	Aspect=Perf|Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	_	_	_
+6	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = svg_65195
+# text = Yelda şu an vakit geçirdiği adamla vakit geçirmek istemiyor.
+1	Yelda	Yelda	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	şu	şu	ADJ	Adj	_	_	amod	_	_
+3	an	an	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	vakit	vakit	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	geçirdiği	_	_	_	_	_	_	_	_
+6	adamla	adam	NOUN	_	Case=Inst|Number=Sing|Person=3	_	_	_	_
+7	vakit	vakit	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	geçirmek	_	_	_	_	_	_	_	_
+9	istemiyor	_	_	_	_	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = swu_56848
+# text = Feriha şimdiki prestijli üniversitesinden farklı olan herhangi bir prestijli üniversitede okumak istiyor.
+1	Feriha	Feriha	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	şimdiki	_	_	_	_	_	_	_	_
+3	prestijli	prestijli	ADJ	Adj	_	_	amod	_	_
+4	üniversitesinden	üniversite	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+5	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+6	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+7	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+8	bir	bir	DET	Indef	_	_	det	_	_
+9	prestijli	prestijli	ADJ	Adj	_	_	amod	_	_
+10	üniversitede	üniversite	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+11	okumak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+12	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+13	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sxv_25507
+# text = Jale bir kişiye sırlarını açmayı ve bu kişinin arkadaşı Yaren gibi güvenilir olmasını istiyor.
+1	Jale	Jale	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bir	bir	DET	Indef	_	_	det	_	_
+3	kişiye	kişi	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+4	sırlarını	sır	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+5	açmayı	_	_	_	_	_	_	_	_
+6	ve	_	_	_	_	_	_	_	_
+7	bu	bu	ADJ	Adj	_	_	amod	_	_
+8	kişinin	kişi	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+9	arkadaşı	arkadaş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+10	Yaren	Yaren	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+11	gibi	_	_	_	_	_	_	_	_
+12	güvenilir	güvenilir	ADJ	Adj	_	_	amod	_	_
+13	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+14	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+15	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = swt_17590
+# text = Benan muhabbetini kitapçı olan herhangi bir kişiyle yapmak istiyor.
+1	Benan	Benan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	muhabbetini	muhabbet	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+3	kitapçı	kitapçı	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+5	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	kişiyle	_	_	_	_	_	_	_	_
+8	yapmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = syg_38564
+# text = Naz beraber yaşayacağı yakın arkadaşının şimdiki yakın arkadaşı dışında biri olmasını istiyor.
+1	Naz	Naz	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	beraber	_	ADV	_	_	_	advmod	_	_
+3	yaşayacağı	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	yakın	yakın	ADJ	Adj	_	_	amod	_	_
+5	arkadaşının	arkadaş	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+6	şimdiki	_	_	_	_	_	_	_	_
+7	yakın	yakın	ADJ	Adj	_	_	amod	_	_
+8	arkadaşı	arkadaş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+9	dışında	dışın	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+10	biri	biri	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+11	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+12	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+13	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = szd_51248
+# text = Berrin bu işi tamamlarsa bir kulüp partisi vermek istiyor.
+1	Berrin	Berrin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bu	bu	ADJ	Adj	_	_	amod	_	_
+3	işi	_	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+4	tamamlarsa	_	_	_	_	_	_	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	kulüp	kulüp	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	partisi	parti	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+8	vermek	_	_	_	_	_	_	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = syi_89668
+# text = Cansu yaşayacağı evin şimdikinden farklı bir geniş ev olmasını istiyor.
+1	Cansu	Cansu	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	yaşayacağı	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+3	evin	ev	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	şimdikinden	_	_	_	_	_	_	_	_
+5	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	geniş	geniş	ADJ	Adj	_	_	amod	_	_
+8	ev	ev	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+10	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = slw_12549
+# text = Reyhan yeni romanının da tarihi olmasını istiyor.
+1	Reyhan	Reyhan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	yeni	yeni	ADJ	Adj	_	_	amod	_	_
+3	romanının	roman	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+4	da	_	_	_	_	_	_	_	_
+5	tarihi	tarihi	ADJ	Adj	_	_	amod	_	_
+6	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sfw_71462
+# text = Berkay ile anlaşamadığı için herhangi bir kiralık  eve taşınmak istiyor Didem.
+1	Berkay	Berkay	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	ile	_	_	_	_	_	_	_	_
+3	anlaşamadığı	_	_	_	_	_	_	_	_
+4	için	_	_	_	_	_	_	_	_
+5	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	kiralık	kiralık	ADJ	Adj	_	_	amod	_	_
+8	eve	ev	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+9	taşınmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+10	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+11	Didem	Didem	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = snn_21909
+# text = Mete evleneceği kişinin kızıl saçlı bir kadın olacağına inanıyor.
+1	Mete	Mete	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	evleneceği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+3	kişinin	kişi	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	kızıl	kızıl	ADJ	Adj	_	_	amod	_	_
+5	saçlı	saçlı	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	kadın	kadın	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	olacağına	_	Ptcp	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos	_	acl	_	_
+9	inanıyor	_	_	_	_	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = svl_87469
+# text = Sevgilisi için hazırlayacağı yemeğin güzel olmasını istiyormuş Anıl.
+1	Sevgilisi	Sevgili	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	için	_	_	_	_	_	_	_	_
+3	hazırlayacağı	_	_	_	_	_	_	_	_
+4	yemeğin	yemeğ	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+5	güzel	güzel	ADJ	Adj	_	_	amod	_	_
+6	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyormuş	_	_	_	_	_	_	_	_
+8	Anıl	Anıl	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sbj_29827
+# text = Sude dolaba çanta koymak istiyor.
+1	Sude	Sude	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	dolaba	dolab	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+3	çanta	çanta	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	koymak	_	_	_	_	_	_	_	_
+5	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sph_90564
+# text = Jülide şimdi oturduğu kişiyle oturmak istemiyor.
+1	Jülide	Jülide	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	şimdi	_	ADV	_	_	_	advmod	_	_
+3	oturduğu	_	_	_	_	_	_	_	_
+4	kişiyle	_	_	_	_	_	_	_	_
+5	oturmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	istemiyor	_	_	_	_	_	_	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sak_45754
+# text = Asena oturacağı masanın denize bakmasını istiyor.
+1	Asena	Asena	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	oturacağı	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+3	masanın	masa	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	denize	deniz	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+5	bakmasını	_	_	_	_	_	_	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = syj_34861
+# text = Otobüse bineceği durağın buradaki gibi merkezi olmasını istiyor.
+1	Otobüse	otobüs	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+2	bineceği	_	_	_	_	_	_	_	_
+3	durağın	_	_	_	_	_	_	_	_
+4	buradaki	_	_	_	_	_	_	_	_
+5	gibi	_	_	_	_	_	_	_	_
+6	merkezi	merkezi	ADJ	Adj	_	_	amod	_	_
+7	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = spe_35811
+# text = Şef mağazakiler gibi kırmızı olan herhangi bir domates arıyor.
+1	Şef	Şef	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	mağazakiler	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	kırmızı	kırmızı	ADJ	Adj	_	_	amod	_	_
+5	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+6	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	domates	domates	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	arıyor	_	_	_	_	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sgi_93421
+# text = Doktoru cilt kanserinden korunması için güneş kremi almasını istemiş.
+1	Doktoru	Doktor	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	cilt	cilt	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	kanserinden	kanser	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+4	korunması	_	_	_	_	_	_	_	_
+5	için	_	_	_	_	_	_	_	_
+6	güneş	güneş	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	kremi	krem	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+8	almasını	_	_	_	_	_	_	_	_
+9	istemiş	_	_	_	_	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = ssy_45705
+# text = Yağız şimdiki öğrenciyi görmek istemiyor.
+1	Yağız	Yağız	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	şimdiki	_	_	_	_	_	_	_	_
+3	öğrenciyi	öğrenci	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+4	görmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+5	istemiyor	_	_	_	_	_	_	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sci_57648
+# text = Koridora asacağı şeyin bir ayna olmasını istiyor Selim.
+1	Koridora	Koridor	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+2	asacağı	_	_	_	_	_	_	_	_
+3	şeyin	şey	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	ayna	ayna	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	Selim	Selim	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = shm_23075
+# text = Şeyda kitap bitirmek için saatler harcamamayı diliyor.
+1	Şeyda	Şeyda	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	kitap	kitap	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	bitirmek	_	_	_	_	_	_	_	_
+4	için	_	_	_	_	_	_	_	_
+5	saatler	saat	NOUN	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+6	harcamamayı	_	_	_	_	_	_	_	_
+7	diliyor	_	_	_	_	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sxi_49852
+# text = Günlerini herhangi bir sahil kasabasında geçirmek istiyor Pelin.
+1	Günlerini	Gün	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	sahil	sahil	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	kasabasında	kasaba	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+6	geçirmek	_	_	_	_	_	_	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	Pelin	Pelin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = spg_14227
+# text = Her şeyden bıkmış görünen Melis artık sahil kasabalarından herhangi birine yereşmek istiyor.
+1	Her	Her	ADJ	Adj	_	_	amod	_	_
+2	şeyden	şey	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+3	bıkmış	_	_	_	_	_	_	_	_
+4	görünen	_	_	_	_	_	_	_	_
+5	Melis	Melis	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	artık	_	ADV	_	_	_	advmod	_	_
+7	sahil	sahil	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	kasabalarından	_	_	_	_	_	_	_	_
+9	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+10	birine	_	_	_	_	_	_	_	_
+11	yereşmek	_	_	_	_	_	_	_	_
+12	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+13	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = seg_84727
+# text = Halil buluşacağı kişinin bir şarkıcı olmasını istiyor.
+1	Halil	Halil	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	buluşacağı	_	_	_	_	_	_	_	_
+3	kişinin	kişi	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	şarkıcı	şarkıcı	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sra_56210
+# text = Fırat yelken eğitimi almayı düşüneceği kursun yeni açılmış olmasını istiyor.
+1	Fırat	Fırat	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	yelken	yelken	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	eğitimi	eğitim	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+4	almayı	_	Vnoun	_	Case=Acc|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+5	düşüneceği	_	_	_	_	_	_	_	_
+6	kursun	kurs	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+7	yeni	yeni	ADJ	Adj	_	_	amod	_	_
+8	açılmış	_	_	_	_	_	_	_	_
+9	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+10	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = swv_16323
+# text = Buse şimdiki hikayeyi dinlemek istemiyor
+1	Buse	Buse	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	şimdiki	_	_	_	_	_	_	_	_
+3	hikayeyi	hikaye	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+4	dinlemek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+5	istemiyor	_	_	_	_	_	_	_	_
+
+# sent_id = sku_89498
+# text = Çiçek bakmanın çok iyi hissettirdiğini düşünüyor Gökçe.
+1	Çiçek	Çiçek	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bakmanın	_	_	_	_	_	_	_	_
+3	çok	_	ADV	_	_	_	advmod	_	_
+4	iyi	iyi	ADJ	Adj	_	_	amod	_	_
+5	hissettirdiğini	_	_	_	_	_	_	_	_
+6	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	Gökçe	Gökçe	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = snz_39842
+# text = Nilay haber vereceği lüks restoranın şimdikinden farklı olmasını istiyor.
+1	Nilay	Nilay	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	haber	haber	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	vereceği	_	_	_	_	_	_	_	_
+4	lüks	lüks	ADJ	Adj	_	_	amod	_	_
+5	restoranın	restora	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+6	şimdikinden	_	_	_	_	_	_	_	_
+7	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+8	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sml_74839
+# text = Duygu hastalanırsa yakınlarda bulabileceği herhangi bir eczane olmadığını düşünüyor.
+1	Duygu	Duygu	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	hastalanırsa	_	_	_	_	_	_	_	_
+3	yakınlarda	_	_	_	_	_	_	_	_
+4	bulabileceği	_	_	_	_	_	_	_	_
+5	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	eczane	eczane	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	olmadığını	_	Ptcp	_	Aspect=Perf|Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Neg|Tense=Past|VerbForm=Part	_	_	_	_
+9	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = srt_16037
+# text = Yurdanur işbirliği yapacağı menajerin Behice gibi zeki olmasını istiyor.
+1	Yurdanur	Yurdanur	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	işbirliği	işbirliği	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	yapacağı	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	menajerin	menajer	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+5	Behice	Behice	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	gibi	_	_	_	_	_	_	_	_
+7	zeki	zeki	ADJ	Adj	_	_	amod	_	_
+8	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = stb_60432
+# text = Soner bu notaları duyacağı gitarın gül ağacından yapılmış ve eski olmasını istiyor.
+1	Soner	Soner	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bu	bu	ADJ	Adj	_	_	amod	_	_
+3	notaları	nota	NOUN	_	Case=Acc|Number=Plur|Person=3	_	_	_	_
+4	duyacağı	_	_	_	_	_	_	_	_
+5	gitarın	gitar	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+6	gül	gül	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	ağacından	ağac	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+8	yapılmış	_	_	_	_	_	_	_	_
+9	ve	_	_	_	_	_	_	_	_
+10	eski	eski	ADJ	Adj	_	_	amod	_	_
+11	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+12	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+13	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = smc_95802
+# text = Tarık şimdiki cesur adamın dışındaki cesur adamlardan herhangi birinden para isteyecek.
+1	Tarık	Tarık	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	şimdiki	_	_	_	_	_	_	_	_
+3	cesur	cesur	ADJ	Adj	_	_	amod	_	_
+4	adamın	adam	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+5	dışındaki	_	_	_	_	_	_	_	_
+6	cesur	cesur	ADJ	Adj	_	_	amod	_	_
+7	adamlardan	adam	NOUN	_	Case=Abl|Number=Plur|Person=3	_	_	_	_
+8	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+9	birinden	birin	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+10	para	para	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+11	isteyecek	_	_	_	_	_	_	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sod_24625
+# text = Buse'nin istediği şey şirket hissedarı olmak.
+1	Buse'nin	Buse	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+3	şey	şey	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	şirket	şirket	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	hissedarı	hissedar	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+6	olmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sgy_42207
+# text = Çamaşırlarını sermeye üşenen Mert ekonomik kurutma makinelerinden istiyor.
+1	Çamaşırlarını	Çamaşır	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	sermeye	_	_	_	_	_	_	_	_
+3	üşenen	_	_	_	_	_	_	_	_
+4	Mert	Mert	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	ekonomik	ekonomik	ADJ	Adj	_	_	amod	_	_
+6	kurutma	kurutma	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	makinelerinden	makine	NOUN	_	Case=Abl|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = syq_73925
+# text = Bade şu ankinden farklı herhangi bir şarkı söylemek istiyor.
+1	Bade	Bade	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	şu	şu	ADJ	Adj	_	_	amod	_	_
+3	ankinden	_	_	_	_	_	_	_	_
+4	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+5	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	şarkı	şarkı	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	söylemek	_	_	_	_	_	_	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = szu_92344
+# text = Ceyda kırılan herhangi bir bardak olduğunu düşünüyor.
+1	Ceyda	Ceyda	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	kırılan	_	_	_	_	_	_	_	_
+3	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	bardak	bardak	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	olduğunu	_	Ptcp	_	Aspect=Perf|Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	_	_	_	_
+7	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = svh_16202
+# text = Tolga mesajlarla moralimi bozabileceğini düşünüyor.
+1	Tolga	Tolga	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	mesajlarla	mesaj	NOUN	_	Case=Inst|Number=Plur|Person=3	_	_	_	_
+3	moralimi	moral	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+4	bozabileceğini	_	_	_	_	_	_	_	_
+5	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = suh_47466
+# text = Bu proje için Nezahat anlaşacağı kişinin inşaat mühendisi olmasını istiyor.
+1	Bu	_	_	_	_	_	_	_	_
+2	proje	proje	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	için	_	_	_	_	_	_	_	_
+4	Nezahat	Nezahat	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	anlaşacağı	_	_	_	_	_	_	_	_
+6	kişinin	kişi	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+7	inşaat	inşaat	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	mühendisi	mühendi	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+9	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+10	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = snj_94752
+# text = Yurdakul bizim bahçedeki gibi canlı olan ağaçlar görmek istiyor.
+1	Yurdakul	Yurdakul	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bizim	_	_	_	_	_	_	_	_
+3	bahçedeki	_	_	_	_	_	_	_	_
+4	gibi	_	_	_	_	_	_	_	_
+5	canlı	canlı	ADJ	Adj	_	_	amod	_	_
+6	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+7	ağaçlar	ağaç	NOUN	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+8	görmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = stv_79288
+# text = Ziynet bu organik pazardan sebze almak istemiyor.
+1	Ziynet	Ziynet	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bu	bu	ADJ	Adj	_	_	amod	_	_
+3	organik	organik	ADJ	Adj	_	_	amod	_	_
+4	pazardan	pazar	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+5	sebze	sebze	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istemiyor	_	_	_	_	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sxy_82870
+# text = Hazırlayacağı uygulamanın eskisi gibi kullanışlı olmasını istiyordu.
+1	Hazırlayacağı	_	_	_	_	_	_	_	_
+2	uygulamanın	uygulama	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+3	eskisi	eski	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+4	gibi	_	_	_	_	_	_	_	_
+5	kullanışlı	kullanışlı	ADJ	Adj	_	_	amod	_	_
+6	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyordu	_	_	_	_	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sih_35249
+# text = Kedi oyuncak ister.
+1	Kedi	Kedi	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	oyuncak	oyuncak	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	ister	_	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+4	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = smn_18523
+# text = Babam eve gelirken sigara almasını istedi kardeşimden.
+1	Babam	Baba	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+2	eve	ev	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+3	gelirken	_	Conv	_	Polarity=Pos|VerbForm=Conv	_	_	_	_
+4	sigara	sigara	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	almasını	_	_	_	_	_	_	_	_
+6	istedi	_	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+7	kardeşimden	kardeş	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = stp_84362
+# text = Hülya ısıracağı domatesin senin elindeki gibi kırmızı olmasını istiyor.
+1	Hülya	Hülya	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	ısıracağı	_	_	_	_	_	_	_	_
+3	domatesin	domates	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	senin	_	_	_	_	_	_	_	_
+5	elindeki	_	_	_	_	_	_	_	_
+6	gibi	_	_	_	_	_	_	_	_
+7	kırmızı	kırmızı	ADJ	Adj	_	_	amod	_	_
+8	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+9	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sle_80241
+# text = Çağla isterse herhangi bir meyve suyunu içebilirmiş.
+1	Çağla	Çağla	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	isterse	_	_	_	_	_	_	_	_
+3	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+4	bir	bir	DET	Indef	_	_	det	_	_
+5	meyve	meyve	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	suyunu	su	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+7	içebilirmiş	_	_	_	_	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = szf_55207
+# text = Niyazi tartışacağı kişinin muhtar olmasını istiyor.
+1	Niyazi	Niyazi	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	tartışacağı	_	_	_	_	_	_	_	_
+3	kişinin	kişi	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	muhtar	muhtar	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = suc_48344
+# text = Ali'nin izlemek istediği şey herhangi bir film.
+1	Ali'nin	Ali	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	izlemek	_	_	_	_	_	_	_	_
+3	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	şey	şey	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	film	film	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = suy_85431
+# text = Murat İstanbul'dan ev sahibi olmayı çok istiyor.
+1	Murat	Murat	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	İstanbul'dan	_	_	_	_	_	_	_	_
+3	ev	ev	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	sahibi	sahib	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+5	olmayı	_	_	_	_	_	_	_	_
+6	çok	_	ADV	_	_	_	advmod	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sbo_59974
+# text = Muhterem bu konuyu öğrenmek istediği araç kitaplar.
+1	Muhterem	Muhterem	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bu	bu	ADJ	Adj	_	_	amod	_	_
+3	konuyu	konu	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+4	öğrenmek	_	_	_	_	_	_	_	_
+5	istediği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+6	araç	_	_	_	_	_	_	_	_
+7	kitaplar	kitap	NOUN	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sbh_77129
+# text = Cildi çok kuru olan Nazan herhangi bir nemlendirici satın almak istiyor.
+1	cildi	cilt	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	çok	_	ADV	_	_	_	advmod	_	_
+3	kuru	kuru	ADJ	Adj	_	_	amod	_	_
+4	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+5	Nazan	Nazan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	nemlendirici	nemlendirici	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	satın	satın	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+10	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+11	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = shq_63030
+# text = Gürkan'ın kapıyı açacağı anahtarın altın olmasını istiyor.
+1	Gürkan'ın	Gürkan	PROPN	_	Case=Gen|Number=Gen|Person=3	_	_	_	_
+2	kapıyı	kapı	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+3	açacağı	_	_	_	_	_	_	_	_
+4	anahtarın	anahtar	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+5	altın	altın	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = soy_78686
+# text = Mükerrem ile konuşan herkes kendisini mutlu olan herhangi bir prenses sanabilir.
+1	Mükerrem	Mükerrem	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	ile	_	_	_	_	_	_	_	_
+3	konuşan	_	_	_	_	_	_	_	_
+4	herkes	herkes	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	kendisini	_	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+6	mutlu	mutlu	ADJ	Adj	_	_	amod	_	_
+7	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+8	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+9	bir	bir	DET	Indef	_	_	det	_	_
+10	prenses	prenses	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+11	sanabilir	_	_	_	_	_	_	_	_
+12	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sdl_40662
+# text = Zümran ilan verdiğinden farklı olan yerel gazetelerden herhangi birine ilan vermek istiyor.
+1	Zümran	Zümran	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	ilan	ilan	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	verdiğinden	_	_	_	_	_	_	_	_
+4	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+5	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+6	yerel	yerel	ADJ	Adj	_	_	amod	_	_
+7	gazetelerden	gazete	NOUN	_	Case=Abl|Number=Plur|Person=3	_	_	_	_
+8	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+9	birine	_	_	_	_	_	_	_	_
+10	ilan	ilan	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+11	vermek	_	_	_	_	_	_	_	_
+12	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+13	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = ssa_72817
+# text = Kardeşime keman derslerini aldıracakları kişi özel öğretmen olacak.
+1	kardeşime	kardeş	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	_	_	_	_
+2	keman	keman	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	derslerini	_	_	_	_	_	_	_	_
+4	aldıracakları	_	_	_	_	_	_	_	_
+5	kişi	kişi	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+6	özel	özel	ADJ	Adj	_	_	amod	_	_
+7	öğretmen	öğretmen	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+8	olacak	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = shp_79917
+# text = Eğer yeterince çabalarsa Derin onu televizyon almaya ikna edebilir.
+1	Eğer	_	_	_	_	_	_	_	_
+2	yeterince	_	ADV	_	_	_	advmod	_	_
+3	çabalarsa	_	_	_	_	_	_	_	_
+4	Derin	Derin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	onu	on	NOUN	_	Case=Acc|Number=Sing|Person=3	_	_	_	_
+6	televizyon	televizyon	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	almaya	_	_	_	_	_	_	_	_
+8	ikna	ikna	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	edebilir	_	_	_	_	_	_	_	_
+10	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = seg_16746
+# text = Hakan yazılacağı yerin dershane olmasını istiyor.
+1	Hakan	Hakan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	yazılacağı	_	_	_	_	_	_	_	_
+3	yerin	yer	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	dershane	dershane	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = swl_16064
+# text = Gülsüm görüneceği doktorun Filiz gibi uzman olmasını istiyor.
+1	Gülsüm	Gülsüm	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	görüneceği	_	_	_	_	_	_	_	_
+3	doktorun	doktor	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	Filiz	Filiz	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	gibi	_	_	_	_	_	_	_	_
+6	uzman	uzman	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = son_90993
+# text = Doktor şimdiki hastası dışındaki hastalarla ilgilenmek istiyor.
+1	Doktor	doktor	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	şimdiki	_	_	_	_	_	_	_	_
+3	hastası	hasta	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+4	dışındaki	_	_	_	_	_	_	_	_
+5	hastalarla	_	_	_	_	_	_	_	_
+6	ilgilenmek	_	_	_	_	_	_	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sjb_82511
+# text = Neslihan yarın dizi izlemek istiyor.
+1	Neslihan	Neslihan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	yarın	_	ADV	Adj	_	_	advmod	_	_
+3	dizi	dizi	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	izlemek	_	_	_	_	_	_	_	_
+5	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = slp_94596
+# text = Kaan önündeki kırmızı dosya dışındaki kırmızı dosyalardan herhangi birini istiyor.
+1	Kaan	Kaan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	önündeki	_	_	_	_	_	_	_	_
+3	kırmızı	kırmızı	ADJ	Adj	_	_	amod	_	_
+4	dosya	dosya	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	dışındaki	_	_	_	_	_	_	_	_
+6	kırmızı	kırmızı	ADJ	Adj	_	_	amod	_	_
+7	dosyalardan	dosya	NOUN	_	Case=Abl|Number=Plur|Person=3	_	_	_	_
+8	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+9	birini	_	_	_	_	_	_	_	_
+10	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = saw_21489
+# text = Serra şimdikinden farklı odalardan herhangi birini süpürmek istiyor.
+1	Serra	Serra	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	şimdikinden	_	_	_	_	_	_	_	_
+3	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+4	odalardan	oda	NOUN	_	Case=Abl|Number=Plur|Person=3	_	_	_	_
+5	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+6	birini	_	_	_	_	_	_	_	_
+7	süpürmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sye_20888
+# text = Akif çözüm bulacağı sorunun can sıkmasını istiyor.
+1	Akif	Akif	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	çözüm	çözüm	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	bulacağı	_	_	_	_	_	_	_	_
+4	sorunun	soru	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+5	can	_	_	_	_	_	_	_	_
+6	sıkmasını	_	_	_	_	_	_	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sqv_59459
+# text = Konudan rahatsız olan herkes bu konuda şimdikinden farklı olan herhangi bir kanun düzenlenmesini istiyor.
+1	Konudan	Konu	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+2	rahatsız	rahatsız	ADJ	Adj	_	_	amod	_	_
+3	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+4	herkes	herkes	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	bu	bu	ADJ	Adj	_	_	amod	_	_
+6	konuda	konu	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+7	şimdikinden	_	_	_	_	_	_	_	_
+8	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+9	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+10	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+11	bir	bir	DET	Indef	_	_	det	_	_
+12	kanun	kanun	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+13	düzenlenmesini	_	_	_	_	_	_	_	_
+14	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+15	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sus_51080
+# text = Kenan sınavlara sakin olarak girmeli.
+1	Kenan	Kenan	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	sınavlara	sınav	NOUN	_	Case=Dat|Number=Plur|Person=3	_	_	_	_
+3	sakin	sakin	ADJ	Adj	_	_	amod	_	_
+4	olarak	_	_	_	_	_	_	_	_
+5	girmeli	_	_	_	_	_	_	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = slx_82573
+# text = Müşteri tatlı yemek ister.
+1	Müşteri	Müşteri	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	tatlı	tatlı	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	yemek	yemek	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	ister	_	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+5	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = syw_19926
+# text = Miray oyun almayı kesinlikle ister.
+1	Miray	Miray	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	oyun	oyun	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	almayı	_	Vnoun	_	Case=Acc|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	kesinlikle	_	ADV	_	_	_	advmod	_	_
+5	ister	_	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = stw_24950
+# text = Dudu şimdikinden farklı herhangi bir yakışıklı adama aşık olmayı istiyor.
+1	Dudu	Dudu	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	şimdikinden	_	_	_	_	_	_	_	_
+3	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+4	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+5	bir	bir	DET	Indef	_	_	det	_	_
+6	yakışıklı	yakışıklı	ADJ	Adj	_	_	amod	_	_
+7	adama	adam	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+8	aşık	aşık	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	olmayı	_	_	_	_	_	_	_	_
+10	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = snf_58289
+# text = Uygar herhangi bir sıkıcı şehirden taşınmak istiyor.
+1	Uygar	Uygar	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+3	bir	bir	DET	Indef	_	_	det	_	_
+4	sıkıcı	sıkıcı	ADJ	Adj	_	_	amod	_	_
+5	şehirden	şehir	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+6	taşınmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = seq_66513
+# text = Yardım alabilirse Deniz daha mutlu olacak.
+1	Yardım	Yardım	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	alabilirse	_	_	_	_	_	_	_	_
+3	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	daha	_	ADV	_	_	_	advmod	_	_
+5	mutlu	mutlu	ADJ	Adj	_	_	amod	_	_
+6	olacak	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sas_32775
+# text = Ünsal her yere fidan dikmek istiyor.
+1	Ünsal	Ünsal	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	her	her	ADJ	Adj	_	_	amod	_	_
+3	yere	yer	NOUN	_	Case=Dat|Number=Sing|Person=3	_	_	_	_
+4	fidan	fidan	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+5	dikmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sea_92198
+# text = Çiçek başka arkadaşlar edinmek istiyor.
+1	Çiçek	Çiçek	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	başka	başka	ADJ	Adj	_	_	amod	_	_
+3	arkadaşlar	arkadaş	NOUN	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+4	edinmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+5	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = skj_92546
+# text = Oğluna alacağı ayakkabının yeni olmasını istiyor.
+1	Oğluna	Oğl	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+2	alacağı	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+3	ayakkabının	ayakkabı	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	yeni	yeni	ADJ	Adj	_	_	amod	_	_
+5	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+6	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sln_60097
+# text = Senin gibi kibar olan herhangi bir arkadaşından yardım isteyecek Narin.
+1	Senin	_	_	_	_	_	_	_	_
+2	gibi	_	_	_	_	_	_	_	_
+3	kibar	kibar	ADJ	Adj	_	_	amod	_	_
+4	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+5	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+6	bir	bir	DET	Indef	_	_	det	_	_
+7	arkadaşından	arkadaş	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+8	yardım	yardım	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+9	isteyecek	_	_	_	_	_	_	_	_
+10	Narin	Narin	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = smk_80745
+# text = Ilgın bilet alacağı uçuşun farklı havalimanlarından herhangi birinden kalkmasını istiyor.
+1	Ilgın	Ilgın	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bilet	bilet	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	alacağı	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+4	uçuşun	uçuş	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+5	farklı	farklı	ADJ	Adj	_	_	amod	_	_
+6	havalimanlarından	_	NOUN	_	Case=Abl|Number=Plur|Person=3	_	_	_	_
+7	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+8	birinden	birin	NOUN	_	Case=Abl|Number=Sing|Person=3	_	_	_	_
+9	kalkmasını	_	_	_	_	_	_	_	_
+10	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sio_95961
+# text = Orkun resimlerinin hikayeler anlattığını düşünüyor.
+1	Orkun	Orkun	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	resimlerinin	_	NOUN	_	Case=Gen|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+3	hikayeler	hikaye	NOUN	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+4	anlattığını	_	_	_	_	_	_	_	_
+5	düşünüyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+6	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = slw_32889
+# text = Sadık eski evindekine benzeyen yataklardan almak istiyor.
+1	Sadık	Sadık	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	eski	eski	ADJ	Adj	_	_	amod	_	_
+3	evindekine	_	_	_	_	_	_	_	_
+4	benzeyen	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+5	yataklardan	yatak	NOUN	_	Case=Abl|Number=Plur|Person=3	_	_	_	_
+6	almak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+7	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = scg_70145
+# text = Aysima parfüm koklamak istiyor.
+1	Aysima	Aysima	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	parfüm	parfüm	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	koklamak	_	_	_	_	_	_	_	_
+4	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+5	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sqz_81960
+# text = Aslı fikir danışacağı doktorun alanında uzman olmasını istiyor.
+1	Aslı	Aslı	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	fikir	fikir	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	danışacağı	_	_	_	_	_	_	_	_
+4	doktorun	doktor	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+5	alanında	alan	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+6	uzman	uzman	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+7	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+8	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = sla_77715
+# text = Şakir bahsedeceği konunun az önce konuştuğumuz gibi hassas olmasını istiyor.
+1	Şakir	Şakir	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	bahsedeceği	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+3	konunun	konu	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+4	az	az	ADJ	Adj	_	_	amod	_	_
+5	önce	önce	ADJ	Adj	_	_	amod	_	_
+6	konuştuğumuz	_	_	_	_	_	_	_	_
+7	gibi	_	_	_	_	_	_	_	_
+8	hassas	hassas	ADJ	Adj	_	_	amod	_	_
+9	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+10	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = shj_24488
+# text = Leyla seninki gibi şık olan herhangi bir ofiste çalışmak istiyor.
+1	Leyla	Leyla	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	seninki	_	_	_	_	_	_	_	_
+3	gibi	_	_	_	_	_	_	_	_
+4	şık	şık	ADJ	Adj	_	_	amod	_	_
+5	olan	_	Ptcp	_	Polarity=Pos|Tense=Pres|VerbForm=Part	_	_	_	_
+6	herhangi	herhangi	ADJ	Adj	_	_	amod	_	_
+7	bir	bir	DET	Indef	_	_	det	_	_
+8	ofiste	ofis	NOUN	_	Case=Loc|Number=Sing|Person=3	_	_	_	_
+9	çalışmak	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+10	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+11	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = smq_33967
+# text = Fırat gece böcek görürse çok korkar.
+1	Fırat	Fırat	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	gece	_	ADV	_	Case=Nom|Number=Sing|Person=3	_	advmod	_	_
+3	böcek	böcek	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+4	görürse	_	_	_	_	_	_	_	_
+5	çok	_	ADV	_	_	_	advmod	_	_
+6	korkar	_	_	_	_	_	_	_	_
+7	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = stz_62614
+# text = Portekizli oğlan sevgilisine alacağı hediyenin özel olmasını istiyordu.
+1	Portekizli	Portekizli	ADJ	Adj	_	_	amod	_	_
+2	oğlan	oğlan	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	sevgilisine	sevgili	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	_	_	_	_
+4	alacağı	_	Ptcp	_	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	_	acl	_	_
+5	hediyenin	hediye	NOUN	_	Case=Gen|Number=Sing|Person=3	_	_	_	_
+6	özel	özel	ADJ	Adj	_	_	amod	_	_
+7	olmasını	_	Vnoun	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+8	istiyordu	_	_	_	_	_	_	_	_
+9	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+
+# sent_id = skd_46758
+# text = Venüs kedi görmek istiyor.
+1	Venüs	Venüs	PROPN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+2	kedi	kedi	NOUN	_	Case=Nom|Number=Sing|Person=3	_	_	_	_
+3	görmek	_	Vnoun	_	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	_	ccomp	_	_
+4	istiyor	_	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+5	.	.	PUNCT	Stop	_	_	punct	_	SpacesAfter=\n
+

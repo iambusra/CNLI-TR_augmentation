@@ -1,0 +1,170 @@
+[
+    {
+        "annotator_labels": [
+            "neutral",
+            "contradiction",
+            "contradiction",
+            "neutral",
+            "neutral"
+        ],
+        "captionID": "2677109430.jpg#1",
+        "gold_label": "neutral",
+        "pairID": "2677109430.jpg#1r1n",
+        "sentence1": "Bu kilise korosu, kilisedeki kitaptan neşeli şarkılar söylerken kitlelere şarkı söyler.",
+        "sentence2": "Kilisenin tavanında çatlaklar var."
+    },
+    {
+        "annotator_labels": [
+            "entailment",
+            "entailment",
+            "entailment",
+            "neutral",
+            "entailment"
+        ],
+        "captionID": "2677109430.jpg#1",
+        "gold_label": "entailment",
+        "pairID": "2677109430.jpg#1r1e",
+        "sentence1": "Bu kilise korosu, kilisedeki kitaptan neşeli şarkılar söylerken kitlelere şarkı söyler.",
+        "sentence2": "Kilise şarkıyla dolu."
+    },
+    {
+        "annotator_labels": [
+            "contradiction",
+            "contradiction",
+            "contradiction",
+            "contradiction",
+            "contradiction"
+        ],
+        "captionID": "2677109430.jpg#1",
+        "gold_label": "contradiction",
+        "pairID": "2677109430.jpg#1r1c",
+        "sentence1": "Bu kilise korosu, kilisedeki kitaptan neşeli şarkılar söylerken kitlelere şarkı söyler.",
+        "sentence2": "Beyzbol maçında şarkı söyleyen bir koro."
+    },
+    {
+        "annotator_labels": [
+            "neutral",
+            "neutral",
+            "neutral",
+            "neutral",
+            "neutral"
+        ],
+        "captionID": "6160193920.jpg#4",
+        "gold_label": "neutral",
+        "pairID": "6160193920.jpg#4r1n",
+        "sentence1": "Yeşil başörtüsü, mavi gömlekli ve çok büyük bir sırıtış olan bir kadın.",
+        "sentence2": "Kadın genç."
+    },
+    {
+        "annotator_labels": [
+            "entailment",
+            "entailment",
+            "contradiction",
+            "entailment",
+            "neutral"
+        ],
+        "captionID": "6160193920.jpg#4",
+        "gold_label": "entailment",
+        "pairID": "6160193920.jpg#4r1e",
+        "sentence1": "Yeşil başörtüsü, mavi gömlekli ve çok büyük bir sırıtış olan bir kadın.",
+        "sentence2": "Kadın çok mutlu."
+    },
+    {
+        "annotator_labels": [
+            "contradiction",
+            "contradiction",
+            "neutral",
+            "contradiction",
+            "contradiction"
+        ],
+        "captionID": "6160193920.jpg#4",
+        "gold_label": "contradiction",
+        "pairID": "6160193920.jpg#4r1c",
+        "sentence1": "Yeşil başörtüsü, mavi gömlekli ve çok büyük bir sırıtış olan bir kadın.",
+        "sentence2": "Kadın vuruldu."
+    },
+    {
+        "annotator_labels": [
+            "entailment",
+            "entailment",
+            "entailment",
+            "entailment",
+            "entailment"
+        ],
+        "captionID": "4791890474.jpg#3",
+        "gold_label": "entailment",
+        "pairID": "4791890474.jpg#3r1e",
+        "sentence1": "Paketi olan yaşlı bir adam bir reklamın önünde poz veriyor.",
+        "sentence2": "Bir adam bir reklamın önünde poz verir."
+    },
+    {
+        "annotator_labels": [
+            "neutral",
+            "neutral",
+            "entailment",
+            "neutral",
+            "neutral"
+        ],
+        "captionID": "4791890474.jpg#3",
+        "gold_label": "neutral",
+        "pairID": "4791890474.jpg#3r1n",
+        "sentence1": "Paketi olan yaşlı bir adam bir reklamın önünde poz veriyor.",
+        "sentence2": "Bir adam bira reklamının önünde poz veriyor."
+    },
+    {
+        "annotator_labels": [
+            "contradiction",
+            "neutral",
+            "contradiction",
+            "contradiction",
+            "contradiction"
+        ],
+        "captionID": "4791890474.jpg#3",
+        "gold_label": "contradiction",
+        "pairID": "4791890474.jpg#3r1c",
+        "sentence1": "Paketi olan yaşlı bir adam bir reklamın önünde poz veriyor.",
+        "sentence2": "Bir adam reklamın yanından geçiyor."
+    },
+    {
+        "annotator_labels": [
+            "neutral",
+            "neutral",
+            "contradiction",
+            "contradiction",
+            "neutral"
+        ],
+        "captionID": "6526219567.jpg#4",
+        "gold_label": "neutral",
+        "pairID": "6526219567.jpg#4r1n",
+        "sentence1": "Müzedeki bir heykel, hiç bakmıyor gibi görünüyor.",
+        "sentence2": "Heykel saldırgan ve insanlar sergilendiği için deli."
+    },
+    {
+        "annotator_labels": [
+            "entailment",
+            "entailment",
+            "entailment",
+            "entailment",
+            "entailment"
+        ],
+        "captionID": "6526219567.jpg#4",
+        "gold_label": "entailment",
+        "pairID": "6526219567.jpg#4r1e",
+        "sentence1": "Müzedeki bir heykel, hiç bakmıyor gibi görünüyor.",
+        "sentence2": "Pek çok insanın ilgilenmediği bir heykel var."
+    },
+    {
+        "annotator_labels": [
+            "contradiction",
+            "contradiction",
+            "contradiction",
+            "contradiction",
+            "contradiction"
+        ],
+        "captionID": "6526219567.jpg#4",
+        "gold_label": "contradiction",
+        "pairID": "6526219567.jpg#4r1c",
+        "sentence1": "Müzedeki bir heykel, hiç bakmıyor gibi görünüyor.",
+        "sentence2": "Heykelin etrafında bir sürü insan toplandı."
+    }
+]

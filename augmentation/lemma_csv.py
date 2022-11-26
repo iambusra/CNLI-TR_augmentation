@@ -4,7 +4,7 @@ from annotator import get_fields
 from file_handler import read_file, write_to_file, get_csv_data
 
 conllu_file = "split_1_annotated.conllu"
-out_file = "lemmas_change_yes.csv"
+lemma_file = "lemmas_change_yes.csv"
 
 
 def lemmas_to_csv(conllu_file, csv_file):
@@ -27,7 +27,7 @@ def convert_to_csv(data):
 
 
 def csv_to_syn_dict(csv_file):
-	csv_data = get_csv_data(out_file)[1:]
+	csv_data = get_csv_data(csv_file)[1:]
 	
 	synonyms = dict()
 
@@ -37,8 +37,3 @@ def csv_to_syn_dict(csv_file):
 
 	return synonyms
 
-
-"""
-lemmas_to_csv(conllu_file, out_file)
-csv_to_syn_dict(out_file)
-"""
