@@ -1,0 +1,3 @@
+model,train_accuracy,train_precision,train_recall,test_accuracy,test_precision,test_recall
+emrecan/bert-base-multilingual-cased-allnli_tr,0.3333333333333333,1.0,0.2797619047619047,0.40625,0.625,0.38541666666666663
+emrecan/bert-base-turkish-cased-allnli_tr,0.75,0.9047619047619048,0.8214285714285715,0.71875,0.9583333333333334,0.7395833333333334

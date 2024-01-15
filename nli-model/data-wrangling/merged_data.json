@@ -1,0 +1,1709 @@
+{
+    "dev": [
+        {
+            "captionID": "agx_62789",
+            "gold_label": 1,
+            "pair_ID": "agx_62789#agd_32706",
+            "sentence1": " Sunay köpeğini yürütmek için onu bir parka götürmek istiyor.",
+            "sentence2": " Sunay köpeğini yürütmek için onu parka götürmek istiyor."
+        },
+        {
+            "captionID": "aea_75249",
+            "gold_label": 1,
+            "pair_ID": "aea_75249#ane_40933",
+            "sentence1": " Kübra başka bir trene binmek istiyor.",
+            "sentence2": " Kübra başka herhangi bir trene binmek istiyor."
+        },
+        {
+            "captionID": "aot_25854",
+            "gold_label": 1,
+            "pair_ID": "aot_25854#azd_32056",
+            "sentence1": " Kurumi önceden anlaştığı bir dükkandan rengarenk bir kimono satın almayı planlıyor.",
+            "sentence2": " Kurumi    rengarenk olan herhangi bir kimonoyu önceden anlaştığı bir dükkandan satın almayı planlıyor."
+        },
+        {
+            "captionID": "atn_51726",
+            "gold_label": 0,
+            "pair_ID": "atn_51726#apx_35179",
+            "sentence1": " Selin evdeki gibi bir koltuğu değiştirmek istiyor.",
+            "sentence2": " Selin değiştireceği koltuk evdeki gibi olsun istiyor."
+        },
+        {
+            "captionID": "agb_42303",
+            "gold_label": 1,
+            "pair_ID": "agb_42303#ajo_83132",
+            "sentence1": " Gülay olgun bir limonu dalından koparmak istiyor.",
+            "sentence2": " Gülay dalından koparacağı limon olgun olsun istiyor."
+        },
+        {
+            "captionID": "aam_68533",
+            "gold_label": 1,
+            "pair_ID": "aam_68533#aez_65539",
+            "sentence1": " Büşra başka bir ülkede yaşamak istiyor.",
+            "sentence2": " Büşra    yaşayacağı ülke bundan başka herhangi bir ülke olsun istiyor."
+        },
+        {
+            "captionID": "awd_68384",
+            "gold_label": 1,
+            "pair_ID": "awd_68384#azf_57312",
+            "sentence1": " Pelin istiyor başka bir şarabı içmek.",
+            "sentence2": " Pelin içeceği şarap bundan farklı olsun istiyor."
+        },
+        {
+            "captionID": "ayt_82740",
+            "gold_label": 1,
+            "pair_ID": "ayt_82740#avk_79621",
+            "sentence1": " Gizem görkemli bir salonda evlenmek istiyor.",
+            "sentence2": " Gizem evleneceği salon görkemli olsun istiyor."
+        },
+        {
+            "captionID": "ata_77314",
+            "gold_label": 0,
+            "pair_ID": "ata_77314#axd_42085",
+            "sentence1": " Arkadaşım bir dergiye yazılarını gönderecekmiş.",
+            "sentence2": " Arkadaşım yazılarını gönderecekmiş herhangi bir dergiye."
+        },
+        {
+            "captionID": "abt_18950",
+            "gold_label": 1,
+            "pair_ID": "abt_18950#adw_47532",
+            "sentence1": " Berrin bir yangın çıkarsa ne yapabilir?",
+            "sentence2": " Ne yapabilir Berrin yangın çıksa?"
+        },
+        {
+            "captionID": "avg_30172",
+            "gold_label": 1,
+            "pair_ID": "avg_30172#azv_95518",
+            "sentence1": " paris'tekiler gibi bir müzeye gitmek istiyor Jale.",
+            "sentence2": " Jale Paris'tekiler gibi olan herhangi bir müzeye gitmek istiyor."
+        },
+        {
+            "captionID": "aws_93656",
+            "gold_label": 1,
+            "pair_ID": "aws_93656#ayj_53899",
+            "sentence1": " Ders çalışırken dinlemek için bir şarkı açmak istiyormuş Buse.",
+            "sentence2": " Ders çalışırken dinlemek için şarkı açmak istiyormuş Buse."
+        },
+        {
+            "captionID": "aua_34964",
+            "gold_label": 1,
+            "pair_ID": "aua_34964#aol_43476",
+            "sentence1": " buradaki gibi bir dergi almayı istiyor Cansu.",
+            "sentence2": " Cansu alacağı dergi buradaki gibi olsun istiyor ."
+        },
+        {
+            "captionID": "azp_84965",
+            "gold_label": 1,
+            "pair_ID": "azp_84965#add_70773",
+            "sentence1": " Remziye yetkin bir adayla mülakat yapmak istiyor.",
+            "sentence2": " Remziye mülakat yapacağı aday yetkin olsun istiyor."
+        },
+        {
+            "captionID": "acx_23976",
+            "gold_label": 1,
+            "pair_ID": "acx_23976#aaf_19808",
+            "sentence1": " Halime başka bir elbise giymek istiyor.",
+            "sentence2": " Halime giyeceği elbise bundan farklı olsun istiyor."
+        },
+        {
+            "captionID": "aqh_86904",
+            "gold_label": 1,
+            "pair_ID": "aqh_86904#aye_22124",
+            "sentence1": " Başka bir pastadan yemek istiyor Cüneyt.",
+            "sentence2": " Cüneyt bundan başka herhangi bir pastadan yemek istiyor."
+        },
+        {
+            "captionID": "aqb_33286",
+            "gold_label": 1,
+            "pair_ID": "aqb_33286#aos_93390",
+            "sentence1": " Enes bir hatası olmadığını iddia ediyor.",
+            "sentence2": " Enes herhangi bir hatası olmadığını iddia ediyor."
+        },
+        {
+            "captionID": "aeo_84561",
+            "gold_label": 1,
+            "pair_ID": "aeo_84561#ami_81574",
+            "sentence1": " benimki gibi bir çanta almak istiyor Şule.",
+            "sentence2": " Şule benimki gibi olan herhangi bir çanta almak istiyor."
+        },
+        {
+            "captionID": "acs_38935",
+            "gold_label": 1,
+            "pair_ID": "acs_38935#amm_40284",
+            "sentence1": " Muharrem bir marketten alışveriş yapmak istiyor.",
+            "sentence2": " Marketten alışveriş yapmak istiyor Muharrem."
+        },
+        {
+            "captionID": "asi_12744",
+            "gold_label": 1,
+            "pair_ID": "asi_12744#aib_89880",
+            "sentence1": " ispanya'dakiler gibi bir plaja gitmek istiyorum.",
+            "sentence2": " Gideceğim plaj İspanya'dakiler gibi olsun istiyorum."
+        },
+        {
+            "captionID": "aqm_88861",
+            "gold_label": 1,
+            "pair_ID": "aqm_88861#avf_56211",
+            "sentence1": " Yaprak başka bir adama aşık olmak istiyor.",
+            "sentence2": " Yaprak aşık olacağı adam başka birisi olsun istiyor."
+        },
+        {
+            "captionID": "agj_49616",
+            "gold_label": 1,
+            "pair_ID": "agj_49616#ade_62542",
+            "sentence1": " 3A sınıfından Emre babasıyla okuyabileceği bir şiiri ezberlemek istiyordu.",
+            "sentence2": " 3A sınıfından Emre babasıyla okuyabileceği herhangi bir şiiri ezberlemek istiyordu."
+        },
+        {
+            "captionID": "ant_43695",
+            "gold_label": 1,
+            "pair_ID": "ant_43695#abp_89596",
+            "sentence1": " Tijen restorandaki gibi bir tatlıyı yemek istiyor.",
+            "sentence2": " Tijen yiyeceği tatlı restorandaki gibi olsun istiyor."
+        },
+        {
+            "captionID": "aef_31941",
+            "gold_label": 1,
+            "pair_ID": "aef_31941#amo_15634",
+            "sentence1": " Hilal, benimki gibi bir sevgilisi olmasını istiyor.",
+            "sentence2": " Hilal sevgilisi benimki gibi olan herhangi birisi olsun istiyor."
+        }
+    ],
+    "test": [
+        {
+            "captionID": "aef_31941",
+            "gold_label": 1,
+            "pair_ID": "aef_31941#amo_15634",
+            "sentence1": " Hilal, benimki gibi bir sevgilisi olmasını istiyor.",
+            "sentence2": " Hilal sevgilisi benimki gibi olan herhangi birisi olsun istiyor."
+        },
+        {
+            "captionID": "aqd_89324",
+            "gold_label": 1,
+            "pair_ID": "aqd_89324#aqi_80773",
+            "sentence1": " Annem leyla'nınki gibi bir yazlık almak istiyor.",
+            "sentence2": " Annem alacağı yazlık leyla'nınki gibi olsun istiyor."
+        },
+        {
+            "captionID": "aoz_51681",
+            "gold_label": 1,
+            "pair_ID": "aoz_51681#aqa_70650",
+            "sentence1": " Ayşe gibi bir kızla evlenmek istiyor Ender.",
+            "sentence2": " Ender evleneceği kız Ayşe gibi birisi olsun istiyor."
+        },
+        {
+            "captionID": "ate_74641",
+            "gold_label": 1,
+            "pair_ID": "ate_74641#aqi_30343",
+            "sentence1": " Güzel bir bahçede piknik yapmak istiyor Gaye.",
+            "sentence2": " Gaye piknik yapacağı bahçe güzel olsun istiyor."
+        },
+        {
+            "captionID": "aco_78339",
+            "gold_label": 1,
+            "pair_ID": "aco_78339#axd_94509",
+            "sentence1": " Şeyda yün bir halıyı süpürmek istiyor.",
+            "sentence2": " Şeyda süpüreceği halının yün olmasını istiyor."
+        },
+        {
+            "captionID": "aiz_27910",
+            "gold_label": 1,
+            "pair_ID": "aiz_27910#aqd_49174",
+            "sentence1": " bolu'daki gibi bir gölden balık avlamak istiyor Hale.",
+            "sentence2": " Hale Bolu'daki gibi olan herhangi bir gölden balık avlamak istiyor."
+        },
+        {
+            "captionID": "afh_31700",
+            "gold_label": 1,
+            "pair_ID": "afh_31700#aii_83789",
+            "sentence1": " Orkun benimki gibi bir okula gitmek istiyor.",
+            "sentence2": " Orkun gideceği okul benimki gibi olsun istiyor."
+        },
+        {
+            "captionID": "ajt_42048",
+            "gold_label": 1,
+            "pair_ID": "ajt_42048#aqz_23244",
+            "sentence1": " Nur hediyelik eşya dükkanından bir bileklik almak istiyor.",
+            "sentence2": " Nur hediyelik eşya dükkanından bileklik almak istiyor."
+        },
+        {
+            "captionID": "aqt_15770",
+            "gold_label": 1,
+            "pair_ID": "aqt_15770#adx_31775",
+            "sentence1": " Banu başka bir bankta oturmak istiyor.",
+            "sentence2": " Banu bundan başka herhangi bir bankta oturmak istiyor."
+        },
+        {
+            "captionID": "all_55179",
+            "gold_label": 1,
+            "pair_ID": "all_55179#aik_48433",
+            "sentence1": " ayşe'ninkiler gibi kedilere bakmak istiyorum.",
+            "sentence2": " Ayşe'ninkiler gibi kedilere bakmak istiyorum."
+        },
+        {
+            "captionID": "anx_85080",
+            "gold_label": 1,
+            "pair_ID": "anx_85080#aea_45988",
+            "sentence1": " Ayşenur istiyor merkezi bir apartmanda oturmak.",
+            "sentence2": " Ayşenur oturacağı apartman merkezi olsun istiyor."
+        },
+        {
+            "captionID": "arg_99023",
+            "gold_label": 1,
+            "pair_ID": "arg_99023#alb_65091",
+            "sentence1": " Gürsel başka bir makineyle dikiş dikmek istiyor.",
+            "sentence2": " Gürsel başka herhangi bir makineyle dikiş dikmek istiyor."
+        },
+        {
+            "captionID": "atv_67955",
+            "gold_label": 1,
+            "pair_ID": "atv_67955#ans_36644",
+            "sentence1": " Vedat istiyor başka bir restoranı keşfetmek.",
+            "sentence2": " Vedat herhangi başka bir restoranı keşfetmek istiyor."
+        },
+        {
+            "captionID": "agb_67463",
+            "gold_label": 1,
+            "pair_ID": "agb_67463#atb_53687",
+            "sentence1": " Mustafa uyumadan önce sürükleyici bir roman okumak istiyor.",
+            "sentence2": " Mustafa uyumadan önce okuyacağı roman sürükleyici olsun istiyor."
+        },
+        {
+            "captionID": "agd_52066",
+            "gold_label": 1,
+            "pair_ID": "agd_52066#aza_52900",
+            "sentence1": " Ayşe hamile bir kedi sahiplenmek istiyor.",
+            "sentence2": " Ayşe sahipleneceği kedi hamile olsun istiyor."
+        },
+        {
+            "captionID": "aob_58285",
+            "gold_label": 1,
+            "pair_ID": "aob_58285#aqw_27892",
+            "sentence1": " Esmer çocuk bugün yarın kaslı bir tamirci görmek istiyormuş.",
+            "sentence2": " Esmer çocuk bugün yarın göreceği tamirci kaslı olsun istiyormuş."
+        },
+        {
+            "captionID": "aoh_63645",
+            "gold_label": 0,
+            "pair_ID": "aoh_63645#acb_63714",
+            "sentence1": " Hamiyet hala istedi benden bir köpeğe bakmamı.",
+            "sentence2": " Hamiyet hala benden herhangi bir köpeğe bakmamı istedi."
+        },
+        {
+            "captionID": "ajn_48337",
+            "gold_label": 1,
+            "pair_ID": "ajn_48337#aej_33295",
+            "sentence1": " Leyla başka bir tesisatçıyı öpmek istiyor.",
+            "sentence2": " Leyla bundan öpeceği tesisatçı bundan başka olsun istiyor."
+        },
+        {
+            "captionID": "agw_13198",
+            "gold_label": 1,
+            "pair_ID": "agw_13198#aau_99127",
+            "sentence1": " şu çocuk bir defter almak istiyordu dersten çıkınca.",
+            "sentence2": " Şu çocuk defter almak istiyordu dersten çıkınca."
+        },
+        {
+            "captionID": "aga_84412",
+            "gold_label": 0,
+            "pair_ID": "aga_84412#ayh_62639",
+            "sentence1": " Hüseyin başka bir şirketten ayrılmak istiyor.",
+            "sentence2": " Hüseyin ayrılacağı şirket bundan farklı bir şirket olsun istiyor."
+        },
+        {
+            "captionID": "avb_38727",
+            "gold_label": 1,
+            "pair_ID": "avb_38727#afu_88058",
+            "sentence1": " Uzak diyarlardan gelen bir gözlemcinin kitabında herkesten bahsedeceğini ummuştum.",
+            "sentence2": " Uzak diyarlardan gelen herhangi bir gözlemcinin herkesten bahsedeceğini ummuştum kitabında."
+        },
+        {
+            "captionID": "aeb_70666",
+            "gold_label": 1,
+            "pair_ID": "aeb_70666#adh_11734",
+            "sentence1": " bir casus yakalamak istiyor şövalye.",
+            "sentence2": " Şövalye casus yakalamak istiyor."
+        },
+        {
+            "captionID": "awe_56672",
+            "gold_label": 1,
+            "pair_ID": "awe_56672#aru_77445",
+            "sentence1": " Bir öykü yazmak isteyen Nil her gün çok çalışıyordu.",
+            "sentence2": " Öykü yazmak isteyen Nil her gün çok çalışıyordu."
+        },
+        {
+            "captionID": "aoy_41805",
+            "gold_label": 1,
+            "pair_ID": "aoy_41805#aca_50448",
+            "sentence1": " Rüstem işsiz bir mezunla röportaj yapmak istiyor.",
+            "sentence2": " Rüstem röportaj yapacağı mezun işsiz olsun istiyor."
+        },
+        {
+            "captionID": "aeu_81993",
+            "gold_label": 1,
+            "pair_ID": "aeu_81993#acq_42540",
+            "sentence1": " Müge başka bir konukla röportaj yapmak istiyor.",
+            "sentence2": " Müge herhangi başka bir konukla röportaj yapmak istiyor."
+        }
+    ],
+    "train": [
+        {
+            "captionID": "aca_95138",
+            "gold_label": 0,
+            "pair_ID": "aca_95138#azj_30338",
+            "sentence1": " Deniz bir dili konuşmak isterse kesinlikle hemen öğrenir.",
+            "sentence2": " Deniz'in konuşmak isterse hemen kesinlikle öğreneceği bir dil var."
+        },
+        {
+            "captionID": "axb_94395",
+            "gold_label": 1,
+            "pair_ID": "axb_94395#ajf_11161",
+            "sentence1": " Ayşe bir otele gitmek istiyor.",
+            "sentence2": " Ayşe'nin gitmek istediği yer bir otel."
+        },
+        {
+            "captionID": "ajc_34053",
+            "gold_label": 1,
+            "pair_ID": "ajc_34053#ant_85179",
+            "sentence1": " Bir sıvacının işini herkesten iyi yaptığını Gönül düşünüyor.",
+            "sentence2": " Gönül'ün işini herkesten iyi yaptığını düşündüğü belli bir sıvacı var."
+        },
+        {
+            "captionID": "ahr_20286",
+            "gold_label": 1,
+            "pair_ID": "ahr_20286#ajt_18626",
+            "sentence1": " Ali bir kitabın sana yardımcı olacağını düşünüyor.",
+            "sentence2": " Ali'nin sana yardımcı olacağını düşündüğü bir kitap var."
+        },
+        {
+            "captionID": "acj_65811",
+            "gold_label": 1,
+            "pair_ID": "acj_65811#aqq_71520",
+            "sentence1": " Melahat bir okuldan mezun olmak istiyor.",
+            "sentence2": " Belirli bir okul var Melahat'in mezun olmak istediği."
+        },
+        {
+            "captionID": "alb_31480",
+            "gold_label": 1,
+            "pair_ID": "alb_31480#avt_13877",
+            "sentence1": " Kerem başka bir manzaraya bakmak istiyor.",
+            "sentence2": " Kerem'in bakmak istediği başka bir manzara var."
+        },
+        {
+            "captionID": "adw_97088",
+            "gold_label": 1,
+            "pair_ID": "adw_97088#axt_77742",
+            "sentence1": " Pelin uzman bir doktor görmek istiyor.",
+            "sentence2": " Pelin'in görmek istediği kişi uzman bir doktor."
+        },
+        {
+            "captionID": "aso_68167",
+            "gold_label": 1,
+            "pair_ID": "aso_68167#asv_20674",
+            "sentence1": " Ayşe tecrübeli bir reklamcı ile çalışmak istiyor.",
+            "sentence2": " Tecrübeli bir reklamcı Ayşe'nin çalışmak istediği kişinin mesleği."
+        },
+        {
+            "captionID": "acf_11772",
+            "gold_label": 1,
+            "pair_ID": "acf_11772#acu_61986",
+            "sentence1": " seninki gibi bir öneride bulunmak istiyor ajanstakiler.",
+            "sentence2": " Ajanstakilerin bulunmak istediği öneri seninki gibi."
+        },
+        {
+            "captionID": "aco_96111",
+            "gold_label": 1,
+            "pair_ID": "aco_96111#adl_33971",
+            "sentence1": " Belma bir vapur yolculuğuna yalnız çıkmak istiyor.",
+            "sentence2": " Belma'nın yalnız çıkmak istediği bir vapur yolculuğu mevcut."
+        },
+        {
+            "captionID": "aam_61913",
+            "gold_label": 1,
+            "pair_ID": "aam_61913#aos_83032",
+            "sentence1": " Bir müşteriye Mehmet bakmak istiyor.",
+            "sentence2": " Mehmet'in bakmak istediği özel bir müşteri var."
+        },
+        {
+            "captionID": "ass_30171",
+            "gold_label": 1,
+            "pair_ID": "ass_30171#aku_45495",
+            "sentence1": " senin yaptığın gibi bir sebze yemeğinden yemek istiyor Ceylan.",
+            "sentence2": " Bir sebze yemeğinden yemek istiyor Ceylan aynı senin yaptığın gibi olan."
+        },
+        {
+            "captionID": "arj_14108",
+            "gold_label": 1,
+            "pair_ID": "arj_14108#ana_46535",
+            "sentence1": " Başka bir resmi çizmek istiyor Abidin.",
+            "sentence2": " Abidin'in çizmek istediği başka bir resim var."
+        },
+        {
+            "captionID": "ada_47304",
+            "gold_label": 1,
+            "pair_ID": "ada_47304#azd_84652",
+            "sentence1": " Müjdat başka bir şirkette çalışmak istiyor.",
+            "sentence2": " Müjdat'ın çalışmak istediği başka bir şirket var."
+        },
+        {
+            "captionID": "aal_68569",
+            "gold_label": 0,
+            "pair_ID": "aal_68569#agg_34227",
+            "sentence1": " Elif bir kaza geçirirse büyük ihtimalle ona kimse ulaşamaz.",
+            "sentence2": " Elif geçirirse kimsenin ona büyük ihtimalle ulaşamayacağı türden bir kaza var."
+        },
+        {
+            "captionID": "aij_39755",
+            "gold_label": 0,
+            "pair_ID": "aij_39755#azb_34846",
+            "sentence1": " Bir ekmeğin kaç lira olduğunu Recep uzun zamandır sorgulamamıştı.",
+            "sentence2": " Recep'in uzun zamandır kaç lira olduğunu sorgulamamış olduğu bir ekmek var. "
+        },
+        {
+            "captionID": "afh_86821",
+            "gold_label": 0,
+            "pair_ID": "afh_86821#avj_44835",
+            "sentence1": " Seda gelecekte bir ev satın almasının zorunlu olduğunu düşünüyor.",
+            "sentence2": " Seda'nın gelecekte satın almasının zorunlu olduğunu düşündüğü bir ev var."
+        },
+        {
+            "captionID": "ane_55811",
+            "gold_label": 1,
+            "pair_ID": "ane_55811#aem_11816",
+            "sentence1": " Süreyya bir tekne gezisine katılması gerektiğini söylüyor.",
+            "sentence2": " Süreyya'nın katılması gerektiğini söylediği bir tekne gezisi var."
+        },
+        {
+            "captionID": "atd_29818",
+            "gold_label": 1,
+            "pair_ID": "atd_29818#aqy_35222",
+            "sentence1": " Bunun gibi bir konuda konuşmak istiyor Asude.",
+            "sentence2": " Asude'nin konuşmak istediği konu bunun gibi."
+        },
+        {
+            "captionID": "aox_55011",
+            "gold_label": 1,
+            "pair_ID": "aox_55011#agi_48414",
+            "sentence1": " Yağız kendine yeni bir arkadaş edinmek istiyor.",
+            "sentence2": " Kendine arkadaş edinmek istediği yeni bir kişi var Yağız'ın. "
+        },
+        {
+            "captionID": "afp_13089",
+            "gold_label": 0,
+            "pair_ID": "afp_13089#abk_68563",
+            "sentence1": " Cenk bir araba satın alırsa mutlu olacağını düşünüyor.",
+            "sentence2": " Cenk'in satın alırsa mutlu olacağını düşündüğü bir araba var."
+        },
+        {
+            "captionID": "acg_70393",
+            "gold_label": 0,
+            "pair_ID": "acg_70393#abv_47124",
+            "sentence1": " Ali kuyumcuya bir hırsızın girdiğini mi iddia ediyor?",
+            "sentence2": " Ali kuyumcuya girenin bir hırsız olduğunu mu iddia ediyor?"
+        },
+        {
+            "captionID": "amv_11585",
+            "gold_label": 1,
+            "pair_ID": "amv_11585#aot_41736",
+            "sentence1": " Ev arkadaşım bir kediye bakmak istiyor.",
+            "sentence2": " Ev arkadaşımın bakmak istediği bir kedi var."
+        },
+        {
+            "captionID": "atk_69967",
+            "gold_label": 1,
+            "pair_ID": "atk_69967#aru_81480",
+            "sentence1": " Gülsüm deniz gören bir yazlık almak istiyormuş.",
+            "sentence2": " Gülsüm'ün almak istediği yazlık deniz görüyormuş."
+        },
+        {
+            "captionID": "afk_12201",
+            "gold_label": 1,
+            "pair_ID": "afk_12201#ari_38856",
+            "sentence1": " şuradaki gibi bir ev almak istiyorum.",
+            "sentence2": " Şuradaki gibi olan bir ev almak istediğim."
+        },
+        {
+            "captionID": "aao_56565",
+            "gold_label": 1,
+            "pair_ID": "aao_56565#atc_98716",
+            "sentence1": " Başka bir fotoğrafı bastırmak istiyor Yiğit.",
+            "sentence2": " Yiğit'in bastırmak istediği başka bir fotoğraf var."
+        },
+        {
+            "captionID": "avv_70863",
+            "gold_label": 1,
+            "pair_ID": "avv_70863#any_89291",
+            "sentence1": " Bener buradaki gibi bir fotoğrafta yer almak istiyor.",
+            "sentence2": " Bener'in yer almak istediği fotoğraf buradaki gibi."
+        },
+        {
+            "captionID": "axn_53042",
+            "gold_label": 1,
+            "pair_ID": "axn_53042#aqk_49028",
+            "sentence1": " Ona yardımcı olur diye bir kitap okumasını önerdim.",
+            "sentence2": " Ona yardımcı olur diye okumasını önerdiğim şey bir kitap."
+        },
+        {
+            "captionID": "anm_56009",
+            "gold_label": 1,
+            "pair_ID": "anm_56009#ach_76410",
+            "sentence1": " Hakan bir arkadaşına uğramak istiyor.",
+            "sentence2": " Hakan'ın uğramak istediği bir arkadaşı var."
+        },
+        {
+            "captionID": "aoj_65725",
+            "gold_label": 1,
+            "pair_ID": "aoj_65725#aaf_58531",
+            "sentence1": " buğra'nınki gibi bir kitaptan alıntı yapmak istiyor Batu.",
+            "sentence2": " Batu'nun alıntı yapmak istediği kitap Buğra'nınki gibi."
+        },
+        {
+            "captionID": "akg_52782",
+            "gold_label": 1,
+            "pair_ID": "akg_52782#azv_41030",
+            "sentence1": " Filiz kırmızı bir araba almak istiyor.",
+            "sentence2": " Filiz'in almak istediği araba kırmızı."
+        },
+        {
+            "captionID": "aia_47339",
+            "gold_label": 1,
+            "pair_ID": "aia_47339#atl_44800",
+            "sentence1": " Yorgun bir şoför ile yola çıkmak istiyor Kenan.",
+            "sentence2": " Kenan'ın yola çıkmak istediği şoför yorgun."
+        },
+        {
+            "captionID": "alo_90930",
+            "gold_label": 1,
+            "pair_ID": "alo_90930#ame_93366",
+            "sentence1": " Para biriktirdikten sonra kardeşim bir araba almak istiyor.",
+            "sentence2": " Aklındaki arabayı kardeşim para biriktirdikten sonra almak istiyor."
+        },
+        {
+            "captionID": "awv_24001",
+            "gold_label": 1,
+            "pair_ID": "awv_24001#azn_60445",
+            "sentence1": " Akşam için pişirilen bir kurabiyenin kaç derecede pişirildiğini Abraham bilmiyordu.",
+            "sentence2": " Abraham akşam için pişirilen kurabiyenin kaç derecede pişirildiğini bilmiyordu."
+        },
+        {
+            "captionID": "acc_38891",
+            "gold_label": 1,
+            "pair_ID": "acc_38891#auu_99669",
+            "sentence1": " Annemler tatilde bir yat kiralamak istiyor.",
+            "sentence2": " Annemler'in tatilde kiralamak istediği bir yat var."
+        },
+        {
+            "captionID": "azl_24210",
+            "gold_label": 1,
+            "pair_ID": "azl_24210#ans_51552",
+            "sentence1": " Restoranda servis edilen gibi bir tatlıdan yemek istiyor Süheyla.",
+            "sentence2": " Süheyla'nın yemek istediği tatlı restoranda servis ediliyor."
+        },
+        {
+            "captionID": "avd_78145",
+            "gold_label": 1,
+            "pair_ID": "avd_78145#ako_22126",
+            "sentence1": " Leyla başka bir konu konuşmak istiyor.",
+            "sentence2": " Leyla'nın konuşmak istediği konu şu an konuşulan konudan farklı."
+        },
+        {
+            "captionID": "ahf_71931",
+            "gold_label": 1,
+            "pair_ID": "ahf_71931#amk_47516",
+            "sentence1": " Her katılımcı bir masaya oturmak gerektiğini düşündü.",
+            "sentence2": " Her katılımcının oturmak gerektiğini düşündüğü masa aynı."
+        },
+        {
+            "captionID": "asu_38553",
+            "gold_label": 1,
+            "pair_ID": "asu_38553#aee_79304",
+            "sentence1": " Uygar başka bir adamla dövüşmek istiyor.",
+            "sentence2": " Uygar'ın dövüşmek istediği adam başka."
+        },
+        {
+            "captionID": "aci_98521",
+            "gold_label": 1,
+            "pair_ID": "aci_98521#aml_64781",
+            "sentence1": " bir bardak kırmak ister Pelin.",
+            "sentence2": " Pelin'in kırmak istediği bir bardak var."
+        },
+        {
+            "captionID": "aau_71899",
+            "gold_label": 1,
+            "pair_ID": "aau_71899#aql_39346",
+            "sentence1": " Özlem bir öğrencinin bu soruyu çözebileceğini düşünüyor.",
+            "sentence2": " Özlem'in bu soruyu çözebileceğini düşündüğü kişi bir öğrenci."
+        },
+        {
+            "captionID": "ayu_83025",
+            "gold_label": 0,
+            "pair_ID": "ayu_83025#avb_19348",
+            "sentence1": " Eda sadece bir yumurta ile kahvaltı yaparsa hemen acıkır.",
+            "sentence2": " Eda'nın kahvaltıda yerse hemen acıkacağı şey sadece yumurta."
+        },
+        {
+            "captionID": "avl_81584",
+            "gold_label": 1,
+            "pair_ID": "avl_81584#abd_43807",
+            "sentence1": " Okulu bırakıp bir işte çalışmak istiyormuş Oğuz.",
+            "sentence2": " Oğuz'un okulu bırakıp girmek istediği belli bir iş var."
+        },
+        {
+            "captionID": "aue_35617",
+            "gold_label": 1,
+            "pair_ID": "aue_35617#alc_13417",
+            "sentence1": " Selin bir arkadaşını davet etmeyi düşünüyor.",
+            "sentence2": " Selin'in davet etmeyi düşündüğü bir arkadaşı var."
+        },
+        {
+            "captionID": "abl_33144",
+            "gold_label": 0,
+            "pair_ID": "abl_33144#aro_31774",
+            "sentence1": " Şeyma en kısa zamanda kızıl saçlı bir kız öpmek istiyor.",
+            "sentence2": " Şeyma'nın en kısa zamanda öpmek istediği kişi kızıl saçlı bir kız."
+        },
+        {
+            "captionID": "ajf_70518",
+            "gold_label": 1,
+            "pair_ID": "ajf_70518#aag_67930",
+            "sentence1": " Gaddar adam fidanlardan birini sökmeyi arzuluyordu.",
+            "sentence2": " Gaddar adamın sökmeyi arzuladığı belli bir fidan vardı."
+        },
+        {
+            "captionID": "ajs_53004",
+            "gold_label": 1,
+            "pair_ID": "ajs_53004#axq_34473",
+            "sentence1": " Yaren grupta bir kişinin ajan olduğunu düşünüyor.",
+            "sentence2": " Yaren'in grupta olduğunu düşündüğü bir ajan var."
+        },
+        {
+            "captionID": "akj_25372",
+            "gold_label": 1,
+            "pair_ID": "akj_25372#apl_42219",
+            "sentence1": " Büşra bir arkadaşının ondan hoşlandığını düşünüyor.",
+            "sentence2": " Büşra'nın ondan hoşlandığını düşündüğü bir arkadaşı var."
+        },
+        {
+            "captionID": "apb_29078",
+            "gold_label": 0,
+            "pair_ID": "apb_29078#aak_65571",
+            "sentence1": " En kısa zamanda bir araba almak istiyormuş en yakın arkadaşım.",
+            "sentence2": " En yakın arkadaşımın almak istediği belli bir arabayı en kısa zamanda almak."
+        },
+        {
+            "captionID": "ayp_59218",
+            "gold_label": 1,
+            "pair_ID": "ayp_59218#aae_51073",
+            "sentence1": " Barış yoğun bir haftasonundan sonra dinlenmek istiyor.",
+            "sentence2": " Barış'ın yoğun olan haftasonundan sonra istediği dinlenmek."
+        },
+        {
+            "captionID": "ajp_77252",
+            "gold_label": 1,
+            "pair_ID": "ajp_77252#all_78903",
+            "sentence1": " Mehmet onun gibi bir mühendisle çalışmak istiyor.",
+            "sentence2": " Mehmet'in çalışmak istediği mühendis onun gibi."
+        },
+        {
+            "captionID": "aww_66895",
+            "gold_label": 1,
+            "pair_ID": "aww_66895#aji_85671",
+            "sentence1": " Başka bir okuldan mezun olmak istiyor Canan.",
+            "sentence2": " Canan'ın mezun olmak istediği okul başka."
+        },
+        {
+            "captionID": "acn_38071",
+            "gold_label": 1,
+            "pair_ID": "acn_38071#abo_89968",
+            "sentence1": " Güzide başka bir ev almak istiyor.",
+            "sentence2": " Özel bir ev var Güzide'nin almak istediği bundan başka."
+        },
+        {
+            "captionID": "acf_72790",
+            "gold_label": 1,
+            "pair_ID": "acf_72790#aos_35436",
+            "sentence1": " Aysu şunun gibi bir hamakta uyumak istiyor.",
+            "sentence2": " Aysu'nun uyumak istediği hamak şunun gibi."
+        },
+        {
+            "captionID": "ads_90043",
+            "gold_label": 1,
+            "pair_ID": "ads_90043#aqo_70553",
+            "sentence1": " Ozan okuduğu bölümü bırakıp başka bir bölüme geçmeyi planlıyormuş.",
+            "sentence2": " Ozan'ın okuduğu bölümü bırakıp geçmeyi planladığı başka bir bölüm var."
+        },
+        {
+            "captionID": "ajv_69460",
+            "gold_label": 1,
+            "pair_ID": "ajv_69460#amo_17736",
+            "sentence1": " Zülfikar başka bir uzman ile görüşmek istiyor.",
+            "sentence2": " Zülfikar'ın görüşmek istediği uzman başka."
+        },
+        {
+            "captionID": "aoq_44041",
+            "gold_label": 1,
+            "pair_ID": "aoq_44041#aen_83509",
+            "sentence1": " Hilal başka bir okulda okumak istiyor.",
+            "sentence2": " Hilal'in okumak istediği başka bir okul var."
+        },
+        {
+            "captionID": "adr_45161",
+            "gold_label": 1,
+            "pair_ID": "adr_45161#avx_87396",
+            "sentence1": " Züleyha yıldız gibi bir oyuncu ile röportaj yapmak istiyor.",
+            "sentence2": " Züleyha'nın röportaj yapmak istediği oyuncu Yıldız gibi."
+        },
+        {
+            "captionID": "alh_36301",
+            "gold_label": 1,
+            "pair_ID": "alh_36301#aqs_31060",
+            "sentence1": " Banu lale'ninki gibi bir evi almak istiyor.",
+            "sentence2": " Banu'nun almak istediği ev Lale'ninki gibi."
+        },
+        {
+            "captionID": "awc_12599",
+            "gold_label": 0,
+            "pair_ID": "awc_12599#aqi_66973",
+            "sentence1": " Astrid misafirlerinin eve gelirken bir hediye getirip getirmeyeceğinden şüpheliydi.",
+            "sentence2": " Astrid'in misafirlerinin eve gelirken getirip getirmeyeceklerinden şüpheli olduğu bir hediye vardı."
+        },
+        {
+            "captionID": "afa_12090",
+            "gold_label": 0,
+            "pair_ID": "afa_12090#ait_58671",
+            "sentence1": " Selin, büşra'nınki gibi bir çanta almak istiyor.",
+            "sentence2": " Selin'in almak istediği çanta Büşra'nınki gibi."
+        },
+        {
+            "captionID": "akq_99128",
+            "gold_label": 1,
+            "pair_ID": "akq_99128#asi_23493",
+            "sentence1": " Gülin aysu'nunki gibi bir şirkette çalışmak istiyor.",
+            "sentence2": " Aysu'nunki gibi bir şirket Gülin'in çalışmak istediği."
+        },
+        {
+            "captionID": "agz_25691",
+            "gold_label": 1,
+            "pair_ID": "agz_25691#aqe_23513",
+            "sentence1": " Sağduyu sahibi bir satıcı herkesin ödeyebileceği fiyatlar belirlemesi gerektiğini bilirdi.",
+            "sentence2": " Bilirdi herkesin ödeyebileceği fiyatlar belirlemesi gerektiğini sağduyu sahibi olan satıcı."
+        },
+        {
+            "captionID": "ajr_14033",
+            "gold_label": 1,
+            "pair_ID": "ajr_14033#afy_18250",
+            "sentence1": " Deniz başka bir eve taşınmak istiyor.",
+            "sentence2": " Bir ev var Deniz'in taşınmak istediği bundan başka."
+        },
+        {
+            "captionID": "afi_21992",
+            "gold_label": 1,
+            "pair_ID": "afi_21992#ash_14448",
+            "sentence1": " Silmek istiyor başka bir üzücü anıyı Eren.",
+            "sentence2": " Eren'in silmek istediği başka bir üzücü anı var."
+        },
+        {
+            "captionID": "akp_88081",
+            "gold_label": 1,
+            "pair_ID": "akp_88081#anz_62814",
+            "sentence1": " Turan bizim dükkan gibi bir dükkanı işletmek istiyor.",
+            "sentence2": " Turan'ın işletmek istediği dükkan bizim dükkan gibi."
+        },
+        {
+            "captionID": "amu_20677",
+            "gold_label": 1,
+            "pair_ID": "amu_20677#aia_45556",
+            "sentence1": " Jülide başka bir kitap okumak istiyor.",
+            "sentence2": " Jülide'nin okumak istediği başka bir kitap var."
+        },
+        {
+            "captionID": "awo_22905",
+            "gold_label": 1,
+            "pair_ID": "awo_22905#ahw_57698",
+            "sentence1": " Kimileri bir oduncunun tüm odunları keseceğine inanmıştı.",
+            "sentence2": " Kimiler'nin tüm odunları keseceğine inanmış olduğu bir oduncu var."
+        },
+        {
+            "captionID": "adf_60281",
+            "gold_label": 1,
+            "pair_ID": "adf_60281#avo_46101",
+            "sentence1": " Bir soruya Leyla göz atmak istiyor.",
+            "sentence2": " Leyla'nın göz atmak istiyor olduğu bir soru var."
+        },
+        {
+            "captionID": "ado_44300",
+            "gold_label": 1,
+            "pair_ID": "ado_44300#asv_48544",
+            "sentence1": " Janset başka bir konudan bahsetmek istiyor.",
+            "sentence2": " Başka bir konu var Janset'in bahsetmek istiyor olduğu."
+        },
+        {
+            "captionID": "ass_81861",
+            "gold_label": 0,
+            "pair_ID": "ass_81861#atg_37463",
+            "sentence1": " Bir yarış kazanınca kendini kanıtlayacağını sanıyor o kız.",
+            "sentence2": " O kızın kazanınca kendini kanıtlayacağını sandığı bir yarış var."
+        },
+        {
+            "captionID": "asz_80537",
+            "gold_label": 0,
+            "pair_ID": "asz_80537#ach_39019",
+            "sentence1": " Ayla bir kahve içmek isterse belki bana uğrar.",
+            "sentence2": " Ayla'nın içmek isterse bana uğrayacağı belli bir çeşit kahve var."
+        },
+        {
+            "captionID": "ajt_16512",
+            "gold_label": 0,
+            "pair_ID": "ajt_16512#anr_77677",
+            "sentence1": " Bremen'deki mızıkacı bir mızıkanın kaç lira olduğundan bile habersiz.",
+            "sentence2": " Bremen'deki mızıkacının kaç lira olduğundan bile habersiz olduğu bir mızıka var."
+        },
+        {
+            "captionID": "agx_62789",
+            "gold_label": 1,
+            "pair_ID": "agx_62789#abd_73960",
+            "sentence1": " Sunay köpeğini yürütmek için onu bir parka götürmek istiyor.",
+            "sentence2": " Sunay'ın onu götürmek istediği bir park var köpeğini yürütmek için."
+        },
+        {
+            "captionID": "aea_75249",
+            "gold_label": 1,
+            "pair_ID": "aea_75249#ano_38074",
+            "sentence1": " Kübra başka bir trene binmek istiyor.",
+            "sentence2": " Kübra'nın binmek istediği tren bundan başka."
+        },
+        {
+            "captionID": "aot_25854",
+            "gold_label": 0,
+            "pair_ID": "aot_25854#aro_52390",
+            "sentence1": " Kurumi önceden anlaştığı bir dükkandan rengarenk bir kimono satın almayı planlıyor.",
+            "sentence2": " Kurumi'nin satın almayı planlıyor olduğu kimono önceden anlaştığı belli bir dükkandan."
+        },
+        {
+            "captionID": "atn_51726",
+            "gold_label": 1,
+            "pair_ID": "atn_51726#anc_90225",
+            "sentence1": " Selin evdeki gibi bir koltuğu değiştirmek istiyor.",
+            "sentence2": " Selin'in değiştirmek istediği koltuk evdeki gibi."
+        },
+        {
+            "captionID": "agb_42303",
+            "gold_label": 1,
+            "pair_ID": "agb_42303#aqu_98129",
+            "sentence1": " Gülay olgun bir limonu dalından koparmak istiyor.",
+            "sentence2": " Olgun bir limon Gülay'ın dalından koparmak istediği."
+        },
+        {
+            "captionID": "aam_68533",
+            "gold_label": 1,
+            "pair_ID": "aam_68533#awm_87297",
+            "sentence1": " Büşra başka bir ülkede yaşamak istiyor.",
+            "sentence2": " Büşra'nın yaşamak istediği ülke başka."
+        },
+        {
+            "captionID": "awd_68384",
+            "gold_label": 1,
+            "pair_ID": "awd_68384#anh_43728",
+            "sentence1": " Pelin istiyor başka bir şarabı içmek.",
+            "sentence2": " Bir başka şarap var Pelin'in içmek istediği."
+        },
+        {
+            "captionID": "ayt_82740",
+            "gold_label": 1,
+            "pair_ID": "ayt_82740#avj_23752",
+            "sentence1": " Gizem görkemli bir salonda evlenmek istiyor.",
+            "sentence2": " Gizem'in evlenmek istediği salon görkemli."
+        },
+        {
+            "captionID": "ata_77314",
+            "gold_label": 1,
+            "pair_ID": "ata_77314#ajo_37102",
+            "sentence1": " Arkadaşım bir dergiye yazılarını gönderecekmiş.",
+            "sentence2": " Arkadaşımın yazılarını göndereceği bir dergi var."
+        },
+        {
+            "captionID": "abt_18950",
+            "gold_label": 0,
+            "pair_ID": "abt_18950#avj_46583",
+            "sentence1": " Berrin bir yangın çıkarsa ne yapabilir?",
+            "sentence2": " Ne yapabilir Berrin belli bir yangın çıkarsa?"
+        },
+        {
+            "captionID": "avg_30172",
+            "gold_label": 1,
+            "pair_ID": "avg_30172#aqy_83166",
+            "sentence1": " paris'tekiler gibi bir müzeye gitmek istiyor Jale.",
+            "sentence2": " Jale'nin gitmek istediği Paris'tekiler gibi olan bir müze var."
+        },
+        {
+            "captionID": "aws_93656",
+            "gold_label": 1,
+            "pair_ID": "aws_93656#ank_94897",
+            "sentence1": " Ders çalışırken dinlemek için bir şarkı açmak istiyormuş Buse.",
+            "sentence2": " Buse'nin ders çalışırken dinlemek için açmak istediği bir şarkı var."
+        },
+        {
+            "captionID": "aua_34964",
+            "gold_label": 0,
+            "pair_ID": "aua_34964#aoh_52115",
+            "sentence1": " buradaki gibi bir dergi almayı istiyor Cansu.",
+            "sentence2": " Cansu'nun almayı istediği dergi buradakiler gibi."
+        },
+        {
+            "captionID": "azp_84965",
+            "gold_label": 1,
+            "pair_ID": "azp_84965#akp_67683",
+            "sentence1": " Remziye yetkin bir adayla mülakat yapmak istiyor.",
+            "sentence2": " Yetkin bir aday Remziye'nin mülakat yapmak istediği."
+        },
+        {
+            "captionID": "acx_23976",
+            "gold_label": 1,
+            "pair_ID": "acx_23976#ade_84306",
+            "sentence1": " Halime başka bir elbise giymek istiyor.",
+            "sentence2": " Halime'nin giymek istediği başka bir elbise."
+        },
+        {
+            "captionID": "aqh_86904",
+            "gold_label": 1,
+            "pair_ID": "aqh_86904#axx_26176",
+            "sentence1": " Başka bir pastadan yemek istiyor Cüneyt.",
+            "sentence2": " Cüneyt'in yemek istediği başka bir pasta var."
+        },
+        {
+            "captionID": "aqb_33286",
+            "gold_label": 0,
+            "pair_ID": "aqb_33286#apl_70954",
+            "sentence1": " Enes bir hatası olmadığını iddia ediyor.",
+            "sentence2": " Enes'in olmadığını iddia ettiği şey bir hata."
+        },
+        {
+            "captionID": "aeo_84561",
+            "gold_label": 0,
+            "pair_ID": "aeo_84561#aoi_79843",
+            "sentence1": " benimki gibi bir çanta almak istiyor Şule.",
+            "sentence2": " Benimki gibi Şule'nin almak istediği çanta."
+        },
+        {
+            "captionID": "acs_38935",
+            "gold_label": 1,
+            "pair_ID": "acs_38935#auz_44373",
+            "sentence1": " Muharrem bir marketten alışveriş yapmak istiyor.",
+            "sentence2": " Muharrem'in alışveris yapmak istediği yer bir market."
+        },
+        {
+            "captionID": "asi_12744",
+            "gold_label": 1,
+            "pair_ID": "asi_12744#axq_84745",
+            "sentence1": " ispanya'dakiler gibi bir plaja gitmek istiyorum.",
+            "sentence2": " Gitmek istediğim plaj İspanya'dakiler gibi."
+        },
+        {
+            "captionID": "aqm_88861",
+            "gold_label": 1,
+            "pair_ID": "aqm_88861#aly_62343",
+            "sentence1": " Yaprak başka bir adama aşık olmak istiyor.",
+            "sentence2": " Yaprak'ın aşık olmak istediği başka bir adam."
+        },
+        {
+            "captionID": "agj_49616",
+            "gold_label": 1,
+            "pair_ID": "agj_49616#awx_81810",
+            "sentence1": " 3A sınıfından Emre babasıyla okuyabileceği bir şiiri ezberlemek istiyordu.",
+            "sentence2": " 3A sınıfından Emre'nin ezberlemek istediği babasıyla okuyabileceği bir şiir."
+        },
+        {
+            "captionID": "ant_43695",
+            "gold_label": 1,
+            "pair_ID": "ant_43695#akh_36889",
+            "sentence1": " Tijen restorandaki gibi bir tatlıyı yemek istiyor.",
+            "sentence2": " Tijen'in yemek istiyor olduğu tatlı restorandaki gibi."
+        },
+        {
+            "captionID": "aef_31941",
+            "gold_label": 0,
+            "pair_ID": "aef_31941#aeb_84014",
+            "sentence1": " Hilal, benimki gibi bir sevgilisi olmasını istiyor.",
+            "sentence2": " Hilal'in olmasını istediği sevgili benimki gibi."
+        },
+        {
+            "captionID": "aqd_89324",
+            "gold_label": 1,
+            "pair_ID": "aqd_89324#ahu_94476",
+            "sentence1": " Annem leyla'nınki gibi bir yazlık almak istiyor.",
+            "sentence2": " Leyla'nınki gibi bir yazlık annemin almak istediği."
+        },
+        {
+            "captionID": "aoz_51681",
+            "gold_label": 1,
+            "pair_ID": "aoz_51681#axg_11670",
+            "sentence1": " Ayşe gibi bir kızla evlenmek istiyor Ender.",
+            "sentence2": " Ender'in evlenmek istediği kız Ayşe gibi."
+        },
+        {
+            "captionID": "ate_74641",
+            "gold_label": 1,
+            "pair_ID": "ate_74641#avq_75340",
+            "sentence1": " Güzel bir bahçede piknik yapmak istiyor Gaye.",
+            "sentence2": " Gaye'nin piknik yapmak istediği güzel bir bahçe var."
+        },
+        {
+            "captionID": "aco_78339",
+            "gold_label": 1,
+            "pair_ID": "aco_78339#aox_34958",
+            "sentence1": " Şeyda yün bir halıyı süpürmek istiyor.",
+            "sentence2": " Şeyda'nın süpürmek istediği halı yün."
+        },
+        {
+            "captionID": "aiz_27910",
+            "gold_label": 1,
+            "pair_ID": "aiz_27910#alk_57854",
+            "sentence1": " bolu'daki gibi bir gölden balık avlamak istiyor Hale.",
+            "sentence2": " Hale'nin balık avlamak istediği göl Bolu'daki gibi."
+        },
+        {
+            "captionID": "afh_31700",
+            "gold_label": 1,
+            "pair_ID": "afh_31700#ang_56302",
+            "sentence1": " Orkun benimki gibi bir okula gitmek istiyor.",
+            "sentence2": " Orkun'un gitmek istediği okul benimki gibi."
+        },
+        {
+            "captionID": "ajt_42048",
+            "gold_label": 1,
+            "pair_ID": "ajt_42048#asi_92574",
+            "sentence1": " Nur hediyelik eşya dükkanından bir bileklik almak istiyor.",
+            "sentence2": " Nur'un almak istediği bileklik hediyelik eşya dükkanından."
+        },
+        {
+            "captionID": "aqt_15770",
+            "gold_label": 1,
+            "pair_ID": "aqt_15770#ajt_57938",
+            "sentence1": " Banu başka bir bankta oturmak istiyor.",
+            "sentence2": " Banu'nun oturmak istediği bank başka bir bank."
+        },
+        {
+            "captionID": "all_55179",
+            "gold_label": 0,
+            "pair_ID": "all_55179#avm_97607",
+            "sentence1": " ayşe'ninkiler gibi kedilere bakmak istiyorum.",
+            "sentence2": " Bakmak istediğim kediler Ayşe'ninki gibi."
+        },
+        {
+            "captionID": "anx_85080",
+            "gold_label": 1,
+            "pair_ID": "anx_85080#aor_53324",
+            "sentence1": " Ayşenur istiyor merkezi bir apartmanda oturmak.",
+            "sentence2": " Ayşenur'un oturmak istiyor olduğu apartman merkezi."
+        },
+        {
+            "captionID": "arg_99023",
+            "gold_label": 1,
+            "pair_ID": "arg_99023#ath_74442",
+            "sentence1": " Gürsel başka bir makineyle dikiş dikmek istiyor.",
+            "sentence2": " Gürsel'in dikiş dikmek istediği makine bundan başka."
+        },
+        {
+            "captionID": "atv_67955",
+            "gold_label": 1,
+            "pair_ID": "atv_67955#apy_11439",
+            "sentence1": " Vedat istiyor başka bir restoranı keşfetmek.",
+            "sentence2": " Vedat'ın keşfetmek istediği restoran başka."
+        },
+        {
+            "captionID": "agb_67463",
+            "gold_label": 0,
+            "pair_ID": "agb_67463#aag_20360",
+            "sentence1": " Mustafa uyumadan önce sürükleyici bir roman okumak istiyor.",
+            "sentence2": " Mustafa'nın uyumadan önce okumak istediği sürükleyici bir roman var."
+        },
+        {
+            "captionID": "agd_52066",
+            "gold_label": 1,
+            "pair_ID": "agd_52066#apt_42323",
+            "sentence1": " Ayşe hamile bir kedi sahiplenmek istiyor.",
+            "sentence2": " Ayşe'nin sahiplenmek istediği kedi hamile."
+        },
+        {
+            "captionID": "aob_58285",
+            "gold_label": 0,
+            "pair_ID": "aob_58285#ave_99879",
+            "sentence1": " Esmer çocuk bugün yarın kaslı bir tamirci görmek istiyormuş.",
+            "sentence2": " Esmer çocuğun bugün yarın görmek istediği kaslı bir tamirci varmış."
+        },
+        {
+            "captionID": "aoh_63645",
+            "gold_label": 1,
+            "pair_ID": "aoh_63645#aua_61906",
+            "sentence1": " Hamiyet hala istedi benden bir köpeğe bakmamı.",
+            "sentence2": " Hamiyet halanın bakmamı istediği bir köpek var."
+        },
+        {
+            "captionID": "ajn_48337",
+            "gold_label": 1,
+            "pair_ID": "ajn_48337#apy_58878",
+            "sentence1": " Leyla başka bir tesisatçıyı öpmek istiyor.",
+            "sentence2": " Leyla'nın öpmek istediği tesisatçı başka."
+        },
+        {
+            "captionID": "agw_13198",
+            "gold_label": 0,
+            "pair_ID": "agw_13198#ajt_57599",
+            "sentence1": " şu çocuk bir defter almak istiyordu dersten çıkınca.",
+            "sentence2": " Dersten çıkınca şu çocuğun almak istediği bir defter vardı."
+        },
+        {
+            "captionID": "aga_84412",
+            "gold_label": 1,
+            "pair_ID": "aga_84412#aqk_78809",
+            "sentence1": " Hüseyin başka bir şirketten ayrılmak istiyor.",
+            "sentence2": " Hüseyin'in ayrılmak istediği şirket bundan başka."
+        },
+        {
+            "captionID": "avb_38727",
+            "gold_label": 1,
+            "pair_ID": "avb_38727#adw_75187",
+            "sentence1": " Uzak diyarlardan gelen bir gözlemcinin kitabında herkesten bahsedeceğini ummuştum.",
+            "sentence2": " Herkesten bahsedeceğini ummuştum kitabında uzak diyarlardan gelen gözlemcinin."
+        },
+        {
+            "captionID": "aeb_70666",
+            "gold_label": 0,
+            "pair_ID": "aeb_70666#aco_33784",
+            "sentence1": " bir casus yakalamak istiyor şövalye.",
+            "sentence2": " Şövalyenin yakalamak istediği kişi bir casus."
+        },
+        {
+            "captionID": "awe_56672",
+            "gold_label": 0,
+            "pair_ID": "awe_56672#aip_80757",
+            "sentence1": " Bir öykü yazmak isteyen Nil her gün çok çalışıyordu.",
+            "sentence2": " Nil'in her gün yazmak istediği için çok çalıştığı bir öykü var."
+        },
+        {
+            "captionID": "aoy_41805",
+            "gold_label": 1,
+            "pair_ID": "aoy_41805#aib_34374",
+            "sentence1": " Rüstem işsiz bir mezunla röportaj yapmak istiyor.",
+            "sentence2": " Rüstem'in röportaj yapmak istediği kişi işsiz bir mezun."
+        },
+        {
+            "captionID": "aeu_81993",
+            "gold_label": 1,
+            "pair_ID": "aeu_81993#alu_76825",
+            "sentence1": " Müge başka bir konukla röportaj yapmak istiyor.",
+            "sentence2": " Müge'nin röportaj yapmak istediği başka bir konuk var."
+        },
+        {
+            "captionID": "aca_95138",
+            "gold_label": 1,
+            "pair_ID": "aca_95138#ags_88089",
+            "sentence1": " Deniz bir dili konuşmak isterse kesinlikle hemen öğrenir.",
+            "sentence2": " Deniz herhangi bir dili konuşmak isterse kesinlikle hemen öğrenir."
+        },
+        {
+            "captionID": "axb_94395",
+            "gold_label": 0,
+            "pair_ID": "axb_94395#amw_37299",
+            "sentence1": " Ayşe bir otele gitmek istiyor.",
+            "sentence2": " Ayşe gideceği yerin bir otel olmasını istiyor."
+        },
+        {
+            "captionID": "ajc_34053",
+            "gold_label": 1,
+            "pair_ID": "ajc_34053#ani_55363",
+            "sentence1": " Bir sıvacının işini herkesten iyi yaptığını Gönül düşünüyor.",
+            "sentence2": " Gönül mesleği sıvacılık olan herhangi bir kişinin işini herkesten iyi yaptığını düşünüyor."
+        },
+        {
+            "captionID": "ahr_20286",
+            "gold_label": 1,
+            "pair_ID": "ahr_20286#abf_51293",
+            "sentence1": " Ali bir kitabın sana yardımcı olacağını düşünüyor.",
+            "sentence2": " Sana yardımcı olacak şeyin bir kitap olduğunu düşünüyor Ali."
+        },
+        {
+            "captionID": "acj_65811",
+            "gold_label": 0,
+            "pair_ID": "acj_65811#aoc_58863",
+            "sentence1": " Melahat bir okuldan mezun olmak istiyor.",
+            "sentence2": " Melahat mezun olacağı yer bir okul olsun istiyor."
+        },
+        {
+            "captionID": "alb_31480",
+            "gold_label": 1,
+            "pair_ID": "alb_31480#aoe_30410",
+            "sentence1": " Kerem başka bir manzaraya bakmak istiyor.",
+            "sentence2": " Kerem bundan başka herhangi bir manzaraya bakmak istiyor."
+        },
+        {
+            "captionID": "adw_97088",
+            "gold_label": 1,
+            "pair_ID": "adw_97088#auz_75957",
+            "sentence1": " Pelin uzman bir doktor görmek istiyor.",
+            "sentence2": " Pelin görmek istediği kişinin uzman bir doktor olmasını istiyor."
+        },
+        {
+            "captionID": "aso_68167",
+            "gold_label": 1,
+            "pair_ID": "aso_68167#akk_45712",
+            "sentence1": " Ayşe tecrübeli bir reklamcı ile çalışmak istiyor.",
+            "sentence2": " Ayşe tecrübeli bir reklamcı olsun istiyor çalışacağı kişi."
+        },
+        {
+            "captionID": "acf_11772",
+            "gold_label": 1,
+            "pair_ID": "acf_11772#aan_40213",
+            "sentence1": " seninki gibi bir öneride bulunmak istiyor ajanstakiler.",
+            "sentence2": " Ajanstakilerin istediği seninki gibi herhangi bir öneride bulunmak."
+        },
+        {
+            "captionID": "aco_96111",
+            "gold_label": 0,
+            "pair_ID": "aco_96111#agy_36377",
+            "sentence1": " Belma bir vapur yolculuğuna yalnız çıkmak istiyor.",
+            "sentence2": " Belma yalnız çıkacağı yolculuk bir vapur yolculuğu olsun istiyor."
+        },
+        {
+            "captionID": "aam_61913",
+            "gold_label": 0,
+            "pair_ID": "aam_61913#aph_63415",
+            "sentence1": " Bir müşteriye Mehmet bakmak istiyor.",
+            "sentence2": " Kim olduğu önemli olmayan bir müşteriye Mehmet bakmak istiyor."
+        },
+        {
+            "captionID": "ass_30171",
+            "gold_label": 1,
+            "pair_ID": "ass_30171#auu_32112",
+            "sentence1": " senin yaptığın gibi bir sebze yemeğinden yemek istiyor Ceylan.",
+            "sentence2": " Ceylan senin yaptığına benzeyen herhangi bir sebze yemeğinden yemek istiyor."
+        },
+        {
+            "captionID": "arj_14108",
+            "gold_label": 1,
+            "pair_ID": "arj_14108#avm_52731",
+            "sentence1": " Başka bir resmi çizmek istiyor Abidin.",
+            "sentence2": " Abidin bu resim dışında    herhangi başka bir resim çizmek istiyor."
+        },
+        {
+            "captionID": "ada_47304",
+            "gold_label": 1,
+            "pair_ID": "ada_47304#apu_73222",
+            "sentence1": " Müjdat başka bir şirkette çalışmak istiyor.",
+            "sentence2": " Müjdat bahsi geçilen şirket dışında herhangi bir şirkette çalışmayı istiyor. "
+        },
+        {
+            "captionID": "aal_68569",
+            "gold_label": 1,
+            "pair_ID": "aal_68569#acx_47236",
+            "sentence1": " Elif bir kaza geçirirse büyük ihtimalle ona kimse ulaşamaz.",
+            "sentence2": " Büyük ihtimalle Elif kaza geçirirse kimse ona ulaşamaz. "
+        },
+        {
+            "captionID": "aij_39755",
+            "gold_label": 1,
+            "pair_ID": "aij_39755#ain_67404",
+            "sentence1": " Bir ekmeğin kaç lira olduğunu Recep uzun zamandır sorgulamamıştı.",
+            "sentence2": " Recep uzun zamandır ekmeğin kaç lira olduğunu sorgulamamıştı. "
+        },
+        {
+            "captionID": "afh_86821",
+            "gold_label": 1,
+            "pair_ID": "afh_86821#afz_70015",
+            "sentence1": " Seda gelecekte bir ev satın almasının zorunlu olduğunu düşünüyor.",
+            "sentence2": " Seda gelecekte ev satın almasının zorunlu olduğunu düşünüyor."
+        },
+        {
+            "captionID": "ane_55811",
+            "gold_label": 0,
+            "pair_ID": "ane_55811#asi_96645",
+            "sentence1": " Süreyya bir tekne gezisine katılması gerektiğini söylüyor.",
+            "sentence2": " Süreyya herhangi bir tekne gezisine katılması gerektiğini söylüyor."
+        },
+        {
+            "captionID": "atd_29818",
+            "gold_label": 1,
+            "pair_ID": "atd_29818#auo_68470",
+            "sentence1": " Bunun gibi bir konuda konuşmak istiyor Asude.",
+            "sentence2": " Konuşacağı konu bunun gibi olsun istiyor Asude."
+        },
+        {
+            "captionID": "aox_55011",
+            "gold_label": 1,
+            "pair_ID": "aox_55011#acj_11578",
+            "sentence1": " Yağız kendine yeni bir arkadaş edinmek istiyor.",
+            "sentence2": " Yağız kendine yeni arkadaş edinmek istiyor."
+        },
+        {
+            "captionID": "afp_13089",
+            "gold_label": 1,
+            "pair_ID": "afp_13089#auk_95765",
+            "sentence1": " Cenk bir araba satın alırsa mutlu olacağını düşünüyor.",
+            "sentence2": " Cenk herhangi bir araba satın alırsa mutlu olacağını düşünüyor."
+        },
+        {
+            "captionID": "acg_70393",
+            "gold_label": 1,
+            "pair_ID": "acg_70393#aem_68582",
+            "sentence1": " Ali kuyumcuya bir hırsızın girdiğini mi iddia ediyor?",
+            "sentence2": " Ali kuyumcuya hırsız girdiğini mi iddia ediyor?"
+        },
+        {
+            "captionID": "amv_11585",
+            "gold_label": 1,
+            "pair_ID": "amv_11585#aea_56554",
+            "sentence1": " Ev arkadaşım bir kediye bakmak istiyor.",
+            "sentence2": " Ev arkadaşım herhangi bir kediye bakmak istiyor."
+        },
+        {
+            "captionID": "atk_69967",
+            "gold_label": 1,
+            "pair_ID": "atk_69967#akn_13432",
+            "sentence1": " Gülsüm deniz gören bir yazlık almak istiyormuş.",
+            "sentence2": " Alacağı yazlık deniz görsün istiyor Gülsüm."
+        },
+        {
+            "captionID": "afk_12201",
+            "gold_label": 1,
+            "pair_ID": "afk_12201#aed_30668",
+            "sentence1": " şuradaki gibi bir ev almak istiyorum.",
+            "sentence2": " Ev almak istiyorum şuradaki gibi bir tane."
+        },
+        {
+            "captionID": "aao_56565",
+            "gold_label": 1,
+            "pair_ID": "aao_56565#aap_38754",
+            "sentence1": " Başka bir fotoğrafı bastırmak istiyor Yiğit.",
+            "sentence2": " Yiğit bu fotoğraf dışında başka herhangi bir fotoğraf bastırmak istiyor."
+        },
+        {
+            "captionID": "avv_70863",
+            "gold_label": 1,
+            "pair_ID": "avv_70863#afq_76159",
+            "sentence1": " Bener buradaki gibi bir fotoğrafta yer almak istiyor.",
+            "sentence2": " Bener buradaki gibi olan herhangi bir fotoğrafta yer almak istiyor."
+        },
+        {
+            "captionID": "axn_53042",
+            "gold_label": 1,
+            "pair_ID": "axn_53042#ahg_84513",
+            "sentence1": " Ona yardımcı olur diye bir kitap okumasını önerdim.",
+            "sentence2": " Kitap okumasını önerdim ona yardımcı olur diye."
+        },
+        {
+            "captionID": "anm_56009",
+            "gold_label": 0,
+            "pair_ID": "anm_56009#apy_80895",
+            "sentence1": " Hakan bir arkadaşına uğramak istiyor.",
+            "sentence2": " Hakan arkadaşı olan insanlardan herhangi birine uğramak istiyor."
+        },
+        {
+            "captionID": "aoj_65725",
+            "gold_label": 1,
+            "pair_ID": "aoj_65725#apz_28547",
+            "sentence1": " buğra'nınki gibi bir kitaptan alıntı yapmak istiyor Batu.",
+            "sentence2": " Batu alıntı yaptığı kitap Buğra'nınki gibi olsun istiyor."
+        },
+        {
+            "captionID": "akg_52782",
+            "gold_label": 1,
+            "pair_ID": "akg_52782#ajq_85341",
+            "sentence1": " Filiz kırmızı bir araba almak istiyor.",
+            "sentence2": " Filiz alacağı araba kırmızı olsun istiyor."
+        },
+        {
+            "captionID": "aia_47339",
+            "gold_label": 1,
+            "pair_ID": "aia_47339#ahv_27772",
+            "sentence1": " Yorgun bir şoför ile yola çıkmak istiyor Kenan.",
+            "sentence2": " Kenan yola çıkacağı şoför yorgun olsun istiyor."
+        },
+        {
+            "captionID": "alo_90930",
+            "gold_label": 1,
+            "pair_ID": "alo_90930#art_65141",
+            "sentence1": " Para biriktirdikten sonra kardeşim bir araba almak istiyor.",
+            "sentence2": " Kardeşim para biriktirdikten sonra araba almak istiyor."
+        },
+        {
+            "captionID": "awv_24001",
+            "gold_label": 1,
+            "pair_ID": "awv_24001#aoi_44822",
+            "sentence1": " Akşam için pişirilen bir kurabiyenin kaç derecede pişirildiğini Abraham bilmiyordu.",
+            "sentence2": " Abraham akşam için pişirilen herhangi bir kurabiyenin kaç derecede pişirildiğini bilmiyordu. "
+        },
+        {
+            "captionID": "acc_38891",
+            "gold_label": 1,
+            "pair_ID": "acc_38891#afs_52624",
+            "sentence1": " Annemler tatilde bir yat kiralamak istiyor.",
+            "sentence2": " Annemler tatilde yat kiralamak istiyor."
+        },
+        {
+            "captionID": "azl_24210",
+            "gold_label": 1,
+            "pair_ID": "azl_24210#aeh_65253",
+            "sentence1": " Restoranda servis edilen gibi bir tatlıdan yemek istiyor Süheyla.",
+            "sentence2": " Süheyla yiyeceği tatlı restoranda servis edilen gibi olsun istiyor."
+        },
+        {
+            "captionID": "avd_78145",
+            "gold_label": 1,
+            "pair_ID": "avd_78145#afv_82376",
+            "sentence1": " Leyla başka bir konu konuşmak istiyor.",
+            "sentence2": " Leyla bu konudan başka herhangi bir konuda konuşmak istiyor."
+        },
+        {
+            "captionID": "ahf_71931",
+            "gold_label": 1,
+            "pair_ID": "ahf_71931#acg_89615",
+            "sentence1": " Her katılımcı bir masaya oturmak gerektiğini düşündü.",
+            "sentence2": " Her katılımcı masaya oturmak gerektiğini düşündü."
+        },
+        {
+            "captionID": "asu_38553",
+            "gold_label": 1,
+            "pair_ID": "asu_38553#awn_47284",
+            "sentence1": " Uygar başka bir adamla dövüşmek istiyor.",
+            "sentence2": " Uygar bu adamdan farklı herhangi bir adamla dövüşmek istiyor."
+        },
+        {
+            "captionID": "aci_98521",
+            "gold_label": 1,
+            "pair_ID": "aci_98521#axs_68287",
+            "sentence1": " bir bardak kırmak ister Pelin.",
+            "sentence2": " Pelin bardak kırmak istiyor."
+        },
+        {
+            "captionID": "aau_71899",
+            "gold_label": 1,
+            "pair_ID": "aau_71899#atm_56292",
+            "sentence1": " Özlem bir öğrencinin bu soruyu çözebileceğini düşünüyor.",
+            "sentence2": " Özlem bu soruyu çözebilen kişi kim olursa onun öğrenci olacağını düşünüyor. "
+        },
+        {
+            "captionID": "ayu_83025",
+            "gold_label": 1,
+            "pair_ID": "ayu_83025#atf_87654",
+            "sentence1": " Eda sadece bir yumurta ile kahvaltı yaparsa hemen acıkır.",
+            "sentence2": " Eda sadece yumurta ile kahvaltı yaparsa hemen acıkır."
+        },
+        {
+            "captionID": "avl_81584",
+            "gold_label": 1,
+            "pair_ID": "avl_81584#azh_83815",
+            "sentence1": " Okulu bırakıp bir işte çalışmak istiyormuş Oğuz.",
+            "sentence2": " Oğuz okulu bırakmak ve herhangi bir işte çalışmak istiyor."
+        },
+        {
+            "captionID": "aue_35617",
+            "gold_label": 0,
+            "pair_ID": "aue_35617#aij_96629",
+            "sentence1": " Selin bir arkadaşını davet etmeyi düşünüyor.",
+            "sentence2": " Selin arkadaş olduğu kişilerden herhangi birini davet etmek istiyor."
+        },
+        {
+            "captionID": "abl_33144",
+            "gold_label": 1,
+            "pair_ID": "abl_33144#acg_82153",
+            "sentence1": " Şeyma en kısa zamanda kızıl saçlı bir kız öpmek istiyor.",
+            "sentence2": " Şeyma en yakın zamanda öpeceği kız kızıl saçlı olsun istiyor."
+        },
+        {
+            "captionID": "ajf_70518",
+            "gold_label": 1,
+            "pair_ID": "ajf_70518#arz_32770",
+            "sentence1": " Gaddar adam fidanlardan birini sökmeyi arzuluyordu.",
+            "sentence2": " Gaddar adam fidan sökmeyi arzuluyordu."
+        },
+        {
+            "captionID": "ajs_53004",
+            "gold_label": 1,
+            "pair_ID": "ajs_53004#afl_60018",
+            "sentence1": " Yaren grupta bir kişinin ajan olduğunu düşünüyor.",
+            "sentence2": " Yaren grupta ajan olduğunu düşünüyordu."
+        },
+        {
+            "captionID": "akj_25372",
+            "gold_label": 0,
+            "pair_ID": "akj_25372#agn_53690",
+            "sentence1": " Büşra bir arkadaşının ondan hoşlandığını düşünüyor.",
+            "sentence2": " Büşra herhangi bir arkadaşının ondan hoşlandığını düşünüyor."
+        },
+        {
+            "captionID": "apb_29078",
+            "gold_label": 1,
+            "pair_ID": "apb_29078#atr_21320",
+            "sentence1": " En kısa zamanda bir araba almak istiyormuş en yakın arkadaşım.",
+            "sentence2": " En kısa zamanda araba almak istiyor en yakın arkadaşım."
+        },
+        {
+            "captionID": "ayp_59218",
+            "gold_label": 1,
+            "pair_ID": "ayp_59218#ahq_38307",
+            "sentence1": " Barış yoğun bir haftasonundan sonra dinlenmek istiyor.",
+            "sentence2": " Dinlenmek istiyor Barış yoğun haftasonundan sonra."
+        },
+        {
+            "captionID": "ajp_77252",
+            "gold_label": 1,
+            "pair_ID": "ajp_77252#aqj_89358",
+            "sentence1": " Mehmet onun gibi bir mühendisle çalışmak istiyor.",
+            "sentence2": " Mehmet onun gibi olan herhangi bir mühendisle çalışmak istiyor."
+        },
+        {
+            "captionID": "aww_66895",
+            "gold_label": 1,
+            "pair_ID": "aww_66895#arp_49062",
+            "sentence1": " Başka bir okuldan mezun olmak istiyor Canan.",
+            "sentence2": " Canan bu okul olmayan başka herhangi bir okuldan mezun olmak istiyor."
+        },
+        {
+            "captionID": "acn_38071",
+            "gold_label": 1,
+            "pair_ID": "acn_38071#amb_44065",
+            "sentence1": " Güzide başka bir ev almak istiyor.",
+            "sentence2": " Güzide bu evden başka herhangi bir ev almak istiyor."
+        },
+        {
+            "captionID": "acf_72790",
+            "gold_label": 1,
+            "pair_ID": "acf_72790#azd_48390",
+            "sentence1": " Aysu şunun gibi bir hamakta uyumak istiyor.",
+            "sentence2": " Aysu şurdakine benzeyen herhangi bir hamakta uyumak istiyor."
+        },
+        {
+            "captionID": "ads_90043",
+            "gold_label": 0,
+            "pair_ID": "ads_90043#any_48297",
+            "sentence1": " Ozan okuduğu bölümü bırakıp başka bir bölüme geçmeyi planlıyormuş.",
+            "sentence2": " Okuduğu bölümü bırakıp herhangi başka bir bölüme geçmeyi planlıyormuş Ozan."
+        },
+        {
+            "captionID": "ajv_69460",
+            "gold_label": 1,
+            "pair_ID": "ajv_69460#aph_69898",
+            "sentence1": " Zülfikar başka bir uzman ile görüşmek istiyor.",
+            "sentence2": " Başka herhangi bir uzmanla görüşmek istiyor Zülfikar."
+        },
+        {
+            "captionID": "aoq_44041",
+            "gold_label": 1,
+            "pair_ID": "aoq_44041#abz_29228",
+            "sentence1": " Hilal başka bir okulda okumak istiyor.",
+            "sentence2": " Hilal bundan başka herhangi bir okulda okumak istiyor."
+        },
+        {
+            "captionID": "adr_45161",
+            "gold_label": 1,
+            "pair_ID": "adr_45161#aoo_89334",
+            "sentence1": " Züleyha yıldız gibi bir oyuncu ile röportaj yapmak istiyor.",
+            "sentence2": " Züleyha yıldız gibi olan herhangi bir oyuncu ile röportaj yapmak istiyor."
+        },
+        {
+            "captionID": "alh_36301",
+            "gold_label": 1,
+            "pair_ID": "alh_36301#apf_12725",
+            "sentence1": " Banu lale'ninki gibi bir evi almak istiyor.",
+            "sentence2": " Lale'ninki gibi olan herhangi bir evi almak istiyor Banu."
+        },
+        {
+            "captionID": "awc_12599",
+            "gold_label": 1,
+            "pair_ID": "awc_12599#aef_70838",
+            "sentence1": " Astrid misafirlerinin eve gelirken bir hediye getirip getirmeyeceğinden şüpheliydi.",
+            "sentence2": " Astrid şüpheliydi misafirlerinin eve gelirken herhangi bir hediye getirip getirmeyeceğinden."
+        },
+        {
+            "captionID": "afa_12090",
+            "gold_label": 1,
+            "pair_ID": "afa_12090#axx_49305",
+            "sentence1": " Selin, büşra'nınki gibi bir çanta almak istiyor.",
+            "sentence2": " Selin Büşra'nınki gibi olan herhangi bir çanta almak istiyor."
+        },
+        {
+            "captionID": "akq_99128",
+            "gold_label": 1,
+            "pair_ID": "akq_99128#agc_36672",
+            "sentence1": " Gülin aysu'nunki gibi bir şirkette çalışmak istiyor.",
+            "sentence2": " Aysu'nunki gibi olan herhangi bir şirkette çalışmak istiyor Gülin."
+        },
+        {
+            "captionID": "agz_25691",
+            "gold_label": 1,
+            "pair_ID": "agz_25691#akw_73740",
+            "sentence1": " Sağduyu sahibi bir satıcı herkesin ödeyebileceği fiyatlar belirlemesi gerektiğini bilirdi.",
+            "sentence2": " Sağduyu sahibi olan herhangi bir satıcı herkesin ödeyebileceği fiyatlar belirlemesi gerektiğini bilirdi."
+        },
+        {
+            "captionID": "ajr_14033",
+            "gold_label": 1,
+            "pair_ID": "ajr_14033#avd_60782",
+            "sentence1": " Deniz başka bir eve taşınmak istiyor.",
+            "sentence2": " Başka herhangi bir eve taşınmak istiyor Deniz."
+        },
+        {
+            "captionID": "afi_21992",
+            "gold_label": 1,
+            "pair_ID": "afi_21992#aqn_86519",
+            "sentence1": " Silmek istiyor başka bir üzücü anıyı Eren.",
+            "sentence2": " Eren sileceği anı üzücü olanlardan herhangi biri olsun istiyor."
+        },
+        {
+            "captionID": "akp_88081",
+            "gold_label": 1,
+            "pair_ID": "akp_88081#ach_43919",
+            "sentence1": " Turan bizim dükkan gibi bir dükkanı işletmek istiyor.",
+            "sentence2": " Bizim dükkan gibi herhangi bir dükkan işletmek istiyor Turan."
+        },
+        {
+            "captionID": "amu_20677",
+            "gold_label": 1,
+            "pair_ID": "amu_20677#agb_79858",
+            "sentence1": " Jülide başka bir kitap okumak istiyor.",
+            "sentence2": " Jülide okuyacağı kitap bu kitaptan başka olsun istiyor."
+        },
+        {
+            "captionID": "awo_22905",
+            "gold_label": 1,
+            "pair_ID": "awo_22905#ajd_10222",
+            "sentence1": " Kimileri bir oduncunun tüm odunları keseceğine inanmıştı.",
+            "sentence2": " Kimileri tüm odunları kesecek olanın oduncu birisi olacağına inanmıştı."
+        },
+        {
+            "captionID": "adf_60281",
+            "gold_label": 0,
+            "pair_ID": "adf_60281#api_16131",
+            "sentence1": " Bir soruya Leyla göz atmak istiyor.",
+            "sentence2": " Leyla göz atacağı şey bir soru olsun istiyor."
+        },
+        {
+            "captionID": "ado_44300",
+            "gold_label": 1,
+            "pair_ID": "ado_44300#aou_45468",
+            "sentence1": " Janset başka bir konudan bahsetmek istiyor.",
+            "sentence2": " Janset bahsedeceği konu bundan farklı olsun istiyor."
+        },
+        {
+            "captionID": "ass_81861",
+            "gold_label": 1,
+            "pair_ID": "ass_81861#aff_89456",
+            "sentence1": " Bir yarış kazanınca kendini kanıtlayacağını sanıyor o kız.",
+            "sentence2": " Yarış kazanınca kendini kanıtlayacağını sanıyor o    kız."
+        },
+        {
+            "captionID": "asz_80537",
+            "gold_label": 1,
+            "pair_ID": "asz_80537#awv_90290",
+            "sentence1": " Ayla bir kahve içmek isterse belki bana uğrar.",
+            "sentence2": " Ayla kahve içmek isterse belki bana uğrar."
+        },
+        {
+            "captionID": "ajt_16512",
+            "gold_label": 1,
+            "pair_ID": "ajt_16512#atp_90370",
+            "sentence1": " Bremen'deki mızıkacı bir mızıkanın kaç lira olduğundan bile habersiz.",
+            "sentence2": " Mızıkanın kaç lira olduğundan bile habersiz Bremen'deki mızıkacı ."
+        }
+    ]
+}
